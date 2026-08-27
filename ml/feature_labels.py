@@ -1,0 +1,40 @@
+"""
+Human-readable labels and descriptions for ML features
+"""
+
+FEATURE_LABELS = {
+    "village_count": "Impacted Village Count",
+    "land_area_acres": "Required Land Area (Acres)",
+    "affected_families": "Affected Family Count",
+    "total_landowners": "Total Landowner Count",
+    "project_budget": "Total Project Budget (INR)",
+    "parcel_count": "Land Parcel Count",
+    "ownership_conflict_ratio": "Ownership Conflict Ratio",
+    "verified_ownership_pct": "Verified Ownership %",
+    "parcel_possession_pct": "Parcel Possession %",
+    "doc_submission_pct": "Document Submission %",
+    "doc_verification_pct": "Document Verification %",
+    "doc_issue_pct": "Document Defect/Issue %",
+    "comp_approved_ratio": "Compensation Approval Ratio",
+    "comp_disbursed_ratio": "Compensation Disbursement %",
+    "comp_beneficiary_paid_pct": "Beneficiaries Paid %",
+    "comp_dispute_count": "Compensation Dispute Count",
+    "legal_total_cases": "Total Legal Cases",
+    "legal_pending_cases": "Pending Legal Cases",
+    "legal_pending_ratio": "Pending Legal Case Ratio",
+    "legal_avg_pending_days": "Avg Legal Case Pending Days",
+    "legal_critical_cases": "Critical Severity Legal Cases",
+    "approval_total_count": "Total Regulatory Approvals",
+    "approval_pending_count": "Pending Clearances",
+    "approval_avg_delay_days": "Avg Approval Delay (Days)",
+    "rr_family_rehab_pct": "R&R Resettlement %",
+    "rr_house_completion_pct": "R&R House Construction %",
+    "stakeholder_response_avg_days": "Stakeholder Response Time (Days)",
+    "stakeholder_pending_requests": "Pending Stakeholder Requests",
+    "admin_avg_processing_days": "Admin Processing Time (Days)",
+    "admin_approval_backlog": "Admin Clearance Backlog",
+    "admin_historical_delay_rate": "Department Historical Delay Rate",
+    "admin_coordination_score": "Inter-Department Coordination Score",
+    "completed_stage_count": "Completed Lifecycle Stages",
+    "avg_stage_delay_days": "Avg Historical Stage Delay (Days)"
+}
