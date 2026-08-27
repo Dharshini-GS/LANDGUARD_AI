@@ -1,0 +1,785 @@
+state,district,project_count,minimum_project_coverage_met
+Andhra Pradesh,Ananthapuramu,1,True
+Andhra Pradesh,Annamayya,1,True
+Andhra Pradesh,Alluri Sitharama Raju,1,True
+Andhra Pradesh,Anakapalli,1,True
+Andhra Pradesh,Bapatla,1,True
+Andhra Pradesh,Chittoor,1,True
+Andhra Pradesh,East Godavari,3,True
+Andhra Pradesh,Eluru,1,True
+Andhra Pradesh,Guntur,2,True
+Andhra Pradesh,Kakinada,1,True
+Andhra Pradesh,NTR,2,True
+Andhra Pradesh,Nandyal,1,True
+Andhra Pradesh,Palnadu,2,True
+Andhra Pradesh,Parvathipuram Manyam,1,True
+Andhra Pradesh,Prakasam,1,True
+Andhra Pradesh,Sri Potti Sriramulu Nellore,1,True
+Andhra Pradesh,Sri Sathya Sai,1,True
+Andhra Pradesh,Srikakulam,2,True
+Andhra Pradesh,Tirupati,2,True
+Andhra Pradesh,Visakhapatnam,2,True
+Andhra Pradesh,Vizianagaram,1,True
+Andhra Pradesh,West Godavari,2,True
+Andhra Pradesh,YSR Kadapa,1,True
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema,1,True
+Andhra Pradesh,Kurnool,2,True
+Arunachal Pradesh,Anjaw,1,True
+Arunachal Pradesh,Changlang,1,True
+Arunachal Pradesh,Dibang Valley,2,True
+Arunachal Pradesh,East Kameng,2,True
+Arunachal Pradesh,East Siang,3,True
+Arunachal Pradesh,Kamle,1,True
+Arunachal Pradesh,Kra Daadi,2,True
+Arunachal Pradesh,Kurung Kumey,1,True
+Arunachal Pradesh,Lepa Rada,1,True
+Arunachal Pradesh,Lohit,1,True
+Arunachal Pradesh,Longding,2,True
+Arunachal Pradesh,Lower Dibang Valley,2,True
+Arunachal Pradesh,Lower Subansiri,1,True
+Arunachal Pradesh,Namsai,1,True
+Arunachal Pradesh,Pakke Kessang,1,True
+Arunachal Pradesh,Papum Pare,2,True
+Arunachal Pradesh,Shi Yomi,2,True
+Arunachal Pradesh,Siang,2,True
+Arunachal Pradesh,Tawang,2,True
+Arunachal Pradesh,Tirap,1,True
+Arunachal Pradesh,Upper Siang,1,True
+Arunachal Pradesh,Upper Subansiri,1,True
+Arunachal Pradesh,West Kameng,3,True
+Arunachal Pradesh,West Siang,1,True
+Arunachal Pradesh,Itanagar,1,True
+Arunachal Pradesh,Bichom,1,True
+Assam,Bajali,1,True
+Assam,Baksa,4,True
+Assam,Barpeta,2,True
+Assam,Biswanath,1,True
+Assam,Bongaigaon,1,True
+Assam,Cachar,1,True
+Assam,Charaideo,3,True
+Assam,Chirang,1,True
+Assam,Darrang,1,True
+Assam,Dhemaji,1,True
+Assam,Dhubri,1,True
+Assam,Dibrugarh,2,True
+Assam,Dima Hasao,1,True
+Assam,Goalpara,1,True
+Assam,Golaghat,1,True
+Assam,Hailakandi,1,True
+Assam,Hojai,2,True
+Assam,Jorhat,2,True
+Assam,Kamrup,1,True
+Assam,Kamrup Metropolitan,1,True
+Assam,Karbi Anglong,2,True
+Assam,Karimganj,2,True
+Assam,Kokrajhar,2,True
+Assam,Lakhimpur,1,True
+Assam,Majuli,2,True
+Assam,Morigaon,2,True
+Assam,Nagaon,1,True
+Assam,Nalbari,2,True
+Assam,Sivasagar,2,True
+Assam,Sonitpur,1,True
+Assam,South Salmara-Mankachar,1,True
+Assam,Tinsukia,1,True
+Assam,Udalguri,2,True
+Assam,West Karbi Anglong,2,True
+Bihar,Araria,1,True
+Bihar,Arwal,1,True
+Bihar,Aurangabad,2,True
+Bihar,Banka,2,True
+Bihar,Begusarai,2,True
+Bihar,Bhagalpur,3,True
+Bihar,Bhojpur,3,True
+Bihar,Buxar,1,True
+Bihar,Darbhanga,4,True
+Bihar,East Champaran,1,True
+Bihar,Gaya,1,True
+Bihar,Gopalganj,3,True
+Bihar,Jamui,2,True
+Bihar,Jehanabad,1,True
+Bihar,Kaimur,1,True
+Bihar,Katihar,1,True
+Bihar,Khagaria,2,True
+Bihar,Kishanganj,2,True
+Bihar,Lakhisarai,1,True
+Bihar,Madhepura,1,True
+Bihar,Madhubani,2,True
+Bihar,Munger,2,True
+Bihar,Muzaffarpur,2,True
+Bihar,Nalanda,2,True
+Bihar,Nawada,3,True
+Bihar,Patna,1,True
+Bihar,Purnia,2,True
+Bihar,Rohtas,1,True
+Bihar,Saharsa,1,True
+Bihar,Samastipur,2,True
+Bihar,Saran,1,True
+Bihar,Sheikhpura,1,True
+Bihar,Sheohar,1,True
+Bihar,Sitamarhi,1,True
+Bihar,Siwan,1,True
+Bihar,Supaul,1,True
+Bihar,Vaishali,1,True
+Bihar,West Champaran,2,True
+Chhattisgarh,Balod,1,True
+Chhattisgarh,Baloda Bazar,3,True
+Chhattisgarh,Balrampur,2,True
+Chhattisgarh,Bastar,1,True
+Chhattisgarh,Bemetara,1,True
+Chhattisgarh,Bijapur,2,True
+Chhattisgarh,Bilaspur,1,True
+Chhattisgarh,Dantewada,1,True
+Chhattisgarh,Dhamtari,1,True
+Chhattisgarh,Durg,1,True
+Chhattisgarh,Gariaband,1,True
+Chhattisgarh,Gaurela-Pendra-Marwahi,1,True
+Chhattisgarh,Janjgir-Champa,1,True
+Chhattisgarh,Jashpur,1,True
+Chhattisgarh,Kabirdham,1,True
+Chhattisgarh,Kanker,4,True
+Chhattisgarh,Kondagaon,1,True
+Chhattisgarh,Korba,1,True
+Chhattisgarh,Koriya,1,True
+Chhattisgarh,Mahasamund,4,True
+Chhattisgarh,Manendragarh-Chirmiri-Bharatpur,1,True
+Chhattisgarh,Mohla-Manpur-Ambagarh Chowki,2,True
+Chhattisgarh,Mungeli,1,True
+Chhattisgarh,Narayanpur,1,True
+Chhattisgarh,Raigarh,1,True
+Chhattisgarh,Raipur,1,True
+Chhattisgarh,Rajnandgaon,2,True
+Chhattisgarh,Sarangarh-Bilaigarh,2,True
+Chhattisgarh,Sakti,1,True
+Chhattisgarh,Sukma,3,True
+Chhattisgarh,Surajpur,2,True
+Chhattisgarh,Surguja,1,True
+Chhattisgarh,Khairagarh-Chhuikhadan-Gandai,1,True
+Goa,North Goa,1,True
+Goa,South Goa,1,True
+Gujarat,Ahmedabad,3,True
+Gujarat,Amreli,1,True
+Gujarat,Anand,1,True
+Gujarat,Aravalli,1,True
+Gujarat,Banaskantha,2,True
+Gujarat,Bharuch,2,True
+Gujarat,Bhavnagar,2,True
+Gujarat,Botad,1,True
+Gujarat,Chhota Udaipur,3,True
+Gujarat,Dahod,1,True
+Gujarat,Dang,1,True
+Gujarat,Devbhumi Dwarka,1,True
+Gujarat,Gandhinagar,1,True
+Gujarat,Gir Somnath,1,True
+Gujarat,Jamnagar,1,True
+Gujarat,Junagadh,3,True
+Gujarat,Kheda,2,True
+Gujarat,Kutch,1,True
+Gujarat,Mahisagar,2,True
+Gujarat,Mehsana,2,True
+Gujarat,Morbi,1,True
+Gujarat,Narmada,1,True
+Gujarat,Navsari,1,True
+Gujarat,Panchmahal,1,True
+Gujarat,Patan,1,True
+Gujarat,Porbandar,1,True
+Gujarat,Rajkot,1,True
+Gujarat,Sabarkantha,1,True
+Gujarat,Surat,1,True
+Gujarat,Surendranagar,1,True
+Gujarat,Tapi,2,True
+Gujarat,Vadodara,1,True
+Gujarat,Valsad,2,True
+Haryana,Ambala,1,True
+Haryana,Bhiwani,1,True
+Haryana,Charkhi Dadri,1,True
+Haryana,Faridabad,1,True
+Haryana,Fatehabad,1,True
+Haryana,Gurugram,1,True
+Haryana,Hisar,1,True
+Haryana,Jhajjar,1,True
+Haryana,Jind,2,True
+Haryana,Kaithal,1,True
+Haryana,Karnal,1,True
+Haryana,Kurukshetra,2,True
+Haryana,Mahendragarh,1,True
+Haryana,Nuh,1,True
+Haryana,Palwal,2,True
+Haryana,Panchkula,1,True
+Haryana,Panipat,2,True
+Haryana,Rewari,2,True
+Haryana,Rohtak,1,True
+Haryana,Sirsa,1,True
+Haryana,Sonipat,1,True
+Haryana,Yamunanagar,1,True
+Himachal Pradesh,Bilaspur,1,True
+Himachal Pradesh,Chamba,1,True
+Himachal Pradesh,Hamirpur,1,True
+Himachal Pradesh,Kangra,1,True
+Himachal Pradesh,Kinnaur,1,True
+Himachal Pradesh,Kullu,1,True
+Himachal Pradesh,Lahaul and Spiti,1,True
+Himachal Pradesh,Mandi,1,True
+Himachal Pradesh,Shimla,1,True
+Himachal Pradesh,Sirmaur,1,True
+Himachal Pradesh,Solan,1,True
+Himachal Pradesh,Una,1,True
+Jharkhand,Bokaro,1,True
+Jharkhand,Chatra,2,True
+Jharkhand,Deoghar,2,True
+Jharkhand,Dhanbad,1,True
+Jharkhand,Dumka,2,True
+Jharkhand,East Singhbhum,1,True
+Jharkhand,Garhwa,1,True
+Jharkhand,Giridih,3,True
+Jharkhand,Godda,1,True
+Jharkhand,Gumla,1,True
+Jharkhand,Hazaribagh,2,True
+Jharkhand,Jamtara,1,True
+Jharkhand,Khunti,1,True
+Jharkhand,Koderma,1,True
+Jharkhand,Latehar,2,True
+Jharkhand,Lohardaga,1,True
+Jharkhand,Pakur,2,True
+Jharkhand,Palamu,2,True
+Jharkhand,Ramgarh,1,True
+Jharkhand,Ranchi,2,True
+Jharkhand,Sahibganj,1,True
+Jharkhand,Seraikela Kharsawan,1,True
+Jharkhand,Simdega,1,True
+Jharkhand,West Singhbhum,1,True
+Karnataka,Bagalkot,1,True
+Karnataka,Ballari,1,True
+Karnataka,Belagavi,2,True
+Karnataka,Bengaluru Rural,2,True
+Karnataka,Bengaluru Urban,1,True
+Karnataka,Bidar,1,True
+Karnataka,Chamarajanagar,1,True
+Karnataka,Chikkaballapura,1,True
+Karnataka,Chikkamagaluru,1,True
+Karnataka,Chitradurga,2,True
+Karnataka,Dakshina Kannada,1,True
+Karnataka,Davanagere,1,True
+Karnataka,Dharwad,1,True
+Karnataka,Gadag,1,True
+Karnataka,Hassan,3,True
+Karnataka,Haveri,1,True
+Karnataka,Kalaburagi,1,True
+Karnataka,Kodagu,1,True
+Karnataka,Kolar,1,True
+Karnataka,Koppal,1,True
+Karnataka,Mandya,1,True
+Karnataka,Mysuru,2,True
+Karnataka,Raichur,2,True
+Karnataka,Ramanagara,3,True
+Karnataka,Shivamogga,3,True
+Karnataka,Tumakuru,1,True
+Karnataka,Udupi,1,True
+Karnataka,Uttara Kannada,2,True
+Karnataka,Vijayanagara,2,True
+Karnataka,Vijayapura,1,True
+Karnataka,Yadgir,1,True
+Kerala,Alappuzha,1,True
+Kerala,Ernakulam,2,True
+Kerala,Idukki,1,True
+Kerala,Kannur,1,True
+Kerala,Kasaragod,1,True
+Kerala,Kollam,2,True
+Kerala,Kottayam,1,True
+Kerala,Kozhikode,2,True
+Kerala,Malappuram,1,True
+Kerala,Palakkad,1,True
+Kerala,Pathanamthitta,1,True
+Kerala,Thiruvananthapuram,2,True
+Kerala,Thrissur,1,True
+Kerala,Wayanad,2,True
+Madhya Pradesh,Agar Malwa,1,True
+Madhya Pradesh,Alirajpur,1,True
+Madhya Pradesh,Anuppur,2,True
+Madhya Pradesh,Ashoknagar,1,True
+Madhya Pradesh,Balaghat,3,True
+Madhya Pradesh,Barwani,1,True
+Madhya Pradesh,Betul,1,True
+Madhya Pradesh,Bhind,3,True
+Madhya Pradesh,Bhopal,1,True
+Madhya Pradesh,Burhanpur,2,True
+Madhya Pradesh,Chhatarpur,3,True
+Madhya Pradesh,Chhindwara,5,True
+Madhya Pradesh,Damoh,2,True
+Madhya Pradesh,Datia,2,True
+Madhya Pradesh,Dewas,4,True
+Madhya Pradesh,Dhar,1,True
+Madhya Pradesh,Dindori,2,True
+Madhya Pradesh,Guna,1,True
+Madhya Pradesh,Gwalior,1,True
+Madhya Pradesh,Harda,3,True
+Madhya Pradesh,Narmadapuram,2,True
+Madhya Pradesh,Indore,3,True
+Madhya Pradesh,Jabalpur,1,True
+Madhya Pradesh,Jhabua,1,True
+Madhya Pradesh,Katni,1,True
+Madhya Pradesh,Khandwa,2,True
+Madhya Pradesh,Khargone,1,True
+Madhya Pradesh,Mandla,1,True
+Madhya Pradesh,Mandsaur,3,True
+Madhya Pradesh,Morena,3,True
+Madhya Pradesh,Narsinghpur,2,True
+Madhya Pradesh,Neemuch,2,True
+Madhya Pradesh,Niwari,2,True
+Madhya Pradesh,Panna,3,True
+Madhya Pradesh,Raisen,2,True
+Madhya Pradesh,Rajgarh,2,True
+Madhya Pradesh,Ratlam,3,True
+Madhya Pradesh,Rewa,2,True
+Madhya Pradesh,Sagar,1,True
+Madhya Pradesh,Satna,1,True
+Madhya Pradesh,Sehore,1,True
+Madhya Pradesh,Seoni,2,True
+Madhya Pradesh,Shahdol,3,True
+Madhya Pradesh,Shajapur,4,True
+Madhya Pradesh,Sheopur,1,True
+Madhya Pradesh,Shivpuri,2,True
+Madhya Pradesh,Sidhi,1,True
+Madhya Pradesh,Singrauli,2,True
+Madhya Pradesh,Tikamgarh,1,True
+Madhya Pradesh,Ujjain,1,True
+Madhya Pradesh,Umaria,1,True
+Madhya Pradesh,Vidisha,1,True
+Madhya Pradesh,Mauganj,2,True
+Madhya Pradesh,Maihar,2,True
+Madhya Pradesh,Pandhurna,2,True
+Maharashtra,Ahilyanagar,1,True
+Maharashtra,Akola,1,True
+Maharashtra,Amravati,2,True
+Maharashtra,Chhatrapati Sambhajinagar,1,True
+Maharashtra,Beed,2,True
+Maharashtra,Bhandara,1,True
+Maharashtra,Buldhana,1,True
+Maharashtra,Chandrapur,1,True
+Maharashtra,Dharashiv,1,True
+Maharashtra,Dhule,2,True
+Maharashtra,Gadchiroli,3,True
+Maharashtra,Gondia,2,True
+Maharashtra,Hingoli,1,True
+Maharashtra,Jalgaon,2,True
+Maharashtra,Jalna,1,True
+Maharashtra,Kolhapur,2,True
+Maharashtra,Latur,1,True
+Maharashtra,Mumbai City,1,True
+Maharashtra,Mumbai Suburban,1,True
+Maharashtra,Nagpur,2,True
+Maharashtra,Nanded,2,True
+Maharashtra,Nandurbar,1,True
+Maharashtra,Nashik,1,True
+Maharashtra,Palghar,1,True
+Maharashtra,Parbhani,1,True
+Maharashtra,Pune,1,True
+Maharashtra,Raigad,2,True
+Maharashtra,Ratnagiri,1,True
+Maharashtra,Sangli,1,True
+Maharashtra,Satara,1,True
+Maharashtra,Sindhudurg,1,True
+Maharashtra,Solapur,1,True
+Maharashtra,Thane,2,True
+Maharashtra,Wardha,2,True
+Maharashtra,Washim,1,True
+Maharashtra,Yavatmal,1,True
+Manipur,Bishnupur,1,True
+Manipur,Chandel,1,True
+Manipur,Churachandpur,1,True
+Manipur,Imphal East,1,True
+Manipur,Imphal West,1,True
+Manipur,Jiribam,1,True
+Manipur,Kakching,1,True
+Manipur,Kamjong,1,True
+Manipur,Kangpokpi,1,True
+Manipur,Noney,2,True
+Manipur,Pherzawl,1,True
+Manipur,Senapati,1,True
+Manipur,Tamenglong,1,True
+Manipur,Tengnoupal,1,True
+Manipur,Thoubal,1,True
+Manipur,Ukhrul,1,True
+Meghalaya,East Garo Hills,1,True
+Meghalaya,East Jaintia Hills,1,True
+Meghalaya,East Khasi Hills,1,True
+Meghalaya,Eastern West Khasi Hills,1,True
+Meghalaya,North Garo Hills,1,True
+Meghalaya,Ri Bhoi,1,True
+Meghalaya,South Garo Hills,1,True
+Meghalaya,South West Garo Hills,1,True
+Meghalaya,South West Khasi Hills,1,True
+Meghalaya,West Garo Hills,2,True
+Meghalaya,West Jaintia Hills,1,True
+Meghalaya,West Khasi Hills,1,True
+Mizoram,Aizawl,1,True
+Mizoram,Champhai,2,True
+Mizoram,Hnahthial,1,True
+Mizoram,Khawzawl,2,True
+Mizoram,Kolasib,1,True
+Mizoram,Lawngtlai,1,True
+Mizoram,Lunglei,1,True
+Mizoram,Mamit,1,True
+Mizoram,Saiha,1,True
+Mizoram,Saitual,1,True
+Mizoram,Serchhip,1,True
+Nagaland,Chumoukedima,1,True
+Nagaland,Dimapur,1,True
+Nagaland,Kiphire,1,True
+Nagaland,Kohima,1,True
+Nagaland,Longleng,1,True
+Nagaland,Mokokchung,1,True
+Nagaland,Mon,1,True
+Nagaland,Niuland,1,True
+Nagaland,Noklak,1,True
+Nagaland,Peren,1,True
+Nagaland,Phek,1,True
+Nagaland,Shamator,1,True
+Nagaland,Tseminyu,1,True
+Nagaland,Tuensang,1,True
+Nagaland,Wokha,1,True
+Nagaland,Zunheboto,1,True
+Odisha,Angul,1,True
+Odisha,Balangir,1,True
+Odisha,Balasore,1,True
+Odisha,Bargarh,1,True
+Odisha,Bhadrak,2,True
+Odisha,Boudh,1,True
+Odisha,Cuttack,2,True
+Odisha,Deogarh,2,True
+Odisha,Dhenkanal,2,True
+Odisha,Gajapati,1,True
+Odisha,Ganjam,2,True
+Odisha,Jagatsinghpur,1,True
+Odisha,Jajpur,2,True
+Odisha,Jharsuguda,1,True
+Odisha,Kalahandi,1,True
+Odisha,Kandhamal,1,True
+Odisha,Kendrapara,2,True
+Odisha,Kendujhar,4,True
+Odisha,Khordha,1,True
+Odisha,Koraput,2,True
+Odisha,Malkangiri,1,True
+Odisha,Mayurbhanj,1,True
+Odisha,Nabarangpur,1,True
+Odisha,Nayagarh,2,True
+Odisha,Nuapada,1,True
+Odisha,Puri,3,True
+Odisha,Rayagada,2,True
+Odisha,Sambalpur,1,True
+Odisha,Subarnapur,2,True
+Odisha,Sundargarh,1,True
+Punjab,Amritsar,2,True
+Punjab,Barnala,1,True
+Punjab,Bathinda,1,True
+Punjab,Faridkot,3,True
+Punjab,Fatehgarh Sahib,1,True
+Punjab,Fazilka,2,True
+Punjab,Firozpur,1,True
+Punjab,Gurdaspur,1,True
+Punjab,Hoshiarpur,2,True
+Punjab,Jalandhar,2,True
+Punjab,Kapurthala,1,True
+Punjab,Ludhiana,2,True
+Punjab,Malerkotla,1,True
+Punjab,Mansa,1,True
+Punjab,Moga,1,True
+Punjab,Pathankot,1,True
+Punjab,Patiala,1,True
+Punjab,Rupnagar,1,True
+Punjab,Sahibzada Ajit Singh Nagar,2,True
+Punjab,Sangrur,1,True
+Punjab,Shahid Bhagat Singh Nagar,2,True
+Punjab,Sri Muktsar Sahib,1,True
+Punjab,Tarn Taran,1,True
+Rajasthan,Ajmer,1,True
+Rajasthan,Alwar,2,True
+Rajasthan,Banswara,1,True
+Rajasthan,Baran,3,True
+Rajasthan,Barmer,3,True
+Rajasthan,Bharatpur,1,True
+Rajasthan,Bhilwara,3,True
+Rajasthan,Bikaner,2,True
+Rajasthan,Bundi,2,True
+Rajasthan,Chittorgarh,1,True
+Rajasthan,Churu,2,True
+Rajasthan,Dausa,2,True
+Rajasthan,Dholpur,2,True
+Rajasthan,Dungarpur,1,True
+Rajasthan,Hanumangarh,2,True
+Rajasthan,Jaipur,1,True
+Rajasthan,Jaipur Rural,1,True
+Rajasthan,Jaisalmer,1,True
+Rajasthan,Jalore,3,True
+Rajasthan,Jhalawar,1,True
+Rajasthan,Jhunjhunu,2,True
+Rajasthan,Jodhpur,2,True
+Rajasthan,Jodhpur Rural,2,True
+Rajasthan,Karauli,2,True
+Rajasthan,Kota,1,True
+Rajasthan,Nagaur,1,True
+Rajasthan,Pali,1,True
+Rajasthan,Pratapgarh,2,True
+Rajasthan,Rajsamand,1,True
+Rajasthan,Sawai Madhopur,3,True
+Rajasthan,Sikar,2,True
+Rajasthan,Sirohi,1,True
+Rajasthan,Sri Ganganagar,1,True
+Rajasthan,Tonk,3,True
+Rajasthan,Udaipur,1,True
+Rajasthan,Anupgarh,2,True
+Rajasthan,Balotra,1,True
+Rajasthan,Beawar,2,True
+Rajasthan,Deeg,2,True
+Rajasthan,Didwana-Kuchaman,2,True
+Rajasthan,Dudu,3,True
+Rajasthan,Gangapur City,1,True
+Rajasthan,Kekri,3,True
+Rajasthan,Kotputli-Behror,1,True
+Rajasthan,Khairthal-Tijara,1,True
+Rajasthan,Neem Ka Thana,1,True
+Rajasthan,Phalodi,3,True
+Rajasthan,Salumbar,2,True
+Rajasthan,Sanchore,1,True
+Rajasthan,Shahpura,2,True
+Sikkim,Gangtok,1,True
+Sikkim,Mangan,1,True
+Sikkim,Namchi,1,True
+Sikkim,Pakyong,1,True
+Sikkim,Soreng,1,True
+Sikkim,Gyalshing,1,True
+Tamil Nadu,Ariyalur,4,True
+Tamil Nadu,Chengalpattu,4,True
+Tamil Nadu,Chennai,2,True
+Tamil Nadu,Coimbatore,2,True
+Tamil Nadu,Cuddalore,3,True
+Tamil Nadu,Dharmapuri,1,True
+Tamil Nadu,Dindigul,1,True
+Tamil Nadu,Erode,2,True
+Tamil Nadu,Kallakurichi,3,True
+Tamil Nadu,Kanchipuram,1,True
+Tamil Nadu,Kanyakumari,3,True
+Tamil Nadu,Karur,1,True
+Tamil Nadu,Krishnagiri,1,True
+Tamil Nadu,Madurai,3,True
+Tamil Nadu,Mayiladuthurai,1,True
+Tamil Nadu,Nagapattinam,2,True
+Tamil Nadu,Namakkal,1,True
+Tamil Nadu,Nilgiris,1,True
+Tamil Nadu,Perambalur,1,True
+Tamil Nadu,Pudukkottai,3,True
+Tamil Nadu,Ramanathapuram,2,True
+Tamil Nadu,Ranipet,2,True
+Tamil Nadu,Salem,2,True
+Tamil Nadu,Sivaganga,2,True
+Tamil Nadu,Tenkasi,1,True
+Tamil Nadu,Thanjavur,1,True
+Tamil Nadu,Theni,1,True
+Tamil Nadu,Thoothukudi,1,True
+Tamil Nadu,Tiruchirappalli,1,True
+Tamil Nadu,Tirunelveli,2,True
+Tamil Nadu,Tirupathur,1,True
+Tamil Nadu,Tiruppur,1,True
+Tamil Nadu,Tiruvallur,1,True
+Tamil Nadu,Tiruvannamalai,2,True
+Tamil Nadu,Tiruvarur,1,True
+Tamil Nadu,Vellore,1,True
+Tamil Nadu,Viluppuram,1,True
+Tamil Nadu,Virudhunagar,2,True
+Telangana,Adilabad,2,True
+Telangana,Bhadradri Kothagudem,1,True
+Telangana,Hanamkonda,1,True
+Telangana,Hyderabad,1,True
+Telangana,Jagtial,1,True
+Telangana,Jangaon,1,True
+Telangana,Jayashankar Bhupalpally,3,True
+Telangana,Jogulamba Gadwal,1,True
+Telangana,Kamareddy,1,True
+Telangana,Karimnagar,1,True
+Telangana,Khammam,4,True
+Telangana,Kumuram Bheem,2,True
+Telangana,Mahabubabad,1,True
+Telangana,Mahabubnagar,1,True
+Telangana,Mancherial,1,True
+Telangana,Medak,3,True
+Telangana,Medchal-Malkajgiri,3,True
+Telangana,Mulugu,1,True
+Telangana,Nagarkurnool,1,True
+Telangana,Nalgonda,2,True
+Telangana,Narayanpet,2,True
+Telangana,Nirmal,1,True
+Telangana,Nizamabad,1,True
+Telangana,Peddapalli,1,True
+Telangana,Rajanna Sircilla,2,True
+Telangana,Rangareddy,2,True
+Telangana,Sangareddy,2,True
+Telangana,Siddipet,1,True
+Telangana,Suryapet,1,True
+Telangana,Vikarabad,1,True
+Telangana,Wanaparthy,1,True
+Telangana,Warangal,1,True
+Telangana,Yadadri Bhuvanagiri,2,True
+Tripura,Dhalai,1,True
+Tripura,Gomati,1,True
+Tripura,Khowai,1,True
+Tripura,North Tripura,1,True
+Tripura,Sepahijala,1,True
+Tripura,South Tripura,1,True
+Tripura,Unakoti,1,True
+Tripura,West Tripura,1,True
+Uttar Pradesh,Agra,3,True
+Uttar Pradesh,Aligarh,4,True
+Uttar Pradesh,Ambedkar Nagar,2,True
+Uttar Pradesh,Amethi,2,True
+Uttar Pradesh,Amroha,2,True
+Uttar Pradesh,Auraiya,2,True
+Uttar Pradesh,Ayodhya,1,True
+Uttar Pradesh,Azamgarh,2,True
+Uttar Pradesh,Baghpat,3,True
+Uttar Pradesh,Bahraich,3,True
+Uttar Pradesh,Ballia,2,True
+Uttar Pradesh,Balrampur,3,True
+Uttar Pradesh,Banda,1,True
+Uttar Pradesh,Barabanki,1,True
+Uttar Pradesh,Bareilly,4,True
+Uttar Pradesh,Basti,2,True
+Uttar Pradesh,Bhadohi,3,True
+Uttar Pradesh,Bijnor,2,True
+Uttar Pradesh,Budaun,1,True
+Uttar Pradesh,Bulandshahr,2,True
+Uttar Pradesh,Chandauli,1,True
+Uttar Pradesh,Chitrakoot,1,True
+Uttar Pradesh,Deoria,4,True
+Uttar Pradesh,Etah,2,True
+Uttar Pradesh,Etawah,2,True
+Uttar Pradesh,Farrukhabad,3,True
+Uttar Pradesh,Fatehpur,5,True
+Uttar Pradesh,Firozabad,3,True
+Uttar Pradesh,Gautam Buddha Nagar,3,True
+Uttar Pradesh,Ghaziabad,3,True
+Uttar Pradesh,Ghazipur,1,True
+Uttar Pradesh,Gonda,2,True
+Uttar Pradesh,Gorakhpur,2,True
+Uttar Pradesh,Hamirpur,2,True
+Uttar Pradesh,Hapur,2,True
+Uttar Pradesh,Hardoi,3,True
+Uttar Pradesh,Hathras,1,True
+Uttar Pradesh,Jalaun,1,True
+Uttar Pradesh,Jaunpur,2,True
+Uttar Pradesh,Jhansi,2,True
+Uttar Pradesh,Kannauj,3,True
+Uttar Pradesh,Kanpur Dehat,2,True
+Uttar Pradesh,Kanpur Nagar,3,True
+Uttar Pradesh,Kasganj,2,True
+Uttar Pradesh,Kaushambi,2,True
+Uttar Pradesh,Kheri,3,True
+Uttar Pradesh,Kushinagar,2,True
+Uttar Pradesh,Lalitpur,1,True
+Uttar Pradesh,Lucknow,4,True
+Uttar Pradesh,Maharajganj,1,True
+Uttar Pradesh,Mahoba,1,True
+Uttar Pradesh,Mainpuri,3,True
+Uttar Pradesh,Mathura,2,True
+Uttar Pradesh,Mau,3,True
+Uttar Pradesh,Meerut,6,True
+Uttar Pradesh,Mirzapur,3,True
+Uttar Pradesh,Moradabad,2,True
+Uttar Pradesh,Muzaffarnagar,3,True
+Uttar Pradesh,Pilibhit,4,True
+Uttar Pradesh,Pratapgarh,1,True
+Uttar Pradesh,Prayagraj,3,True
+Uttar Pradesh,Raebareli,1,True
+Uttar Pradesh,Rampur,2,True
+Uttar Pradesh,Saharanpur,2,True
+Uttar Pradesh,Sambhal,2,True
+Uttar Pradesh,Sant Kabir Nagar,3,True
+Uttar Pradesh,Shahjahanpur,1,True
+Uttar Pradesh,Shamli,3,True
+Uttar Pradesh,Shravasti,4,True
+Uttar Pradesh,Siddharthnagar,3,True
+Uttar Pradesh,Sitapur,1,True
+Uttar Pradesh,Sonbhadra,5,True
+Uttar Pradesh,Sultanpur,2,True
+Uttar Pradesh,Unnao,2,True
+Uttar Pradesh,Varanasi,1,True
+Uttarakhand,Almora,1,True
+Uttarakhand,Bageshwar,1,True
+Uttarakhand,Chamoli,2,True
+Uttarakhand,Champawat,1,True
+Uttarakhand,Dehradun,1,True
+Uttarakhand,Haridwar,2,True
+Uttarakhand,Nainital,2,True
+Uttarakhand,Pauri Garhwal,1,True
+Uttarakhand,Pithoragarh,2,True
+Uttarakhand,Rudraprayag,1,True
+Uttarakhand,Tehri Garhwal,1,True
+Uttarakhand,Udham Singh Nagar,1,True
+Uttarakhand,Uttarkashi,1,True
+West Bengal,Alipurduar,2,True
+West Bengal,Bankura,2,True
+West Bengal,Birbhum,1,True
+West Bengal,Cooch Behar,1,True
+West Bengal,Dakshin Dinajpur,1,True
+West Bengal,Darjeeling,2,True
+West Bengal,Hooghly,2,True
+West Bengal,Howrah,1,True
+West Bengal,Jalpaiguri,2,True
+West Bengal,Jhargram,1,True
+West Bengal,Kalimpong,2,True
+West Bengal,Kolkata,1,True
+West Bengal,Malda,1,True
+West Bengal,Murshidabad,2,True
+West Bengal,Nadia,1,True
+West Bengal,North 24 Parganas,1,True
+West Bengal,Paschim Bardhaman,1,True
+West Bengal,Paschim Medinipur,1,True
+West Bengal,Purba Bardhaman,1,True
+West Bengal,Purba Medinipur,1,True
+West Bengal,Purulia,1,True
+West Bengal,South 24 Parganas,1,True
+West Bengal,Uttar Dinajpur,1,True
+Andaman and Nicobar Islands,Nicobar,1,True
+Andaman and Nicobar Islands,North and Middle Andaman,1,True
+Andaman and Nicobar Islands,South Andaman,1,True
+Chandigarh,Chandigarh,1,True
+Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,1,True
+Dadra and Nagar Haveli and Daman and Diu,Daman,1,True
+Dadra and Nagar Haveli and Daman and Diu,Diu,1,True
+Delhi,Central Delhi,1,True
+Delhi,East Delhi,1,True
+Delhi,New Delhi,1,True
+Delhi,North Delhi,1,True
+Delhi,North East Delhi,1,True
+Delhi,North West Delhi,1,True
+Delhi,Shahdara,1,True
+Delhi,South Delhi,2,True
+Delhi,South East Delhi,1,True
+Delhi,South West Delhi,1,True
+Delhi,West Delhi,1,True
+Jammu and Kashmir,Anantnag,2,True
+Jammu and Kashmir,Bandipora,1,True
+Jammu and Kashmir,Baramulla,1,True
+Jammu and Kashmir,Budgam,1,True
+Jammu and Kashmir,Doda,1,True
+Jammu and Kashmir,Ganderbal,3,True
+Jammu and Kashmir,Jammu,1,True
+Jammu and Kashmir,Kathua,1,True
+Jammu and Kashmir,Kishtwar,1,True
+Jammu and Kashmir,Kulgam,1,True
+Jammu and Kashmir,Kupwara,1,True
+Jammu and Kashmir,Poonch,1,True
+Jammu and Kashmir,Pulwama,1,True
+Jammu and Kashmir,Rajouri,1,True
+Jammu and Kashmir,Ramban,1,True
+Jammu and Kashmir,Reasi,1,True
+Jammu and Kashmir,Samba,1,True
+Jammu and Kashmir,Shopian,1,True
+Jammu and Kashmir,Srinagar,1,True
+Jammu and Kashmir,Udhampur,1,True
+Ladakh,Kargil,1,True
+Ladakh,Leh,1,True
+Lakshadweep,Lakshadweep,1,True
+Puducherry,Karaikal,1,True
+Puducherry,Mahe,1,True
+Puducherry,Puducherry,1,True
+Puducherry,Yanam,1,True

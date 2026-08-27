@@ -1,0 +1,1201 @@
+geo_id,project_id,latitude,longitude,state,district,village,location_name
+GEO-000001,LG-000001,14.793754,83.83712,Andhra Pradesh,Ananthapuramu,Nandpur (Ananthapuramu),Ananthapuramu Infrastructure Site 1
+GEO-000002,LG-000002,16.316685,78.6685,Andhra Pradesh,Annamayya,Haripur (Annamayya),Annamayya Infrastructure Site 2
+GEO-000003,LG-000003,14.516835,80.844409,Andhra Pradesh,Alluri Sitharama Raju,Shivpur (Alluri Sitharama Raju),Alluri Sitharama Raju Infrastructure Site 3
+GEO-000004,LG-000004,16.530312,83.784015,Andhra Pradesh,Anakapalli,Rampur (Anakapalli),Anakapalli Infrastructure Site 4
+GEO-000005,LG-000005,15.18804,82.535469,Andhra Pradesh,Bapatla,Chandpur (Bapatla),Bapatla Infrastructure Site 5
+GEO-000006,LG-000006,14.562648,82.58306,Andhra Pradesh,Chittoor,Rampur (Chittoor),Chittoor Infrastructure Site 6
+GEO-000007,LG-000007,18.84955,81.496289,Andhra Pradesh,East Godavari,Haripur (East Godavari),East Godavari Infrastructure Site 7
+GEO-000008,LG-000008,17.107314,81.962081,Andhra Pradesh,Eluru,Sultanpur (Eluru),Eluru Infrastructure Site 8
+GEO-000009,LG-000009,18.449333,79.480088,Andhra Pradesh,Guntur,Shivpur (Guntur),Guntur Infrastructure Site 9
+GEO-000010,LG-000010,17.840366,82.381013,Andhra Pradesh,Kakinada,Kalyanpur (Kakinada),Kakinada Infrastructure Site 10
+GEO-000011,LG-000011,17.744688,77.324936,Andhra Pradesh,NTR,Bhavanipur (NTR),NTR Infrastructure Site 11
+GEO-000012,LG-000012,17.664568,81.690867,Andhra Pradesh,Nandyal,Gopalpur (Nandyal),Nandyal Infrastructure Site 12
+GEO-000013,LG-000013,15.686572,81.290677,Andhra Pradesh,Palnadu,Haripur (Palnadu),Palnadu Infrastructure Site 13
+GEO-000014,LG-000014,13.527629,81.461169,Andhra Pradesh,Parvathipuram Manyam,Haripur (Parvathipuram Manyam),Parvathipuram Manyam Infrastructure Site 14
+GEO-000015,LG-000015,19.004849,83.975998,Andhra Pradesh,Prakasam,Gopalpur (Prakasam),Prakasam Infrastructure Site 15
+GEO-000016,LG-000016,14.39465,77.757197,Andhra Pradesh,Sri Potti Sriramulu Nellore,Haripur (Sri Potti Sriramulu Nellore),Sri Potti Sriramulu Nellore Infrastructure Site 16
+GEO-000017,LG-000017,15.353014,79.586463,Andhra Pradesh,Sri Sathya Sai,Kishanpur (Sri Sathya Sai),Sri Sathya Sai Infrastructure Site 17
+GEO-000018,LG-000018,14.245221,80.469141,Andhra Pradesh,Srikakulam,Gopalpur (Srikakulam),Srikakulam Infrastructure Site 18
+GEO-000019,LG-000019,15.742568,83.791033,Andhra Pradesh,Tirupati,Nandpur (Tirupati),Tirupati Infrastructure Site 19
+GEO-000020,LG-000020,14.388911,78.855646,Andhra Pradesh,Visakhapatnam,Bhavanipur (Visakhapatnam),Visakhapatnam Infrastructure Site 20
+GEO-000021,LG-000021,16.046294,77.565471,Andhra Pradesh,Vizianagaram,Kishanpur (Vizianagaram),Vizianagaram Infrastructure Site 21
+GEO-000022,LG-000022,18.736062,84.645518,Andhra Pradesh,West Godavari,Anandpur (West Godavari),West Godavari Infrastructure Site 22
+GEO-000023,LG-000023,12.690898,78.535985,Andhra Pradesh,YSR Kadapa,Fatehpur (YSR Kadapa),YSR Kadapa Infrastructure Site 23
+GEO-000024,LG-000024,16.88136,78.207882,Andhra Pradesh,Dr. B.R. Ambedkar Konaseema,Gopalpur (Dr. B.R. Ambedkar Konaseema),Dr. B.R. Ambedkar Konaseema Infrastructure Site 24
+GEO-000025,LG-000025,15.575438,77.699927,Andhra Pradesh,Kurnool,Bhavanipur (Kurnool),Kurnool Infrastructure Site 25
+GEO-000026,LG-000026,27.116159,93.633667,Arunachal Pradesh,Anjaw,Bhavanipur (Anjaw),Anjaw Infrastructure Site 26
+GEO-000027,LG-000027,26.927382,96.768765,Arunachal Pradesh,Changlang,Nandpur (Changlang),Changlang Infrastructure Site 27
+GEO-000028,LG-000028,26.577916,94.551556,Arunachal Pradesh,Dibang Valley,Anandpur (Dibang Valley),Dibang Valley Infrastructure Site 28
+GEO-000029,LG-000029,27.014271,95.481825,Arunachal Pradesh,East Kameng,Sultanpur (East Kameng),East Kameng Infrastructure Site 29
+GEO-000030,LG-000030,29.320855,97.225907,Arunachal Pradesh,East Siang,Kishanpur (East Siang),East Siang Infrastructure Site 30
+GEO-000031,LG-000031,26.942276,93.172018,Arunachal Pradesh,Kamle,Bhavanipur (Kamle),Kamle Infrastructure Site 31
+GEO-000032,LG-000032,28.22595,91.999052,Arunachal Pradesh,Kra Daadi,Nandpur (Kra Daadi),Kra Daadi Infrastructure Site 32
+GEO-000033,LG-000033,27.000805,93.117477,Arunachal Pradesh,Kurung Kumey,Sultanpur (Kurung Kumey),Kurung Kumey Infrastructure Site 33
+GEO-000034,LG-000034,28.729404,93.862374,Arunachal Pradesh,Lepa Rada,Rampur (Lepa Rada),Lepa Rada Infrastructure Site 34
+GEO-000035,LG-000035,27.293497,96.447057,Arunachal Pradesh,Lohit,Haripur (Lohit),Lohit Infrastructure Site 35
+GEO-000036,LG-000036,29.186431,95.257732,Arunachal Pradesh,Longding,Devpur (Longding),Longding Infrastructure Site 36
+GEO-000037,LG-000037,28.384956,94.720401,Arunachal Pradesh,Lower Dibang Valley,Shivpur (Lower Dibang Valley),Lower Dibang Valley Infrastructure Site 37
+GEO-000038,LG-000038,26.669945,95.615356,Arunachal Pradesh,Lower Subansiri,Govindpur (Lower Subansiri),Lower Subansiri Infrastructure Site 38
+GEO-000039,LG-000039,29.233209,93.439239,Arunachal Pradesh,Namsai,Haripur (Namsai),Namsai Infrastructure Site 39
+GEO-000040,LG-000040,28.158683,95.364096,Arunachal Pradesh,Pakke Kessang,Madhavpur (Pakke Kessang),Pakke Kessang Infrastructure Site 40
+GEO-000041,LG-000041,29.36608,97.078391,Arunachal Pradesh,Papum Pare,Gopalpur (Papum Pare),Papum Pare Infrastructure Site 41
+GEO-000042,LG-000042,27.25698,93.491024,Arunachal Pradesh,Shi Yomi,Nandpur (Shi Yomi),Shi Yomi Infrastructure Site 42
+GEO-000043,LG-000043,26.607234,92.326124,Arunachal Pradesh,Siang,Madhavpur (Siang),Siang Infrastructure Site 43
+GEO-000044,LG-000044,28.258343,91.849969,Arunachal Pradesh,Tawang,Rampur (Tawang),Tawang Infrastructure Site 44
+GEO-000045,LG-000045,28.928275,91.504258,Arunachal Pradesh,Tirap,Chandpur (Tirap),Tirap Infrastructure Site 45
+GEO-000046,LG-000046,28.257352,92.80619,Arunachal Pradesh,Upper Siang,Shivpur (Upper Siang),Upper Siang Infrastructure Site 46
+GEO-000047,LG-000047,29.285819,94.733085,Arunachal Pradesh,Upper Subansiri,Shivpur (Upper Subansiri),Upper Subansiri Infrastructure Site 47
+GEO-000048,LG-000048,28.370788,91.800226,Arunachal Pradesh,West Kameng,Fatehpur (West Kameng),West Kameng Infrastructure Site 48
+GEO-000049,LG-000049,28.706329,94.63025,Arunachal Pradesh,West Siang,Devpur (West Siang),West Siang Infrastructure Site 49
+GEO-000050,LG-000050,26.70873,93.863303,Arunachal Pradesh,Itanagar,Rampur (Itanagar),Itanagar Infrastructure Site 50
+GEO-000051,LG-000051,26.988239,93.212691,Arunachal Pradesh,Bichom,Kishanpur (Bichom),Bichom Infrastructure Site 51
+GEO-000052,LG-000052,24.333532,90.402022,Assam,Bajali,Anandpur (Bajali),Bajali Infrastructure Site 52
+GEO-000053,LG-000053,27.026355,92.534625,Assam,Baksa,Anandpur (Baksa),Baksa Infrastructure Site 53
+GEO-000054,LG-000054,24.680012,90.67788,Assam,Barpeta,Govindpur (Barpeta),Barpeta Infrastructure Site 54
+GEO-000055,LG-000055,25.428743,93.637163,Assam,Biswanath,Rampur (Biswanath),Biswanath Infrastructure Site 55
+GEO-000056,LG-000056,24.952035,90.310194,Assam,Bongaigaon,Nandpur (Bongaigaon),Bongaigaon Infrastructure Site 56
+GEO-000057,LG-000057,24.829126,90.907534,Assam,Cachar,Gopalpur (Cachar),Cachar Infrastructure Site 57
+GEO-000058,LG-000058,26.532725,93.643564,Assam,Charaideo,Haripur (Charaideo),Charaideo Infrastructure Site 58
+GEO-000059,LG-000059,26.417268,89.948439,Assam,Chirang,Anandpur (Chirang),Chirang Infrastructure Site 59
+GEO-000060,LG-000060,27.838897,93.012714,Assam,Darrang,Haripur (Darrang),Darrang Infrastructure Site 60
+GEO-000061,LG-000061,27.70957,94.487698,Assam,Dhemaji,Kalyanpur (Dhemaji),Dhemaji Infrastructure Site 61
+GEO-000062,LG-000062,27.724118,92.188501,Assam,Dhubri,Anandpur (Dhubri),Dhubri Infrastructure Site 62
+GEO-000063,LG-000063,27.828978,94.428002,Assam,Dibrugarh,Chandpur (Dibrugarh),Dibrugarh Infrastructure Site 63
+GEO-000064,LG-000064,25.367499,93.135508,Assam,Dima Hasao,Gopalpur (Dima Hasao),Dima Hasao Infrastructure Site 64
+GEO-000065,LG-000065,24.294146,93.682345,Assam,Goalpara,Fatehpur (Goalpara),Goalpara Infrastructure Site 65
+GEO-000066,LG-000066,26.611262,95.454768,Assam,Golaghat,Devpur (Golaghat),Golaghat Infrastructure Site 66
+GEO-000067,LG-000067,26.546481,89.782188,Assam,Hailakandi,Rampur (Hailakandi),Hailakandi Infrastructure Site 67
+GEO-000068,LG-000068,27.392152,93.798067,Assam,Hojai,Devpur (Hojai),Hojai Infrastructure Site 68
+GEO-000069,LG-000069,26.174723,93.777778,Assam,Jorhat,Shivpur (Jorhat),Jorhat Infrastructure Site 69
+GEO-000070,LG-000070,26.162184,93.447905,Assam,Kamrup,Fatehpur (Kamrup),Kamrup Infrastructure Site 70
+GEO-000071,LG-000071,26.834413,92.234006,Assam,Kamrup Metropolitan,Shivpur (Kamrup Metropolitan),Kamrup Metropolitan Infrastructure Site 71
+GEO-000072,LG-000072,26.378692,89.876113,Assam,Karbi Anglong,Nandpur (Karbi Anglong),Karbi Anglong Infrastructure Site 72
+GEO-000073,LG-000073,26.583255,91.988619,Assam,Karimganj,Anandpur (Karimganj),Karimganj Infrastructure Site 73
+GEO-000074,LG-000074,24.266091,90.544351,Assam,Kokrajhar,Madhavpur (Kokrajhar),Kokrajhar Infrastructure Site 74
+GEO-000075,LG-000075,25.095667,93.202816,Assam,Lakhimpur,Haripur (Lakhimpur),Lakhimpur Infrastructure Site 75
+GEO-000076,LG-000076,24.367711,90.264299,Assam,Majuli,Rampur (Majuli),Majuli Infrastructure Site 76
+GEO-000077,LG-000077,27.621459,90.846985,Assam,Morigaon,Nandpur (Morigaon),Morigaon Infrastructure Site 77
+GEO-000078,LG-000078,25.876222,90.999325,Assam,Nagaon,Rampur (Nagaon),Nagaon Infrastructure Site 78
+GEO-000079,LG-000079,27.808084,92.682751,Assam,Nalbari,Sultanpur (Nalbari),Nalbari Infrastructure Site 79
+GEO-000080,LG-000080,27.98999,90.742699,Assam,Sivasagar,Gopalpur (Sivasagar),Sivasagar Infrastructure Site 80
+GEO-000081,LG-000081,26.72282,95.258888,Assam,Sonitpur,Nandpur (Sonitpur),Sonitpur Infrastructure Site 81
+GEO-000082,LG-000082,24.432183,93.850955,Assam,South Salmara-Mankachar,Fatehpur (South Salmara-Mankachar),South Salmara-Mankachar Infrastructure Site 82
+GEO-000083,LG-000083,24.627497,93.532353,Assam,Tinsukia,Kishanpur (Tinsukia),Tinsukia Infrastructure Site 83
+GEO-000084,LG-000084,27.972291,94.26565,Assam,Udalguri,Sultanpur (Udalguri),Udalguri Infrastructure Site 84
+GEO-000085,LG-000085,24.277769,93.619929,Assam,West Karbi Anglong,Haripur (West Karbi Anglong),West Karbi Anglong Infrastructure Site 85
+GEO-000086,LG-000086,26.756422,85.499891,Bihar,Araria,Kalyanpur (Araria),Araria Infrastructure Site 86
+GEO-000087,LG-000087,25.371536,86.213239,Bihar,Arwal,Sultanpur (Arwal),Arwal Infrastructure Site 87
+GEO-000088,LG-000088,26.363556,87.970059,Bihar,Aurangabad,Fatehpur (Aurangabad),Aurangabad Infrastructure Site 88
+GEO-000089,LG-000089,26.724512,85.784241,Bihar,Banka,Nandpur (Banka),Banka Infrastructure Site 89
+GEO-000090,LG-000090,26.220764,87.446101,Bihar,Begusarai,Rampur (Begusarai),Begusarai Infrastructure Site 90
+GEO-000091,LG-000091,24.685004,84.834135,Bihar,Bhagalpur,Devpur (Bhagalpur),Bhagalpur Infrastructure Site 91
+GEO-000092,LG-000092,25.156591,85.426612,Bihar,Bhojpur,Madhavpur (Bhojpur),Bhojpur Infrastructure Site 92
+GEO-000093,LG-000093,26.647029,85.079891,Bihar,Buxar,Rampur (Buxar),Buxar Infrastructure Site 93
+GEO-000094,LG-000094,26.248633,84.518516,Bihar,Darbhanga,Haripur (Darbhanga),Darbhanga Infrastructure Site 94
+GEO-000095,LG-000095,26.683284,84.848393,Bihar,East Champaran,Kishanpur (East Champaran),East Champaran Infrastructure Site 95
+GEO-000096,LG-000096,25.736146,86.301337,Bihar,Gaya,Kishanpur (Gaya),Gaya Infrastructure Site 96
+GEO-000097,LG-000097,24.50936,87.413601,Bihar,Gopalganj,Haripur (Gopalganj),Gopalganj Infrastructure Site 97
+GEO-000098,LG-000098,25.011521,85.498722,Bihar,Jamui,Shivpur (Jamui),Jamui Infrastructure Site 98
+GEO-000099,LG-000099,24.581443,86.86105,Bihar,Jehanabad,Kalyanpur (Jehanabad),Jehanabad Infrastructure Site 99
+GEO-000100,LG-000100,27.066501,87.095696,Bihar,Kaimur,Shivpur (Kaimur),Kaimur Infrastructure Site 100
+GEO-000101,LG-000101,27.172303,85.734384,Bihar,Katihar,Bhavanipur (Katihar),Katihar Infrastructure Site 101
+GEO-000102,LG-000102,26.904552,84.411852,Bihar,Khagaria,Fatehpur (Khagaria),Khagaria Infrastructure Site 102
+GEO-000103,LG-000103,26.108003,87.427072,Bihar,Kishanganj,Sultanpur (Kishanganj),Kishanganj Infrastructure Site 103
+GEO-000104,LG-000104,26.00088,85.800838,Bihar,Lakhisarai,Govindpur (Lakhisarai),Lakhisarai Infrastructure Site 104
+GEO-000105,LG-000105,24.532393,83.540989,Bihar,Madhepura,Fatehpur (Madhepura),Madhepura Infrastructure Site 105
+GEO-000106,LG-000106,26.448002,83.437485,Bihar,Madhubani,Anandpur (Madhubani),Madhubani Infrastructure Site 106
+GEO-000107,LG-000107,26.549034,86.082606,Bihar,Munger,Kishanpur (Munger),Munger Infrastructure Site 107
+GEO-000108,LG-000108,25.123242,84.806424,Bihar,Muzaffarpur,Madhavpur (Muzaffarpur),Muzaffarpur Infrastructure Site 108
+GEO-000109,LG-000109,27.207123,85.093722,Bihar,Nalanda,Kalyanpur (Nalanda),Nalanda Infrastructure Site 109
+GEO-000110,LG-000110,26.377144,86.581076,Bihar,Nawada,Devpur (Nawada),Nawada Infrastructure Site 110
+GEO-000111,LG-000111,27.418226,83.757954,Bihar,Patna,Kalyanpur (Patna),Patna Infrastructure Site 111
+GEO-000112,LG-000112,25.32064,87.710022,Bihar,Purnia,Kishanpur (Purnia),Purnia Infrastructure Site 112
+GEO-000113,LG-000113,25.301416,86.995343,Bihar,Rohtas,Devpur (Rohtas),Rohtas Infrastructure Site 113
+GEO-000114,LG-000114,25.177913,84.881825,Bihar,Saharsa,Gopalpur (Saharsa),Saharsa Infrastructure Site 114
+GEO-000115,LG-000115,24.543413,87.965123,Bihar,Samastipur,Nandpur (Samastipur),Samastipur Infrastructure Site 115
+GEO-000116,LG-000116,27.376971,85.930865,Bihar,Saran,Madhavpur (Saran),Saran Infrastructure Site 116
+GEO-000117,LG-000117,25.596193,84.865048,Bihar,Sheikhpura,Kishanpur (Sheikhpura),Sheikhpura Infrastructure Site 117
+GEO-000118,LG-000118,25.548735,83.985528,Bihar,Sheohar,Bhavanipur (Sheohar),Sheohar Infrastructure Site 118
+GEO-000119,LG-000119,26.613783,85.781848,Bihar,Sitamarhi,Rampur (Sitamarhi),Sitamarhi Infrastructure Site 119
+GEO-000120,LG-000120,24.806341,84.634787,Bihar,Siwan,Kishanpur (Siwan),Siwan Infrastructure Site 120
+GEO-000121,LG-000121,25.34199,86.420875,Bihar,Supaul,Gopalpur (Supaul),Supaul Infrastructure Site 121
+GEO-000122,LG-000122,24.436208,87.848235,Bihar,Vaishali,Devpur (Vaishali),Vaishali Infrastructure Site 122
+GEO-000123,LG-000123,24.874769,85.424925,Bihar,West Champaran,Kishanpur (West Champaran),West Champaran Infrastructure Site 123
+GEO-000124,LG-000124,19.312996,84.095315,Chhattisgarh,Balod,Gopalpur (Balod),Balod Infrastructure Site 124
+GEO-000125,LG-000125,22.604033,80.558712,Chhattisgarh,Baloda Bazar,Sultanpur (Baloda Bazar),Baloda Bazar Infrastructure Site 125
+GEO-000126,LG-000126,22.510251,84.080128,Chhattisgarh,Balrampur,Govindpur (Balrampur),Balrampur Infrastructure Site 126
+GEO-000127,LG-000127,21.11149,84.282602,Chhattisgarh,Bastar,Anandpur (Bastar),Bastar Infrastructure Site 127
+GEO-000128,LG-000128,23.708335,82.131703,Chhattisgarh,Bemetara,Anandpur (Bemetara),Bemetara Infrastructure Site 128
+GEO-000129,LG-000129,20.002156,83.142805,Chhattisgarh,Bijapur,Chandpur (Bijapur),Bijapur Infrastructure Site 129
+GEO-000130,LG-000130,20.842759,81.72619,Chhattisgarh,Bilaspur,Gopalpur (Bilaspur),Bilaspur Infrastructure Site 130
+GEO-000131,LG-000131,19.704363,83.508486,Chhattisgarh,Dantewada,Govindpur (Dantewada),Dantewada Infrastructure Site 131
+GEO-000132,LG-000132,19.761802,84.311549,Chhattisgarh,Dhamtari,Fatehpur (Dhamtari),Dhamtari Infrastructure Site 132
+GEO-000133,LG-000133,21.242222,80.783096,Chhattisgarh,Durg,Bhavanipur (Durg),Durg Infrastructure Site 133
+GEO-000134,LG-000134,18.156082,80.638314,Chhattisgarh,Gariaband,Shivpur (Gariaband),Gariaband Infrastructure Site 134
+GEO-000135,LG-000135,20.256702,82.025104,Chhattisgarh,Gaurela-Pendra-Marwahi,Chandpur (Gaurela-Pendra-Marwahi),Gaurela-Pendra-Marwahi Infrastructure Site 135
+GEO-000136,LG-000136,20.157709,80.959094,Chhattisgarh,Janjgir-Champa,Nandpur (Janjgir-Champa),Janjgir-Champa Infrastructure Site 136
+GEO-000137,LG-000137,20.277437,81.847588,Chhattisgarh,Jashpur,Bhavanipur (Jashpur),Jashpur Infrastructure Site 137
+GEO-000138,LG-000138,23.216859,80.260482,Chhattisgarh,Kabirdham,Nandpur (Kabirdham),Kabirdham Infrastructure Site 138
+GEO-000139,LG-000139,21.451303,83.371038,Chhattisgarh,Kanker,Shivpur (Kanker),Kanker Infrastructure Site 139
+GEO-000140,LG-000140,18.404982,82.537825,Chhattisgarh,Kondagaon,Devpur (Kondagaon),Kondagaon Infrastructure Site 140
+GEO-000141,LG-000141,17.830101,83.334654,Chhattisgarh,Korba,Nandpur (Korba),Korba Infrastructure Site 141
+GEO-000142,LG-000142,23.648834,82.664052,Chhattisgarh,Koriya,Gopalpur (Koriya),Koriya Infrastructure Site 142
+GEO-000143,LG-000143,18.006112,84.001358,Chhattisgarh,Mahasamund,Haripur (Mahasamund),Mahasamund Infrastructure Site 143
+GEO-000144,LG-000144,23.468786,81.430592,Chhattisgarh,Manendragarh-Chirmiri-Bharatpur,Bhavanipur (Manendragarh-Chirmiri-Bharatpur),Manendragarh-Chirmiri-Bharatpur Infrastructure Site 144
+GEO-000145,LG-000145,20.820924,83.955492,Chhattisgarh,Mohla-Manpur-Ambagarh Chowki,Sultanpur (Mohla-Manpur-Ambagarh Chowki),Mohla-Manpur-Ambagarh Chowki Infrastructure Site 145
+GEO-000146,LG-000146,23.021925,82.422565,Chhattisgarh,Mungeli,Madhavpur (Mungeli),Mungeli Infrastructure Site 146
+GEO-000147,LG-000147,22.436439,81.512325,Chhattisgarh,Narayanpur,Sultanpur (Narayanpur),Narayanpur Infrastructure Site 147
+GEO-000148,LG-000148,23.554488,81.633415,Chhattisgarh,Raigarh,Haripur (Raigarh),Raigarh Infrastructure Site 148
+GEO-000149,LG-000149,19.009954,80.231247,Chhattisgarh,Raipur,Govindpur (Raipur),Raipur Infrastructure Site 149
+GEO-000150,LG-000150,21.838278,84.009316,Chhattisgarh,Rajnandgaon,Gopalpur (Rajnandgaon),Rajnandgaon Infrastructure Site 150
+GEO-000151,LG-000151,17.942972,81.183449,Chhattisgarh,Sarangarh-Bilaigarh,Bhavanipur (Sarangarh-Bilaigarh),Sarangarh-Bilaigarh Infrastructure Site 151
+GEO-000152,LG-000152,19.394646,81.638549,Chhattisgarh,Sakti,Devpur (Sakti),Sakti Infrastructure Site 152
+GEO-000153,LG-000153,23.04232,83.814581,Chhattisgarh,Sukma,Govindpur (Sukma),Sukma Infrastructure Site 153
+GEO-000154,LG-000154,20.844115,83.556417,Chhattisgarh,Surajpur,Shivpur (Surajpur),Surajpur Infrastructure Site 154
+GEO-000155,LG-000155,21.477054,84.367379,Chhattisgarh,Surguja,Kalyanpur (Surguja),Surguja Infrastructure Site 155
+GEO-000156,LG-000156,20.492838,82.850734,Chhattisgarh,Khairagarh-Chhuikhadan-Gandai,Kishanpur (Khairagarh-Chhuikhadan-Gandai),Khairagarh-Chhuikhadan-Gandai Infrastructure Site 156
+GEO-000157,LG-000157,15.100659,73.822745,Goa,North Goa,Nandpur (North Goa),North Goa Infrastructure Site 157
+GEO-000158,LG-000158,15.675004,73.879872,Goa,South Goa,Devpur (South Goa),South Goa Infrastructure Site 158
+GEO-000159,LG-000159,22.044632,74.00191,Gujarat,Ahmedabad,Govindpur (Ahmedabad),Ahmedabad Infrastructure Site 159
+GEO-000160,LG-000160,22.329821,70.488845,Gujarat,Amreli,Chandpur (Amreli),Amreli Infrastructure Site 160
+GEO-000161,LG-000161,24.186009,69.745385,Gujarat,Anand,Madhavpur (Anand),Anand Infrastructure Site 161
+GEO-000162,LG-000162,22.432269,70.561762,Gujarat,Aravalli,Bhavanipur (Aravalli),Aravalli Infrastructure Site 162
+GEO-000163,LG-000163,23.34713,70.70889,Gujarat,Banaskantha,Anandpur (Banaskantha),Banaskantha Infrastructure Site 163
+GEO-000164,LG-000164,23.263648,73.873806,Gujarat,Bharuch,Fatehpur (Bharuch),Bharuch Infrastructure Site 164
+GEO-000165,LG-000165,21.356762,68.664543,Gujarat,Bhavnagar,Gopalpur (Bhavnagar),Bhavnagar Infrastructure Site 165
+GEO-000166,LG-000166,23.480309,73.011334,Gujarat,Botad,Nandpur (Botad),Botad Infrastructure Site 166
+GEO-000167,LG-000167,20.922482,70.888529,Gujarat,Chhota Udaipur,Chandpur (Chhota Udaipur),Chhota Udaipur Infrastructure Site 167
+GEO-000168,LG-000168,24.275111,68.924625,Gujarat,Dahod,Kishanpur (Dahod),Dahod Infrastructure Site 168
+GEO-000169,LG-000169,23.036261,71.891477,Gujarat,Dang,Madhavpur (Dang),Dang Infrastructure Site 169
+GEO-000170,LG-000170,20.422178,70.888683,Gujarat,Devbhumi Dwarka,Gopalpur (Devbhumi Dwarka),Devbhumi Dwarka Infrastructure Site 170
+GEO-000171,LG-000171,23.740143,68.968591,Gujarat,Gandhinagar,Bhavanipur (Gandhinagar),Gandhinagar Infrastructure Site 171
+GEO-000172,LG-000172,20.488091,68.218248,Gujarat,Gir Somnath,Kalyanpur (Gir Somnath),Gir Somnath Infrastructure Site 172
+GEO-000173,LG-000173,21.305217,68.315209,Gujarat,Jamnagar,Nandpur (Jamnagar),Jamnagar Infrastructure Site 173
+GEO-000174,LG-000174,24.470095,68.34398,Gujarat,Junagadh,Bhavanipur (Junagadh),Junagadh Infrastructure Site 174
+GEO-000175,LG-000175,20.596211,73.26038,Gujarat,Kheda,Govindpur (Kheda),Kheda Infrastructure Site 175
+GEO-000176,LG-000176,23.726001,71.194943,Gujarat,Kutch,Haripur (Kutch),Kutch Infrastructure Site 176
+GEO-000177,LG-000177,23.947933,68.866843,Gujarat,Mahisagar,Gopalpur (Mahisagar),Mahisagar Infrastructure Site 177
+GEO-000178,LG-000178,24.65106,72.601655,Gujarat,Mehsana,Anandpur (Mehsana),Mehsana Infrastructure Site 178
+GEO-000179,LG-000179,23.520339,70.462543,Gujarat,Morbi,Nandpur (Morbi),Morbi Infrastructure Site 179
+GEO-000180,LG-000180,24.286717,72.077337,Gujarat,Narmada,Nandpur (Narmada),Narmada Infrastructure Site 180
+GEO-000181,LG-000181,23.574319,72.9694,Gujarat,Navsari,Kalyanpur (Navsari),Navsari Infrastructure Site 181
+GEO-000182,LG-000182,24.033318,72.456915,Gujarat,Panchmahal,Govindpur (Panchmahal),Panchmahal Infrastructure Site 182
+GEO-000183,LG-000183,23.780451,73.033958,Gujarat,Patan,Kishanpur (Patan),Patan Infrastructure Site 183
+GEO-000184,LG-000184,21.350344,71.186634,Gujarat,Porbandar,Anandpur (Porbandar),Porbandar Infrastructure Site 184
+GEO-000185,LG-000185,21.597758,73.216789,Gujarat,Rajkot,Devpur (Rajkot),Rajkot Infrastructure Site 185
+GEO-000186,LG-000186,21.831423,74.466914,Gujarat,Sabarkantha,Nandpur (Sabarkantha),Sabarkantha Infrastructure Site 186
+GEO-000187,LG-000187,22.471788,70.410571,Gujarat,Surat,Sultanpur (Surat),Surat Infrastructure Site 187
+GEO-000188,LG-000188,23.33069,68.717242,Gujarat,Surendranagar,Madhavpur (Surendranagar),Surendranagar Infrastructure Site 188
+GEO-000189,LG-000189,22.158095,71.666641,Gujarat,Tapi,Bhavanipur (Tapi),Tapi Infrastructure Site 189
+GEO-000190,LG-000190,21.059874,73.88208,Gujarat,Vadodara,Devpur (Vadodara),Vadodara Infrastructure Site 190
+GEO-000191,LG-000191,24.452707,73.838854,Gujarat,Valsad,Sultanpur (Valsad),Valsad Infrastructure Site 191
+GEO-000192,LG-000192,29.834254,75.574832,Haryana,Ambala,Anandpur (Ambala),Ambala Infrastructure Site 192
+GEO-000193,LG-000193,29.255354,77.00879,Haryana,Bhiwani,Kalyanpur (Bhiwani),Bhiwani Infrastructure Site 193
+GEO-000194,LG-000194,29.093401,75.535456,Haryana,Charkhi Dadri,Govindpur (Charkhi Dadri),Charkhi Dadri Infrastructure Site 194
+GEO-000195,LG-000195,28.531548,75.241046,Haryana,Faridabad,Gopalpur (Faridabad),Faridabad Infrastructure Site 195
+GEO-000196,LG-000196,28.706065,76.896484,Haryana,Fatehabad,Govindpur (Fatehabad),Fatehabad Infrastructure Site 196
+GEO-000197,LG-000197,29.647292,76.654756,Haryana,Gurugram,Bhavanipur (Gurugram),Gurugram Infrastructure Site 197
+GEO-000198,LG-000198,29.539152,76.487518,Haryana,Hisar,Madhavpur (Hisar),Hisar Infrastructure Site 198
+GEO-000199,LG-000199,29.010635,77.022294,Haryana,Jhajjar,Haripur (Jhajjar),Jhajjar Infrastructure Site 199
+GEO-000200,LG-000200,30.503486,76.298689,Haryana,Jind,Chandpur (Jind),Jind Infrastructure Site 200
+GEO-000201,LG-000201,30.061792,74.770087,Haryana,Kaithal,Devpur (Kaithal),Kaithal Infrastructure Site 201
+GEO-000202,LG-000202,29.775948,75.890649,Haryana,Karnal,Govindpur (Karnal),Karnal Infrastructure Site 202
+GEO-000203,LG-000203,29.034254,76.772063,Haryana,Kurukshetra,Kishanpur (Kurukshetra),Kurukshetra Infrastructure Site 203
+GEO-000204,LG-000204,30.447004,76.417891,Haryana,Mahendragarh,Sultanpur (Mahendragarh),Mahendragarh Infrastructure Site 204
+GEO-000205,LG-000205,28.408652,76.216391,Haryana,Nuh,Madhavpur (Nuh),Nuh Infrastructure Site 205
+GEO-000206,LG-000206,28.146252,77.364124,Haryana,Palwal,Kalyanpur (Palwal),Palwal Infrastructure Site 206
+GEO-000207,LG-000207,28.417726,74.846832,Haryana,Panchkula,Kalyanpur (Panchkula),Panchkula Infrastructure Site 207
+GEO-000208,LG-000208,30.581414,75.031221,Haryana,Panipat,Bhavanipur (Panipat),Panipat Infrastructure Site 208
+GEO-000209,LG-000209,29.074627,76.33416,Haryana,Rewari,Shivpur (Rewari),Rewari Infrastructure Site 209
+GEO-000210,LG-000210,30.77821,77.16553,Haryana,Rohtak,Nandpur (Rohtak),Rohtak Infrastructure Site 210
+GEO-000211,LG-000211,30.88243,77.351613,Haryana,Sirsa,Kishanpur (Sirsa),Sirsa Infrastructure Site 211
+GEO-000212,LG-000212,30.487771,77.141244,Haryana,Sonipat,Govindpur (Sonipat),Sonipat Infrastructure Site 212
+GEO-000213,LG-000213,29.241737,75.658562,Haryana,Yamunanagar,Nandpur (Yamunanagar),Yamunanagar Infrastructure Site 213
+GEO-000214,LG-000214,32.05846,76.372778,Himachal Pradesh,Bilaspur,Rampur (Bilaspur),Bilaspur Infrastructure Site 214
+GEO-000215,LG-000215,31.412667,77.614813,Himachal Pradesh,Chamba,Kalyanpur (Chamba),Chamba Infrastructure Site 215
+GEO-000216,LG-000216,32.320963,76.451297,Himachal Pradesh,Hamirpur,Kalyanpur (Hamirpur),Hamirpur Infrastructure Site 216
+GEO-000217,LG-000217,31.374802,76.853896,Himachal Pradesh,Kangra,Kishanpur (Kangra),Kangra Infrastructure Site 217
+GEO-000218,LG-000218,31.849453,76.874891,Himachal Pradesh,Kinnaur,Madhavpur (Kinnaur),Kinnaur Infrastructure Site 218
+GEO-000219,LG-000219,32.597931,76.227605,Himachal Pradesh,Kullu,Bhavanipur (Kullu),Kullu Infrastructure Site 219
+GEO-000220,LG-000220,32.029678,78.016675,Himachal Pradesh,Lahaul and Spiti,Madhavpur (Lahaul and Spiti),Lahaul and Spiti Infrastructure Site 220
+GEO-000221,LG-000221,30.981372,76.797307,Himachal Pradesh,Mandi,Haripur (Mandi),Mandi Infrastructure Site 221
+GEO-000222,LG-000222,31.081499,76.886558,Himachal Pradesh,Shimla,Gopalpur (Shimla),Shimla Infrastructure Site 222
+GEO-000223,LG-000223,30.729834,77.586021,Himachal Pradesh,Sirmaur,Madhavpur (Sirmaur),Sirmaur Infrastructure Site 223
+GEO-000224,LG-000224,32.445723,77.163797,Himachal Pradesh,Solan,Nandpur (Solan),Solan Infrastructure Site 224
+GEO-000225,LG-000225,30.478617,78.876838,Himachal Pradesh,Una,Kalyanpur (Una),Una Infrastructure Site 225
+GEO-000226,LG-000226,22.579004,85.652086,Jharkhand,Bokaro,Rampur (Bokaro),Bokaro Infrastructure Site 226
+GEO-000227,LG-000227,23.568765,85.296918,Jharkhand,Chatra,Rampur (Chatra),Chatra Infrastructure Site 227
+GEO-000228,LG-000228,24.791086,84.168726,Jharkhand,Deoghar,Fatehpur (Deoghar),Deoghar Infrastructure Site 228
+GEO-000229,LG-000229,22.529713,86.670528,Jharkhand,Dhanbad,Sultanpur (Dhanbad),Dhanbad Infrastructure Site 229
+GEO-000230,LG-000230,23.374275,86.154343,Jharkhand,Dumka,Devpur (Dumka),Dumka Infrastructure Site 230
+GEO-000231,LG-000231,24.495284,83.447751,Jharkhand,East Singhbhum,Devpur (East Singhbhum),East Singhbhum Infrastructure Site 231
+GEO-000232,LG-000232,23.209887,85.988247,Jharkhand,Garhwa,Bhavanipur (Garhwa),Garhwa Infrastructure Site 232
+GEO-000233,LG-000233,22.49032,87.386032,Jharkhand,Giridih,Anandpur (Giridih),Giridih Infrastructure Site 233
+GEO-000234,LG-000234,23.484611,85.702931,Jharkhand,Godda,Madhavpur (Godda),Godda Infrastructure Site 234
+GEO-000235,LG-000235,23.763516,85.474028,Jharkhand,Gumla,Madhavpur (Gumla),Gumla Infrastructure Site 235
+GEO-000236,LG-000236,23.977285,87.377988,Jharkhand,Hazaribagh,Devpur (Hazaribagh),Hazaribagh Infrastructure Site 236
+GEO-000237,LG-000237,22.111424,83.874154,Jharkhand,Jamtara,Bhavanipur (Jamtara),Jamtara Infrastructure Site 237
+GEO-000238,LG-000238,22.110194,86.198882,Jharkhand,Khunti,Haripur (Khunti),Khunti Infrastructure Site 238
+GEO-000239,LG-000239,25.13166,85.023698,Jharkhand,Koderma,Bhavanipur (Koderma),Koderma Infrastructure Site 239
+GEO-000240,LG-000240,22.828896,83.358706,Jharkhand,Latehar,Haripur (Latehar),Latehar Infrastructure Site 240
+GEO-000241,LG-000241,22.673067,87.758846,Jharkhand,Lohardaga,Madhavpur (Lohardaga),Lohardaga Infrastructure Site 241
+GEO-000242,LG-000242,22.349665,84.93467,Jharkhand,Pakur,Bhavanipur (Pakur),Pakur Infrastructure Site 242
+GEO-000243,LG-000243,24.759518,86.636823,Jharkhand,Palamu,Shivpur (Palamu),Palamu Infrastructure Site 243
+GEO-000244,LG-000244,24.944212,85.329124,Jharkhand,Ramgarh,Gopalpur (Ramgarh),Ramgarh Infrastructure Site 244
+GEO-000245,LG-000245,22.41003,87.12035,Jharkhand,Ranchi,Devpur (Ranchi),Ranchi Infrastructure Site 245
+GEO-000246,LG-000246,22.757804,83.739279,Jharkhand,Sahibganj,Devpur (Sahibganj),Sahibganj Infrastructure Site 246
+GEO-000247,LG-000247,25.060629,83.537113,Jharkhand,Seraikela Kharsawan,Rampur (Seraikela Kharsawan),Seraikela Kharsawan Infrastructure Site 247
+GEO-000248,LG-000248,25.149546,84.555557,Jharkhand,Simdega,Kalyanpur (Simdega),Simdega Infrastructure Site 248
+GEO-000249,LG-000249,22.944207,87.80141,Jharkhand,West Singhbhum,Shivpur (West Singhbhum),West Singhbhum Infrastructure Site 249
+GEO-000250,LG-000250,17.607986,75.244302,Karnataka,Bagalkot,Sultanpur (Bagalkot),Bagalkot Infrastructure Site 250
+GEO-000251,LG-000251,14.088543,74.726761,Karnataka,Ballari,Sultanpur (Ballari),Ballari Infrastructure Site 251
+GEO-000252,LG-000252,15.280599,78.196836,Karnataka,Belagavi,Bhavanipur (Belagavi),Belagavi Infrastructure Site 252
+GEO-000253,LG-000253,14.45202,74.230553,Karnataka,Bengaluru Rural,Fatehpur (Bengaluru Rural),Bengaluru Rural Infrastructure Site 253
+GEO-000254,LG-000254,16.010686,76.503666,Karnataka,Bengaluru Urban,Rampur (Bengaluru Urban),Bengaluru Urban Infrastructure Site 254
+GEO-000255,LG-000255,14.600415,75.065161,Karnataka,Bidar,Devpur (Bidar),Bidar Infrastructure Site 255
+GEO-000256,LG-000256,14.791303,76.444529,Karnataka,Chamarajanagar,Shivpur (Chamarajanagar),Chamarajanagar Infrastructure Site 256
+GEO-000257,LG-000257,13.130087,77.344703,Karnataka,Chikkaballapura,Devpur (Chikkaballapura),Chikkaballapura Infrastructure Site 257
+GEO-000258,LG-000258,12.018051,76.718292,Karnataka,Chikkamagaluru,Shivpur (Chikkamagaluru),Chikkamagaluru Infrastructure Site 258
+GEO-000259,LG-000259,13.92492,75.793802,Karnataka,Chitradurga,Sultanpur (Chitradurga),Chitradurga Infrastructure Site 259
+GEO-000260,LG-000260,12.260585,78.246018,Karnataka,Dakshina Kannada,Anandpur (Dakshina Kannada),Dakshina Kannada Infrastructure Site 260
+GEO-000261,LG-000261,17.931921,77.733907,Karnataka,Davanagere,Nandpur (Davanagere),Davanagere Infrastructure Site 261
+GEO-000262,LG-000262,16.208526,75.945666,Karnataka,Dharwad,Devpur (Dharwad),Dharwad Infrastructure Site 262
+GEO-000263,LG-000263,17.874403,75.186311,Karnataka,Gadag,Fatehpur (Gadag),Gadag Infrastructure Site 263
+GEO-000264,LG-000264,14.299198,74.233819,Karnataka,Hassan,Shivpur (Hassan),Hassan Infrastructure Site 264
+GEO-000265,LG-000265,15.546974,75.334193,Karnataka,Haveri,Gopalpur (Haveri),Haveri Infrastructure Site 265
+GEO-000266,LG-000266,15.205771,75.603442,Karnataka,Kalaburagi,Bhavanipur (Kalaburagi),Kalaburagi Infrastructure Site 266
+GEO-000267,LG-000267,14.375937,75.678332,Karnataka,Kodagu,Nandpur (Kodagu),Kodagu Infrastructure Site 267
+GEO-000268,LG-000268,13.321848,77.321749,Karnataka,Kolar,Kishanpur (Kolar),Kolar Infrastructure Site 268
+GEO-000269,LG-000269,17.666374,77.25301,Karnataka,Koppal,Devpur (Koppal),Koppal Infrastructure Site 269
+GEO-000270,LG-000270,16.285555,78.299744,Karnataka,Mandya,Madhavpur (Mandya),Mandya Infrastructure Site 270
+GEO-000271,LG-000271,12.777882,74.453899,Karnataka,Mysuru,Shivpur (Mysuru),Mysuru Infrastructure Site 271
+GEO-000272,LG-000272,17.854161,78.18401,Karnataka,Raichur,Govindpur (Raichur),Raichur Infrastructure Site 272
+GEO-000273,LG-000273,14.903678,75.983688,Karnataka,Ramanagara,Sultanpur (Ramanagara),Ramanagara Infrastructure Site 273
+GEO-000274,LG-000274,13.795664,78.579121,Karnataka,Shivamogga,Rampur (Shivamogga),Shivamogga Infrastructure Site 274
+GEO-000275,LG-000275,11.763323,74.718777,Karnataka,Tumakuru,Chandpur (Tumakuru),Tumakuru Infrastructure Site 275
+GEO-000276,LG-000276,17.432253,74.754788,Karnataka,Udupi,Devpur (Udupi),Udupi Infrastructure Site 276
+GEO-000277,LG-000277,12.417797,75.694621,Karnataka,Uttara Kannada,Govindpur (Uttara Kannada),Uttara Kannada Infrastructure Site 277
+GEO-000278,LG-000278,16.263494,74.158579,Karnataka,Vijayanagara,Kalyanpur (Vijayanagara),Vijayanagara Infrastructure Site 278
+GEO-000279,LG-000279,15.324124,78.467639,Karnataka,Vijayapura,Sultanpur (Vijayapura),Vijayapura Infrastructure Site 279
+GEO-000280,LG-000280,17.559944,74.92907,Karnataka,Yadgir,Madhavpur (Yadgir),Yadgir Infrastructure Site 280
+GEO-000281,LG-000281,8.581685,75.469295,Kerala,Alappuzha,Devpur (Alappuzha),Alappuzha Infrastructure Site 281
+GEO-000282,LG-000282,8.691537,75.383671,Kerala,Ernakulam,Kalyanpur (Ernakulam),Ernakulam Infrastructure Site 282
+GEO-000283,LG-000283,8.757994,76.842471,Kerala,Idukki,Kalyanpur (Idukki),Idukki Infrastructure Site 283
+GEO-000284,LG-000284,12.373308,76.240455,Kerala,Kannur,Fatehpur (Kannur),Kannur Infrastructure Site 284
+GEO-000285,LG-000285,11.338808,75.928673,Kerala,Kasaragod,Shivpur (Kasaragod),Kasaragod Infrastructure Site 285
+GEO-000286,LG-000286,12.678344,75.337435,Kerala,Kollam,Bhavanipur (Kollam),Kollam Infrastructure Site 286
+GEO-000287,LG-000287,9.295073,77.364318,Kerala,Kottayam,Gopalpur (Kottayam),Kottayam Infrastructure Site 287
+GEO-000288,LG-000288,9.624285,76.045548,Kerala,Kozhikode,Shivpur (Kozhikode),Kozhikode Infrastructure Site 288
+GEO-000289,LG-000289,12.769894,74.996862,Kerala,Malappuram,Haripur (Malappuram),Malappuram Infrastructure Site 289
+GEO-000290,LG-000290,10.275406,76.920325,Kerala,Palakkad,Rampur (Palakkad),Palakkad Infrastructure Site 290
+GEO-000291,LG-000291,11.912638,75.115632,Kerala,Pathanamthitta,Sultanpur (Pathanamthitta),Pathanamthitta Infrastructure Site 291
+GEO-000292,LG-000292,11.99792,74.929497,Kerala,Thiruvananthapuram,Govindpur (Thiruvananthapuram),Thiruvananthapuram Infrastructure Site 292
+GEO-000293,LG-000293,10.319067,75.634495,Kerala,Thrissur,Haripur (Thrissur),Thrissur Infrastructure Site 293
+GEO-000294,LG-000294,11.215506,75.885664,Kerala,Wayanad,Fatehpur (Wayanad),Wayanad Infrastructure Site 294
+GEO-000295,LG-000295,26.105994,80.564122,Madhya Pradesh,Agar Malwa,Fatehpur (Agar Malwa),Agar Malwa Infrastructure Site 295
+GEO-000296,LG-000296,21.952942,75.895438,Madhya Pradesh,Alirajpur,Kishanpur (Alirajpur),Alirajpur Infrastructure Site 296
+GEO-000297,LG-000297,21.498983,75.088603,Madhya Pradesh,Anuppur,Haripur (Anuppur),Anuppur Infrastructure Site 297
+GEO-000298,LG-000298,24.556056,78.372793,Madhya Pradesh,Ashoknagar,Bhavanipur (Ashoknagar),Ashoknagar Infrastructure Site 298
+GEO-000299,LG-000299,22.280019,77.631956,Madhya Pradesh,Balaghat,Rampur (Balaghat),Balaghat Infrastructure Site 299
+GEO-000300,LG-000300,24.171045,81.265927,Madhya Pradesh,Barwani,Nandpur (Barwani),Barwani Infrastructure Site 300
+GEO-000301,LG-000301,22.473222,74.390043,Madhya Pradesh,Betul,Bhavanipur (Betul),Betul Infrastructure Site 301
+GEO-000302,LG-000302,24.41496,79.012614,Madhya Pradesh,Bhind,Bhavanipur (Bhind),Bhind Infrastructure Site 302
+GEO-000303,LG-000303,22.735319,78.749215,Madhya Pradesh,Bhopal,Bhavanipur (Bhopal),Bhopal Infrastructure Site 303
+GEO-000304,LG-000304,26.058452,81.591247,Madhya Pradesh,Burhanpur,Haripur (Burhanpur),Burhanpur Infrastructure Site 304
+GEO-000305,LG-000305,21.89495,81.287613,Madhya Pradesh,Chhatarpur,Madhavpur (Chhatarpur),Chhatarpur Infrastructure Site 305
+GEO-000306,LG-000306,24.101349,77.756679,Madhya Pradesh,Chhindwara,Haripur (Chhindwara),Chhindwara Infrastructure Site 306
+GEO-000307,LG-000307,24.724101,78.849991,Madhya Pradesh,Damoh,Bhavanipur (Damoh),Damoh Infrastructure Site 307
+GEO-000308,LG-000308,26.767478,82.526607,Madhya Pradesh,Datia,Kishanpur (Datia),Datia Infrastructure Site 308
+GEO-000309,LG-000309,21.783103,77.200633,Madhya Pradesh,Dewas,Govindpur (Dewas),Dewas Infrastructure Site 309
+GEO-000310,LG-000310,25.322798,75.86929,Madhya Pradesh,Dhar,Fatehpur (Dhar),Dhar Infrastructure Site 310
+GEO-000311,LG-000311,21.832478,82.670179,Madhya Pradesh,Dindori,Nandpur (Dindori),Dindori Infrastructure Site 311
+GEO-000312,LG-000312,26.201552,78.001373,Madhya Pradesh,Guna,Haripur (Guna),Guna Infrastructure Site 312
+GEO-000313,LG-000313,22.498753,78.267412,Madhya Pradesh,Gwalior,Fatehpur (Gwalior),Gwalior Infrastructure Site 313
+GEO-000314,LG-000314,26.560524,79.012112,Madhya Pradesh,Harda,Haripur (Harda),Harda Infrastructure Site 314
+GEO-000315,LG-000315,23.941531,75.366536,Madhya Pradesh,Narmadapuram,Anandpur (Narmadapuram),Narmadapuram Infrastructure Site 315
+GEO-000316,LG-000316,23.220851,79.02179,Madhya Pradesh,Indore,Sultanpur (Indore),Indore Infrastructure Site 316
+GEO-000317,LG-000317,25.059551,82.236536,Madhya Pradesh,Jabalpur,Chandpur (Jabalpur),Jabalpur Infrastructure Site 317
+GEO-000318,LG-000318,26.506482,78.514413,Madhya Pradesh,Jhabua,Kishanpur (Jhabua),Jhabua Infrastructure Site 318
+GEO-000319,LG-000319,23.056943,79.569296,Madhya Pradesh,Katni,Madhavpur (Katni),Katni Infrastructure Site 319
+GEO-000320,LG-000320,21.371991,78.10906,Madhya Pradesh,Khandwa,Madhavpur (Khandwa),Khandwa Infrastructure Site 320
+GEO-000321,LG-000321,22.407972,79.621118,Madhya Pradesh,Khargone,Nandpur (Khargone),Khargone Infrastructure Site 321
+GEO-000322,LG-000322,23.395213,81.41472,Madhya Pradesh,Mandla,Madhavpur (Mandla),Mandla Infrastructure Site 322
+GEO-000323,LG-000323,26.146314,75.476565,Madhya Pradesh,Mandsaur,Govindpur (Mandsaur),Mandsaur Infrastructure Site 323
+GEO-000324,LG-000324,25.858019,78.36438,Madhya Pradesh,Morena,Gopalpur (Morena),Morena Infrastructure Site 324
+GEO-000325,LG-000325,21.768963,77.414576,Madhya Pradesh,Narsinghpur,Gopalpur (Narsinghpur),Narsinghpur Infrastructure Site 325
+GEO-000326,LG-000326,23.712037,82.41472,Madhya Pradesh,Neemuch,Fatehpur (Neemuch),Neemuch Infrastructure Site 326
+GEO-000327,LG-000327,24.753077,77.438251,Madhya Pradesh,Niwari,Kalyanpur (Niwari),Niwari Infrastructure Site 327
+GEO-000328,LG-000328,22.159304,78.120311,Madhya Pradesh,Panna,Govindpur (Panna),Panna Infrastructure Site 328
+GEO-000329,LG-000329,22.715651,78.752729,Madhya Pradesh,Raisen,Anandpur (Raisen),Raisen Infrastructure Site 329
+GEO-000330,LG-000330,26.63153,75.436031,Madhya Pradesh,Rajgarh,Anandpur (Rajgarh),Rajgarh Infrastructure Site 330
+GEO-000331,LG-000331,23.266925,77.860194,Madhya Pradesh,Ratlam,Shivpur (Ratlam),Ratlam Infrastructure Site 331
+GEO-000332,LG-000332,25.667314,82.06835,Madhya Pradesh,Rewa,Fatehpur (Rewa),Rewa Infrastructure Site 332
+GEO-000333,LG-000333,21.995608,79.072851,Madhya Pradesh,Sagar,Devpur (Sagar),Sagar Infrastructure Site 333
+GEO-000334,LG-000334,21.10618,79.02228,Madhya Pradesh,Satna,Rampur (Satna),Satna Infrastructure Site 334
+GEO-000335,LG-000335,24.355026,81.902318,Madhya Pradesh,Sehore,Devpur (Sehore),Sehore Infrastructure Site 335
+GEO-000336,LG-000336,23.394638,76.645854,Madhya Pradesh,Seoni,Anandpur (Seoni),Seoni Infrastructure Site 336
+GEO-000337,LG-000337,26.107317,78.507972,Madhya Pradesh,Shahdol,Fatehpur (Shahdol),Shahdol Infrastructure Site 337
+GEO-000338,LG-000338,23.490227,74.458914,Madhya Pradesh,Shajapur,Madhavpur (Shajapur),Shajapur Infrastructure Site 338
+GEO-000339,LG-000339,26.642865,75.316257,Madhya Pradesh,Sheopur,Fatehpur (Sheopur),Sheopur Infrastructure Site 339
+GEO-000340,LG-000340,26.045293,77.780402,Madhya Pradesh,Shivpuri,Anandpur (Shivpuri),Shivpuri Infrastructure Site 340
+GEO-000341,LG-000341,26.727965,82.123359,Madhya Pradesh,Sidhi,Madhavpur (Sidhi),Sidhi Infrastructure Site 341
+GEO-000342,LG-000342,26.404615,74.517397,Madhya Pradesh,Singrauli,Haripur (Singrauli),Singrauli Infrastructure Site 342
+GEO-000343,LG-000343,25.002052,77.647992,Madhya Pradesh,Tikamgarh,Kalyanpur (Tikamgarh),Tikamgarh Infrastructure Site 343
+GEO-000344,LG-000344,25.233157,74.713251,Madhya Pradesh,Ujjain,Kalyanpur (Ujjain),Ujjain Infrastructure Site 344
+GEO-000345,LG-000345,25.358192,75.813394,Madhya Pradesh,Umaria,Devpur (Umaria),Umaria Infrastructure Site 345
+GEO-000346,LG-000346,23.633169,78.284265,Madhya Pradesh,Vidisha,Bhavanipur (Vidisha),Vidisha Infrastructure Site 346
+GEO-000347,LG-000347,23.081194,80.847803,Madhya Pradesh,Mauganj,Govindpur (Mauganj),Mauganj Infrastructure Site 347
+GEO-000348,LG-000348,25.036499,75.64503,Madhya Pradesh,Maihar,Devpur (Maihar),Maihar Infrastructure Site 348
+GEO-000349,LG-000349,23.792947,76.02897,Madhya Pradesh,Pandhurna,Gopalpur (Pandhurna),Pandhurna Infrastructure Site 349
+GEO-000350,LG-000350,16.907785,80.272001,Maharashtra,Ahilyanagar,Govindpur (Ahilyanagar),Ahilyanagar Infrastructure Site 350
+GEO-000351,LG-000351,19.269895,78.410096,Maharashtra,Akola,Rampur (Akola),Akola Infrastructure Site 351
+GEO-000352,LG-000352,16.976003,79.863029,Maharashtra,Amravati,Rampur (Amravati),Amravati Infrastructure Site 352
+GEO-000353,LG-000353,21.548931,75.870089,Maharashtra,Chhatrapati Sambhajinagar,Kalyanpur (Chhatrapati Sambhajinagar),Chhatrapati Sambhajinagar Infrastructure Site 353
+GEO-000354,LG-000354,18.570082,75.752063,Maharashtra,Beed,Kishanpur (Beed),Beed Infrastructure Site 354
+GEO-000355,LG-000355,19.334994,78.693122,Maharashtra,Bhandara,Kishanpur (Bhandara),Bhandara Infrastructure Site 355
+GEO-000356,LG-000356,15.601085,79.277062,Maharashtra,Buldhana,Kalyanpur (Buldhana),Buldhana Infrastructure Site 356
+GEO-000357,LG-000357,19.167959,76.75426,Maharashtra,Chandrapur,Kishanpur (Chandrapur),Chandrapur Infrastructure Site 357
+GEO-000358,LG-000358,19.353834,75.490491,Maharashtra,Dharashiv,Haripur (Dharashiv),Dharashiv Infrastructure Site 358
+GEO-000359,LG-000359,20.489684,78.637545,Maharashtra,Dhule,Nandpur (Dhule),Dhule Infrastructure Site 359
+GEO-000360,LG-000360,21.37581,73.236539,Maharashtra,Gadchiroli,Shivpur (Gadchiroli),Gadchiroli Infrastructure Site 360
+GEO-000361,LG-000361,21.558843,75.799252,Maharashtra,Gondia,Madhavpur (Gondia),Gondia Infrastructure Site 361
+GEO-000362,LG-000362,16.765564,78.261848,Maharashtra,Hingoli,Gopalpur (Hingoli),Hingoli Infrastructure Site 362
+GEO-000363,LG-000363,17.553081,73.092851,Maharashtra,Jalgaon,Nandpur (Jalgaon),Jalgaon Infrastructure Site 363
+GEO-000364,LG-000364,16.814055,75.732294,Maharashtra,Jalna,Kishanpur (Jalna),Jalna Infrastructure Site 364
+GEO-000365,LG-000365,19.856841,73.234202,Maharashtra,Kolhapur,Nandpur (Kolhapur),Kolhapur Infrastructure Site 365
+GEO-000366,LG-000366,21.848417,77.454454,Maharashtra,Latur,Chandpur (Latur),Latur Infrastructure Site 366
+GEO-000367,LG-000367,21.542148,72.862244,Maharashtra,Mumbai City,Haripur (Mumbai City),Mumbai City Infrastructure Site 367
+GEO-000368,LG-000368,15.89601,79.902757,Maharashtra,Mumbai Suburban,Shivpur (Mumbai Suburban),Mumbai Suburban Infrastructure Site 368
+GEO-000369,LG-000369,18.853684,77.351377,Maharashtra,Nagpur,Rampur (Nagpur),Nagpur Infrastructure Site 369
+GEO-000370,LG-000370,17.64805,80.573558,Maharashtra,Nanded,Bhavanipur (Nanded),Nanded Infrastructure Site 370
+GEO-000371,LG-000371,20.912528,75.471501,Maharashtra,Nandurbar,Rampur (Nandurbar),Nandurbar Infrastructure Site 371
+GEO-000372,LG-000372,17.369622,80.761403,Maharashtra,Nashik,Madhavpur (Nashik),Nashik Infrastructure Site 372
+GEO-000373,LG-000373,18.993435,78.57285,Maharashtra,Palghar,Gopalpur (Palghar),Palghar Infrastructure Site 373
+GEO-000374,LG-000374,21.007249,78.25255,Maharashtra,Parbhani,Haripur (Parbhani),Parbhani Infrastructure Site 374
+GEO-000375,LG-000375,20.080449,75.815397,Maharashtra,Pune,Chandpur (Pune),Pune Infrastructure Site 375
+GEO-000376,LG-000376,19.37082,72.685866,Maharashtra,Raigad,Bhavanipur (Raigad),Raigad Infrastructure Site 376
+GEO-000377,LG-000377,21.230562,77.305375,Maharashtra,Ratnagiri,Anandpur (Ratnagiri),Ratnagiri Infrastructure Site 377
+GEO-000378,LG-000378,17.68709,75.212383,Maharashtra,Sangli,Chandpur (Sangli),Sangli Infrastructure Site 378
+GEO-000379,LG-000379,16.881427,80.664485,Maharashtra,Satara,Kishanpur (Satara),Satara Infrastructure Site 379
+GEO-000380,LG-000380,21.595001,78.303573,Maharashtra,Sindhudurg,Sultanpur (Sindhudurg),Sindhudurg Infrastructure Site 380
+GEO-000381,LG-000381,21.599669,72.928029,Maharashtra,Solapur,Fatehpur (Solapur),Solapur Infrastructure Site 381
+GEO-000382,LG-000382,20.671852,76.437932,Maharashtra,Thane,Devpur (Thane),Thane Infrastructure Site 382
+GEO-000383,LG-000383,21.761303,76.155771,Maharashtra,Wardha,Shivpur (Wardha),Wardha Infrastructure Site 383
+GEO-000384,LG-000384,19.202249,80.185267,Maharashtra,Washim,Haripur (Washim),Washim Infrastructure Site 384
+GEO-000385,LG-000385,19.100052,73.829738,Maharashtra,Yavatmal,Rampur (Yavatmal),Yavatmal Infrastructure Site 385
+GEO-000386,LG-000386,25.183387,93.263056,Manipur,Bishnupur,Gopalpur (Bishnupur),Bishnupur Infrastructure Site 386
+GEO-000387,LG-000387,24.572668,93.300785,Manipur,Chandel,Kalyanpur (Chandel),Chandel Infrastructure Site 387
+GEO-000388,LG-000388,25.686154,93.629005,Manipur,Churachandpur,Kishanpur (Churachandpur),Churachandpur Infrastructure Site 388
+GEO-000389,LG-000389,24.531171,93.760332,Manipur,Imphal East,Govindpur (Imphal East),Imphal East Infrastructure Site 389
+GEO-000390,LG-000390,24.583752,93.679014,Manipur,Imphal West,Anandpur (Imphal West),Imphal West Infrastructure Site 390
+GEO-000391,LG-000391,23.949907,93.97953,Manipur,Jiribam,Madhavpur (Jiribam),Jiribam Infrastructure Site 391
+GEO-000392,LG-000392,23.975305,94.033187,Manipur,Kakching,Devpur (Kakching),Kakching Infrastructure Site 392
+GEO-000393,LG-000393,25.370047,93.935264,Manipur,Kamjong,Sultanpur (Kamjong),Kamjong Infrastructure Site 393
+GEO-000394,LG-000394,24.332165,93.858697,Manipur,Kangpokpi,Bhavanipur (Kangpokpi),Kangpokpi Infrastructure Site 394
+GEO-000395,LG-000395,25.122087,93.646034,Manipur,Noney,Sultanpur (Noney),Noney Infrastructure Site 395
+GEO-000396,LG-000396,24.632761,93.343478,Manipur,Pherzawl,Sultanpur (Pherzawl),Pherzawl Infrastructure Site 396
+GEO-000397,LG-000397,24.102524,93.449263,Manipur,Senapati,Kalyanpur (Senapati),Senapati Infrastructure Site 397
+GEO-000398,LG-000398,24.348781,93.882112,Manipur,Tamenglong,Rampur (Tamenglong),Tamenglong Infrastructure Site 398
+GEO-000399,LG-000399,24.998718,93.972777,Manipur,Tengnoupal,Kalyanpur (Tengnoupal),Tengnoupal Infrastructure Site 399
+GEO-000400,LG-000400,24.514179,93.341126,Manipur,Thoubal,Kalyanpur (Thoubal),Thoubal Infrastructure Site 400
+GEO-000401,LG-000401,24.398004,94.225874,Manipur,Ukhrul,Gopalpur (Ukhrul),Ukhrul Infrastructure Site 401
+GEO-000402,LG-000402,25.395762,90.635475,Meghalaya,East Garo Hills,Kalyanpur (East Garo Hills),East Garo Hills Infrastructure Site 402
+GEO-000403,LG-000403,25.881157,91.74817,Meghalaya,East Jaintia Hills,Anandpur (East Jaintia Hills),East Jaintia Hills Infrastructure Site 403
+GEO-000404,LG-000404,25.810396,90.514372,Meghalaya,East Khasi Hills,Kalyanpur (East Khasi Hills),East Khasi Hills Infrastructure Site 404
+GEO-000405,LG-000405,25.152294,92.056589,Meghalaya,Eastern West Khasi Hills,Sultanpur (Eastern West Khasi Hills),Eastern West Khasi Hills Infrastructure Site 405
+GEO-000406,LG-000406,25.643483,90.901136,Meghalaya,North Garo Hills,Devpur (North Garo Hills),North Garo Hills Infrastructure Site 406
+GEO-000407,LG-000407,25.458253,90.853495,Meghalaya,Ri Bhoi,Devpur (Ri Bhoi),Ri Bhoi Infrastructure Site 407
+GEO-000408,LG-000408,25.700488,91.159027,Meghalaya,South Garo Hills,Haripur (South Garo Hills),South Garo Hills Infrastructure Site 408
+GEO-000409,LG-000409,25.759973,90.489046,Meghalaya,South West Garo Hills,Govindpur (South West Garo Hills),South West Garo Hills Infrastructure Site 409
+GEO-000410,LG-000410,25.776842,92.241202,Meghalaya,South West Khasi Hills,Rampur (South West Khasi Hills),South West Khasi Hills Infrastructure Site 410
+GEO-000411,LG-000411,25.372357,90.001539,Meghalaya,West Garo Hills,Sultanpur (West Garo Hills),West Garo Hills Infrastructure Site 411
+GEO-000412,LG-000412,25.491705,91.050009,Meghalaya,West Jaintia Hills,Fatehpur (West Jaintia Hills),West Jaintia Hills Infrastructure Site 412
+GEO-000413,LG-000413,25.195258,91.53478,Meghalaya,West Khasi Hills,Gopalpur (West Khasi Hills),West Khasi Hills Infrastructure Site 413
+GEO-000414,LG-000414,21.93222,92.758798,Mizoram,Aizawl,Nandpur (Aizawl),Aizawl Infrastructure Site 414
+GEO-000415,LG-000415,23.072127,92.348166,Mizoram,Champhai,Kishanpur (Champhai),Champhai Infrastructure Site 415
+GEO-000416,LG-000416,24.12161,92.548396,Mizoram,Hnahthial,Haripur (Hnahthial),Hnahthial Infrastructure Site 416
+GEO-000417,LG-000417,23.351055,93.368101,Mizoram,Khawzawl,Chandpur (Khawzawl),Khawzawl Infrastructure Site 417
+GEO-000418,LG-000418,21.912326,92.939298,Mizoram,Kolasib,Chandpur (Kolasib),Kolasib Infrastructure Site 418
+GEO-000419,LG-000419,23.986309,92.392308,Mizoram,Lawngtlai,Rampur (Lawngtlai),Lawngtlai Infrastructure Site 419
+GEO-000420,LG-000420,23.662534,92.248047,Mizoram,Lunglei,Sultanpur (Lunglei),Lunglei Infrastructure Site 420
+GEO-000421,LG-000421,22.879582,92.499501,Mizoram,Mamit,Nandpur (Mamit),Mamit Infrastructure Site 421
+GEO-000422,LG-000422,23.100432,93.14348,Mizoram,Saiha,Chandpur (Saiha),Saiha Infrastructure Site 422
+GEO-000423,LG-000423,22.673719,92.247396,Mizoram,Saitual,Devpur (Saitual),Saitual Infrastructure Site 423
+GEO-000424,LG-000424,24.328822,93.27601,Mizoram,Serchhip,Anandpur (Serchhip),Serchhip Infrastructure Site 424
+GEO-000425,LG-000425,26.031362,95.137937,Nagaland,Chumoukedima,Shivpur (Chumoukedima),Chumoukedima Infrastructure Site 425
+GEO-000426,LG-000426,25.909089,94.502067,Nagaland,Dimapur,Kishanpur (Dimapur),Dimapur Infrastructure Site 426
+GEO-000427,LG-000427,25.301738,94.363727,Nagaland,Kiphire,Kishanpur (Kiphire),Kiphire Infrastructure Site 427
+GEO-000428,LG-000428,25.608462,94.461767,Nagaland,Kohima,Nandpur (Kohima),Kohima Infrastructure Site 428
+GEO-000429,LG-000429,25.673012,94.316577,Nagaland,Longleng,Fatehpur (Longleng),Longleng Infrastructure Site 429
+GEO-000430,LG-000430,26.956077,94.309949,Nagaland,Mokokchung,Kalyanpur (Mokokchung),Mokokchung Infrastructure Site 430
+GEO-000431,LG-000431,25.97273,94.262666,Nagaland,Mon,Madhavpur (Mon),Mon Infrastructure Site 431
+GEO-000432,LG-000432,26.44043,94.544231,Nagaland,Niuland,Govindpur (Niuland),Niuland Infrastructure Site 432
+GEO-000433,LG-000433,25.983265,95.047909,Nagaland,Noklak,Gopalpur (Noklak),Noklak Infrastructure Site 433
+GEO-000434,LG-000434,26.737045,94.295851,Nagaland,Peren,Chandpur (Peren),Peren Infrastructure Site 434
+GEO-000435,LG-000435,26.955659,93.674708,Nagaland,Phek,Chandpur (Phek),Phek Infrastructure Site 435
+GEO-000436,LG-000436,26.421169,94.210972,Nagaland,Shamator,Anandpur (Shamator),Shamator Infrastructure Site 436
+GEO-000437,LG-000437,26.574992,94.580053,Nagaland,Tseminyu,Kishanpur (Tseminyu),Tseminyu Infrastructure Site 437
+GEO-000438,LG-000438,27.03834,93.724445,Nagaland,Tuensang,Haripur (Tuensang),Tuensang Infrastructure Site 438
+GEO-000439,LG-000439,26.894956,94.536404,Nagaland,Wokha,Bhavanipur (Wokha),Wokha Infrastructure Site 439
+GEO-000440,LG-000440,26.382577,94.666373,Nagaland,Zunheboto,Anandpur (Zunheboto),Zunheboto Infrastructure Site 440
+GEO-000441,LG-000441,18.617409,85.618483,Odisha,Angul,Fatehpur (Angul),Angul Infrastructure Site 441
+GEO-000442,LG-000442,20.004363,83.291451,Odisha,Balangir,Shivpur (Balangir),Balangir Infrastructure Site 442
+GEO-000443,LG-000443,18.942298,86.187543,Odisha,Balasore,Haripur (Balasore),Balasore Infrastructure Site 443
+GEO-000444,LG-000444,21.774696,83.496863,Odisha,Bargarh,Gopalpur (Bargarh),Bargarh Infrastructure Site 444
+GEO-000445,LG-000445,19.76714,83.923215,Odisha,Bhadrak,Rampur (Bhadrak),Bhadrak Infrastructure Site 445
+GEO-000446,LG-000446,18.18102,82.66285,Odisha,Boudh,Haripur (Boudh),Boudh Infrastructure Site 446
+GEO-000447,LG-000447,22.41988,81.744367,Odisha,Cuttack,Fatehpur (Cuttack),Cuttack Infrastructure Site 447
+GEO-000448,LG-000448,18.639542,84.993252,Odisha,Deogarh,Devpur (Deogarh),Deogarh Infrastructure Site 448
+GEO-000449,LG-000449,18.035519,82.775842,Odisha,Dhenkanal,Govindpur (Dhenkanal),Dhenkanal Infrastructure Site 449
+GEO-000450,LG-000450,17.897356,85.879848,Odisha,Gajapati,Rampur (Gajapati),Gajapati Infrastructure Site 450
+GEO-000451,LG-000451,21.021589,83.323037,Odisha,Ganjam,Devpur (Ganjam),Ganjam Infrastructure Site 451
+GEO-000452,LG-000452,19.199354,86.075691,Odisha,Jagatsinghpur,Kishanpur (Jagatsinghpur),Jagatsinghpur Infrastructure Site 452
+GEO-000453,LG-000453,18.859761,84.899737,Odisha,Jajpur,Shivpur (Jajpur),Jajpur Infrastructure Site 453
+GEO-000454,LG-000454,20.344255,81.761354,Odisha,Jharsuguda,Sultanpur (Jharsuguda),Jharsuguda Infrastructure Site 454
+GEO-000455,LG-000455,19.522658,83.218673,Odisha,Kalahandi,Sultanpur (Kalahandi),Kalahandi Infrastructure Site 455
+GEO-000456,LG-000456,21.91752,81.658551,Odisha,Kandhamal,Chandpur (Kandhamal),Kandhamal Infrastructure Site 456
+GEO-000457,LG-000457,20.294174,82.358704,Odisha,Kendrapara,Chandpur (Kendrapara),Kendrapara Infrastructure Site 457
+GEO-000458,LG-000458,21.869921,82.866098,Odisha,Kendujhar,Kishanpur (Kendujhar),Kendujhar Infrastructure Site 458
+GEO-000459,LG-000459,19.446326,84.118758,Odisha,Khordha,Devpur (Khordha),Khordha Infrastructure Site 459
+GEO-000460,LG-000460,18.308099,86.709557,Odisha,Koraput,Fatehpur (Koraput),Koraput Infrastructure Site 460
+GEO-000461,LG-000461,20.120586,87.47938,Odisha,Malkangiri,Govindpur (Malkangiri),Malkangiri Infrastructure Site 461
+GEO-000462,LG-000462,19.52401,85.056761,Odisha,Mayurbhanj,Gopalpur (Mayurbhanj),Mayurbhanj Infrastructure Site 462
+GEO-000463,LG-000463,20.819685,81.500458,Odisha,Nabarangpur,Govindpur (Nabarangpur),Nabarangpur Infrastructure Site 463
+GEO-000464,LG-000464,22.273771,85.862343,Odisha,Nayagarh,Madhavpur (Nayagarh),Nayagarh Infrastructure Site 464
+GEO-000465,LG-000465,22.340498,83.959855,Odisha,Nuapada,Anandpur (Nuapada),Nuapada Infrastructure Site 465
+GEO-000466,LG-000466,21.81567,86.421165,Odisha,Puri,Nandpur (Puri),Puri Infrastructure Site 466
+GEO-000467,LG-000467,19.985746,87.427409,Odisha,Rayagada,Kishanpur (Rayagada),Rayagada Infrastructure Site 467
+GEO-000468,LG-000468,21.672308,87.321115,Odisha,Sambalpur,Devpur (Sambalpur),Sambalpur Infrastructure Site 468
+GEO-000469,LG-000469,19.280499,82.266583,Odisha,Subarnapur,Govindpur (Subarnapur),Subarnapur Infrastructure Site 469
+GEO-000470,LG-000470,21.643913,85.352943,Odisha,Sundargarh,Rampur (Sundargarh),Sundargarh Infrastructure Site 470
+GEO-000471,LG-000471,29.656294,75.115646,Punjab,Amritsar,Kalyanpur (Amritsar),Amritsar Infrastructure Site 471
+GEO-000472,LG-000472,31.095341,75.83791,Punjab,Barnala,Sultanpur (Barnala),Barnala Infrastructure Site 472
+GEO-000473,LG-000473,30.170517,76.022611,Punjab,Bathinda,Shivpur (Bathinda),Bathinda Infrastructure Site 473
+GEO-000474,LG-000474,29.800995,75.041138,Punjab,Faridkot,Fatehpur (Faridkot),Faridkot Infrastructure Site 474
+GEO-000475,LG-000475,31.736412,75.588873,Punjab,Fatehgarh Sahib,Kishanpur (Fatehgarh Sahib),Fatehgarh Sahib Infrastructure Site 475
+GEO-000476,LG-000476,31.450464,74.680338,Punjab,Fazilka,Kalyanpur (Fazilka),Fazilka Infrastructure Site 476
+GEO-000477,LG-000477,30.859159,73.995956,Punjab,Firozpur,Rampur (Firozpur),Firozpur Infrastructure Site 477
+GEO-000478,LG-000478,29.941741,76.537211,Punjab,Gurdaspur,Bhavanipur (Gurdaspur),Gurdaspur Infrastructure Site 478
+GEO-000479,LG-000479,30.180781,76.571145,Punjab,Hoshiarpur,Madhavpur (Hoshiarpur),Hoshiarpur Infrastructure Site 479
+GEO-000480,LG-000480,32.293613,75.869844,Punjab,Jalandhar,Anandpur (Jalandhar),Jalandhar Infrastructure Site 480
+GEO-000481,LG-000481,30.190977,75.785688,Punjab,Kapurthala,Bhavanipur (Kapurthala),Kapurthala Infrastructure Site 481
+GEO-000482,LG-000482,30.911247,75.054241,Punjab,Ludhiana,Gopalpur (Ludhiana),Ludhiana Infrastructure Site 482
+GEO-000483,LG-000483,29.919902,74.137015,Punjab,Malerkotla,Nandpur (Malerkotla),Malerkotla Infrastructure Site 483
+GEO-000484,LG-000484,29.830189,75.034043,Punjab,Mansa,Rampur (Mansa),Mansa Infrastructure Site 484
+GEO-000485,LG-000485,32.265712,74.088659,Punjab,Moga,Kalyanpur (Moga),Moga Infrastructure Site 485
+GEO-000486,LG-000486,30.245538,75.024715,Punjab,Pathankot,Shivpur (Pathankot),Pathankot Infrastructure Site 486
+GEO-000487,LG-000487,30.45513,75.377383,Punjab,Patiala,Anandpur (Patiala),Patiala Infrastructure Site 487
+GEO-000488,LG-000488,29.678944,74.437747,Punjab,Rupnagar,Shivpur (Rupnagar),Rupnagar Infrastructure Site 488
+GEO-000489,LG-000489,30.942253,74.907847,Punjab,Sahibzada Ajit Singh Nagar,Devpur (Sahibzada Ajit Singh Nagar),Sahibzada Ajit Singh Nagar Infrastructure Site 489
+GEO-000490,LG-000490,29.840555,75.369437,Punjab,Sangrur,Haripur (Sangrur),Sangrur Infrastructure Site 490
+GEO-000491,LG-000491,31.120682,74.412689,Punjab,Shahid Bhagat Singh Nagar,Fatehpur (Shahid Bhagat Singh Nagar),Shahid Bhagat Singh Nagar Infrastructure Site 491
+GEO-000492,LG-000492,31.352936,74.196463,Punjab,Sri Muktsar Sahib,Haripur (Sri Muktsar Sahib),Sri Muktsar Sahib Infrastructure Site 492
+GEO-000493,LG-000493,30.215667,74.918349,Punjab,Tarn Taran,Chandpur (Tarn Taran),Tarn Taran Infrastructure Site 493
+GEO-000494,LG-000494,29.987043,69.567702,Rajasthan,Ajmer,Chandpur (Ajmer),Ajmer Infrastructure Site 494
+GEO-000495,LG-000495,28.044999,75.31016,Rajasthan,Alwar,Anandpur (Alwar),Alwar Infrastructure Site 495
+GEO-000496,LG-000496,23.718847,76.750431,Rajasthan,Banswara,Nandpur (Banswara),Banswara Infrastructure Site 496
+GEO-000497,LG-000497,27.500509,75.282269,Rajasthan,Baran,Nandpur (Baran),Baran Infrastructure Site 497
+GEO-000498,LG-000498,26.876643,72.182641,Rajasthan,Barmer,Madhavpur (Barmer),Barmer Infrastructure Site 498
+GEO-000499,LG-000499,27.620596,71.879247,Rajasthan,Bharatpur,Haripur (Bharatpur),Bharatpur Infrastructure Site 499
+GEO-000500,LG-000500,29.300528,77.409738,Rajasthan,Bhilwara,Nandpur (Bhilwara),Bhilwara Infrastructure Site 500
+GEO-000501,LG-000501,26.135515,74.171236,Rajasthan,Bikaner,Kishanpur (Bikaner),Bikaner Infrastructure Site 501
+GEO-000502,LG-000502,23.576409,73.65603,Rajasthan,Bundi,Sultanpur (Bundi),Bundi Infrastructure Site 502
+GEO-000503,LG-000503,26.634823,72.041467,Rajasthan,Chittorgarh,Devpur (Chittorgarh),Chittorgarh Infrastructure Site 503
+GEO-000504,LG-000504,27.641652,74.548225,Rajasthan,Churu,Rampur (Churu),Churu Infrastructure Site 504
+GEO-000505,LG-000505,27.179264,70.693107,Rajasthan,Dausa,Nandpur (Dausa),Dausa Infrastructure Site 505
+GEO-000506,LG-000506,27.7631,74.343408,Rajasthan,Dholpur,Haripur (Dholpur),Dholpur Infrastructure Site 506
+GEO-000507,LG-000507,29.575786,72.096715,Rajasthan,Dungarpur,Devpur (Dungarpur),Dungarpur Infrastructure Site 507
+GEO-000508,LG-000508,24.748382,71.61651,Rajasthan,Hanumangarh,Shivpur (Hanumangarh),Hanumangarh Infrastructure Site 508
+GEO-000509,LG-000509,26.709094,75.597357,Rajasthan,Jaipur,Madhavpur (Jaipur),Jaipur Infrastructure Site 509
+GEO-000510,LG-000510,28.177393,72.267815,Rajasthan,Jaipur Rural,Devpur (Jaipur Rural),Jaipur Rural Infrastructure Site 510
+GEO-000511,LG-000511,27.679116,71.711129,Rajasthan,Jaisalmer,Fatehpur (Jaisalmer),Jaisalmer Infrastructure Site 511
+GEO-000512,LG-000512,26.177388,70.463632,Rajasthan,Jalore,Kishanpur (Jalore),Jalore Infrastructure Site 512
+GEO-000513,LG-000513,28.084561,71.256744,Rajasthan,Jhalawar,Madhavpur (Jhalawar),Jhalawar Infrastructure Site 513
+GEO-000514,LG-000514,29.671629,77.18916,Rajasthan,Jhunjhunu,Devpur (Jhunjhunu),Jhunjhunu Infrastructure Site 514
+GEO-000515,LG-000515,28.85974,76.357943,Rajasthan,Jodhpur,Devpur (Jodhpur),Jodhpur Infrastructure Site 515
+GEO-000516,LG-000516,23.403671,75.435479,Rajasthan,Jodhpur Rural,Govindpur (Jodhpur Rural),Jodhpur Rural Infrastructure Site 516
+GEO-000517,LG-000517,28.878014,73.572528,Rajasthan,Karauli,Nandpur (Karauli),Karauli Infrastructure Site 517
+GEO-000518,LG-000518,27.858646,72.384086,Rajasthan,Kota,Fatehpur (Kota),Kota Infrastructure Site 518
+GEO-000519,LG-000519,28.750664,73.237128,Rajasthan,Nagaur,Chandpur (Nagaur),Nagaur Infrastructure Site 519
+GEO-000520,LG-000520,23.870405,76.966514,Rajasthan,Pali,Shivpur (Pali),Pali Infrastructure Site 520
+GEO-000521,LG-000521,25.31547,77.458356,Rajasthan,Pratapgarh,Kalyanpur (Pratapgarh),Pratapgarh Infrastructure Site 521
+GEO-000522,LG-000522,23.77891,73.226877,Rajasthan,Rajsamand,Haripur (Rajsamand),Rajsamand Infrastructure Site 522
+GEO-000523,LG-000523,29.907524,78.139643,Rajasthan,Sawai Madhopur,Kalyanpur (Sawai Madhopur),Sawai Madhopur Infrastructure Site 523
+GEO-000524,LG-000524,27.453895,75.416183,Rajasthan,Sikar,Shivpur (Sikar),Sikar Infrastructure Site 524
+GEO-000525,LG-000525,25.257153,73.932385,Rajasthan,Sirohi,Gopalpur (Sirohi),Sirohi Infrastructure Site 525
+GEO-000526,LG-000526,28.68866,72.180698,Rajasthan,Sri Ganganagar,Sultanpur (Sri Ganganagar),Sri Ganganagar Infrastructure Site 526
+GEO-000527,LG-000527,28.057524,72.216731,Rajasthan,Tonk,Shivpur (Tonk),Tonk Infrastructure Site 527
+GEO-000528,LG-000528,28.752574,71.14204,Rajasthan,Udaipur,Kalyanpur (Udaipur),Udaipur Infrastructure Site 528
+GEO-000529,LG-000529,27.265144,74.103368,Rajasthan,Anupgarh,Bhavanipur (Anupgarh),Anupgarh Infrastructure Site 529
+GEO-000530,LG-000530,29.135943,70.471521,Rajasthan,Balotra,Sultanpur (Balotra),Balotra Infrastructure Site 530
+GEO-000531,LG-000531,29.997446,72.56058,Rajasthan,Beawar,Rampur (Beawar),Beawar Infrastructure Site 531
+GEO-000532,LG-000532,25.955798,71.448251,Rajasthan,Deeg,Nandpur (Deeg),Deeg Infrastructure Site 532
+GEO-000533,LG-000533,27.181311,70.280037,Rajasthan,Didwana-Kuchaman,Anandpur (Didwana-Kuchaman),Didwana-Kuchaman Infrastructure Site 533
+GEO-000534,LG-000534,29.445293,74.363533,Rajasthan,Dudu,Fatehpur (Dudu),Dudu Infrastructure Site 534
+GEO-000535,LG-000535,23.943556,77.56317,Rajasthan,Gangapur City,Gopalpur (Gangapur City),Gangapur City Infrastructure Site 535
+GEO-000536,LG-000536,28.836215,77.497744,Rajasthan,Kekri,Kishanpur (Kekri),Kekri Infrastructure Site 536
+GEO-000537,LG-000537,27.108697,70.699509,Rajasthan,Kotputli-Behror,Nandpur (Kotputli-Behror),Kotputli-Behror Infrastructure Site 537
+GEO-000538,LG-000538,25.547226,76.254121,Rajasthan,Khairthal-Tijara,Haripur (Khairthal-Tijara),Khairthal-Tijara Infrastructure Site 538
+GEO-000539,LG-000539,23.910343,71.117912,Rajasthan,Neem Ka Thana,Shivpur (Neem Ka Thana),Neem Ka Thana Infrastructure Site 539
+GEO-000540,LG-000540,28.312032,73.708955,Rajasthan,Phalodi,Chandpur (Phalodi),Phalodi Infrastructure Site 540
+GEO-000541,LG-000541,26.709489,75.94383,Rajasthan,Salumbar,Chandpur (Salumbar),Salumbar Infrastructure Site 541
+GEO-000542,LG-000542,27.968741,75.483366,Rajasthan,Sanchore,Nandpur (Sanchore),Sanchore Infrastructure Site 542
+GEO-000543,LG-000543,23.342977,74.60219,Rajasthan,Shahpura,Devpur (Shahpura),Shahpura Infrastructure Site 543
+GEO-000544,LG-000544,27.734047,88.658262,Sikkim,Gangtok,Shivpur (Gangtok),Gangtok Infrastructure Site 544
+GEO-000545,LG-000545,27.170053,88.368174,Sikkim,Mangan,Devpur (Mangan),Mangan Infrastructure Site 545
+GEO-000546,LG-000546,27.692666,88.746249,Sikkim,Namchi,Sultanpur (Namchi),Namchi Infrastructure Site 546
+GEO-000547,LG-000547,27.898945,88.160239,Sikkim,Pakyong,Fatehpur (Pakyong),Pakyong Infrastructure Site 547
+GEO-000548,LG-000548,27.429088,88.147335,Sikkim,Soreng,Nandpur (Soreng),Soreng Infrastructure Site 548
+GEO-000549,LG-000549,27.584032,88.198069,Sikkim,Gyalshing,Devpur (Gyalshing),Gyalshing Infrastructure Site 549
+GEO-000550,LG-000550,13.304143,76.6373,Tamil Nadu,Ariyalur,Kishanpur (Ariyalur),Ariyalur Infrastructure Site 550
+GEO-000551,LG-000551,8.840808,77.361434,Tamil Nadu,Chengalpattu,Shivpur (Chengalpattu),Chengalpattu Infrastructure Site 551
+GEO-000552,LG-000552,9.115191,77.332923,Tamil Nadu,Chennai,Bhavanipur (Chennai),Chennai Infrastructure Site 552
+GEO-000553,LG-000553,9.299972,77.217326,Tamil Nadu,Coimbatore,Chandpur (Coimbatore),Coimbatore Infrastructure Site 553
+GEO-000554,LG-000554,13.018351,77.366843,Tamil Nadu,Cuddalore,Fatehpur (Cuddalore),Cuddalore Infrastructure Site 554
+GEO-000555,LG-000555,9.809343,79.465751,Tamil Nadu,Dharmapuri,Anandpur (Dharmapuri),Dharmapuri Infrastructure Site 555
+GEO-000556,LG-000556,9.974387,78.738409,Tamil Nadu,Dindigul,Haripur (Dindigul),Dindigul Infrastructure Site 556
+GEO-000557,LG-000557,9.03881,77.406228,Tamil Nadu,Erode,Gopalpur (Erode),Erode Infrastructure Site 557
+GEO-000558,LG-000558,12.329711,79.703266,Tamil Nadu,Kallakurichi,Devpur (Kallakurichi),Kallakurichi Infrastructure Site 558
+GEO-000559,LG-000559,9.444931,76.833552,Tamil Nadu,Kanchipuram,Kalyanpur (Kanchipuram),Kanchipuram Infrastructure Site 559
+GEO-000560,LG-000560,9.557868,78.332084,Tamil Nadu,Kanyakumari,Chandpur (Kanyakumari),Kanyakumari Infrastructure Site 560
+GEO-000561,LG-000561,8.543333,76.326498,Tamil Nadu,Karur,Devpur (Karur),Karur Infrastructure Site 561
+GEO-000562,LG-000562,8.642338,79.567593,Tamil Nadu,Krishnagiri,Rampur (Krishnagiri),Krishnagiri Infrastructure Site 562
+GEO-000563,LG-000563,8.680997,77.10221,Tamil Nadu,Madurai,Rampur (Madurai),Madurai Infrastructure Site 563
+GEO-000564,LG-000564,11.628997,79.483665,Tamil Nadu,Mayiladuthurai,Shivpur (Mayiladuthurai),Mayiladuthurai Infrastructure Site 564
+GEO-000565,LG-000565,13.011811,78.430812,Tamil Nadu,Nagapattinam,Rampur (Nagapattinam),Nagapattinam Infrastructure Site 565
+GEO-000566,LG-000566,8.50537,78.217273,Tamil Nadu,Namakkal,Bhavanipur (Namakkal),Namakkal Infrastructure Site 566
+GEO-000567,LG-000567,9.72503,78.214559,Tamil Nadu,Nilgiris,Haripur (Nilgiris),Nilgiris Infrastructure Site 567
+GEO-000568,LG-000568,13.394394,79.162313,Tamil Nadu,Perambalur,Sultanpur (Perambalur),Perambalur Infrastructure Site 568
+GEO-000569,LG-000569,10.024536,77.328164,Tamil Nadu,Pudukkottai,Gopalpur (Pudukkottai),Pudukkottai Infrastructure Site 569
+GEO-000570,LG-000570,12.156708,77.303349,Tamil Nadu,Ramanathapuram,Rampur (Ramanathapuram),Ramanathapuram Infrastructure Site 570
+GEO-000571,LG-000571,8.897086,78.409786,Tamil Nadu,Ranipet,Devpur (Ranipet),Ranipet Infrastructure Site 571
+GEO-000572,LG-000572,9.649501,78.425967,Tamil Nadu,Salem,Kishanpur (Salem),Salem Infrastructure Site 572
+GEO-000573,LG-000573,8.794102,78.013822,Tamil Nadu,Sivaganga,Kalyanpur (Sivaganga),Sivaganga Infrastructure Site 573
+GEO-000574,LG-000574,13.027073,77.839215,Tamil Nadu,Tenkasi,Kishanpur (Tenkasi),Tenkasi Infrastructure Site 574
+GEO-000575,LG-000575,13.100048,77.430065,Tamil Nadu,Thanjavur,Gopalpur (Thanjavur),Thanjavur Infrastructure Site 575
+GEO-000576,LG-000576,8.261627,78.35783,Tamil Nadu,Theni,Kalyanpur (Theni),Theni Infrastructure Site 576
+GEO-000577,LG-000577,11.896606,79.305116,Tamil Nadu,Thoothukudi,Nandpur (Thoothukudi),Thoothukudi Infrastructure Site 577
+GEO-000578,LG-000578,11.659549,79.802306,Tamil Nadu,Tiruchirappalli,Bhavanipur (Tiruchirappalli),Tiruchirappalli Infrastructure Site 578
+GEO-000579,LG-000579,9.317678,79.71391,Tamil Nadu,Tirunelveli,Chandpur (Tirunelveli),Tirunelveli Infrastructure Site 579
+GEO-000580,LG-000580,11.606677,76.994494,Tamil Nadu,Tirupathur,Madhavpur (Tirupathur),Tirupathur Infrastructure Site 580
+GEO-000581,LG-000581,9.517099,78.316588,Tamil Nadu,Tiruppur,Chandpur (Tiruppur),Tiruppur Infrastructure Site 581
+GEO-000582,LG-000582,12.747766,79.288525,Tamil Nadu,Tiruvallur,Anandpur (Tiruvallur),Tiruvallur Infrastructure Site 582
+GEO-000583,LG-000583,9.519413,78.507273,Tamil Nadu,Tiruvannamalai,Bhavanipur (Tiruvannamalai),Tiruvannamalai Infrastructure Site 583
+GEO-000584,LG-000584,10.049249,79.139969,Tamil Nadu,Tiruvarur,Chandpur (Tiruvarur),Tiruvarur Infrastructure Site 584
+GEO-000585,LG-000585,10.541314,79.856335,Tamil Nadu,Vellore,Sultanpur (Vellore),Vellore Infrastructure Site 585
+GEO-000586,LG-000586,9.089871,78.731945,Tamil Nadu,Viluppuram,Rampur (Viluppuram),Viluppuram Infrastructure Site 586
+GEO-000587,LG-000587,10.382719,78.852118,Tamil Nadu,Virudhunagar,Madhavpur (Virudhunagar),Virudhunagar Infrastructure Site 587
+GEO-000588,LG-000588,17.604829,77.772648,Telangana,Adilabad,Rampur (Adilabad),Adilabad Infrastructure Site 588
+GEO-000589,LG-000589,16.353028,80.885238,Telangana,Bhadradri Kothagudem,Kishanpur (Bhadradri Kothagudem),Bhadradri Kothagudem Infrastructure Site 589
+GEO-000590,LG-000590,18.845638,77.410055,Telangana,Hanamkonda,Haripur (Hanamkonda),Hanamkonda Infrastructure Site 590
+GEO-000591,LG-000591,16.657347,81.217888,Telangana,Hyderabad,Anandpur (Hyderabad),Hyderabad Infrastructure Site 591
+GEO-000592,LG-000592,16.350878,79.702249,Telangana,Jagtial,Haripur (Jagtial),Jagtial Infrastructure Site 592
+GEO-000593,LG-000593,19.421017,80.380782,Telangana,Jangaon,Devpur (Jangaon),Jangaon Infrastructure Site 593
+GEO-000594,LG-000594,16.080259,79.308597,Telangana,Jayashankar Bhupalpally,Bhavanipur (Jayashankar Bhupalpally),Jayashankar Bhupalpally Infrastructure Site 594
+GEO-000595,LG-000595,18.383096,79.355381,Telangana,Jogulamba Gadwal,Fatehpur (Jogulamba Gadwal),Jogulamba Gadwal Infrastructure Site 595
+GEO-000596,LG-000596,19.349912,78.397824,Telangana,Kamareddy,Rampur (Kamareddy),Kamareddy Infrastructure Site 596
+GEO-000597,LG-000597,19.37683,81.269262,Telangana,Karimnagar,Fatehpur (Karimnagar),Karimnagar Infrastructure Site 597
+GEO-000598,LG-000598,17.765177,80.646836,Telangana,Khammam,Bhavanipur (Khammam),Khammam Infrastructure Site 598
+GEO-000599,LG-000599,18.26892,79.962284,Telangana,Kumuram Bheem,Haripur (Kumuram Bheem),Kumuram Bheem Infrastructure Site 599
+GEO-000600,LG-000600,17.561321,77.306227,Telangana,Mahabubabad,Gopalpur (Mahabubabad),Mahabubabad Infrastructure Site 600
+GEO-000601,LG-000601,16.004811,80.077782,Telangana,Mahabubnagar,Anandpur (Mahabubnagar),Mahabubnagar Infrastructure Site 601
+GEO-000602,LG-000602,17.391922,80.417675,Telangana,Mancherial,Rampur (Mancherial),Mancherial Infrastructure Site 602
+GEO-000603,LG-000603,18.15911,77.884124,Telangana,Medak,Bhavanipur (Medak),Medak Infrastructure Site 603
+GEO-000604,LG-000604,17.718513,79.40776,Telangana,Medchal-Malkajgiri,Kalyanpur (Medchal-Malkajgiri),Medchal-Malkajgiri Infrastructure Site 604
+GEO-000605,LG-000605,19.734111,77.582398,Telangana,Mulugu,Gopalpur (Mulugu),Mulugu Infrastructure Site 605
+GEO-000606,LG-000606,19.667392,79.011549,Telangana,Nagarkurnool,Rampur (Nagarkurnool),Nagarkurnool Infrastructure Site 606
+GEO-000607,LG-000607,15.86026,77.887804,Telangana,Nalgonda,Fatehpur (Nalgonda),Nalgonda Infrastructure Site 607
+GEO-000608,LG-000608,18.776857,78.984258,Telangana,Narayanpet,Madhavpur (Narayanpet),Narayanpet Infrastructure Site 608
+GEO-000609,LG-000609,18.563986,78.80251,Telangana,Nirmal,Nandpur (Nirmal),Nirmal Infrastructure Site 609
+GEO-000610,LG-000610,18.865889,79.240995,Telangana,Nizamabad,Fatehpur (Nizamabad),Nizamabad Infrastructure Site 610
+GEO-000611,LG-000611,19.228647,80.377292,Telangana,Peddapalli,Bhavanipur (Peddapalli),Peddapalli Infrastructure Site 611
+GEO-000612,LG-000612,16.621654,81.13988,Telangana,Rajanna Sircilla,Haripur (Rajanna Sircilla),Rajanna Sircilla Infrastructure Site 612
+GEO-000613,LG-000613,18.891513,77.831172,Telangana,Rangareddy,Chandpur (Rangareddy),Rangareddy Infrastructure Site 613
+GEO-000614,LG-000614,19.770021,81.143588,Telangana,Sangareddy,Kishanpur (Sangareddy),Sangareddy Infrastructure Site 614
+GEO-000615,LG-000615,17.904307,80.11377,Telangana,Siddipet,Rampur (Siddipet),Siddipet Infrastructure Site 615
+GEO-000616,LG-000616,17.660342,80.225491,Telangana,Suryapet,Madhavpur (Suryapet),Suryapet Infrastructure Site 616
+GEO-000617,LG-000617,18.98372,80.666949,Telangana,Vikarabad,Rampur (Vikarabad),Vikarabad Infrastructure Site 617
+GEO-000618,LG-000618,19.450292,80.210493,Telangana,Wanaparthy,Govindpur (Wanaparthy),Wanaparthy Infrastructure Site 618
+GEO-000619,LG-000619,19.209798,79.166269,Telangana,Warangal,Haripur (Warangal),Warangal Infrastructure Site 619
+GEO-000620,LG-000620,16.596898,81.09038,Telangana,Yadadri Bhuvanagiri,Devpur (Yadadri Bhuvanagiri),Yadadri Bhuvanagiri Infrastructure Site 620
+GEO-000621,LG-000621,23.424414,91.701806,Tripura,Dhalai,Nandpur (Dhalai),Dhalai Infrastructure Site 621
+GEO-000622,LG-000622,23.741274,92.145426,Tripura,Gomati,Haripur (Gomati),Gomati Infrastructure Site 622
+GEO-000623,LG-000623,23.232723,92.154251,Tripura,Khowai,Devpur (Khowai),Khowai Infrastructure Site 623
+GEO-000624,LG-000624,23.863074,91.280131,Tripura,North Tripura,Kishanpur (North Tripura),North Tripura Infrastructure Site 624
+GEO-000625,LG-000625,23.638454,92.275779,Tripura,Sepahijala,Bhavanipur (Sepahijala),Sepahijala Infrastructure Site 625
+GEO-000626,LG-000626,23.151179,91.176213,Tripura,South Tripura,Kishanpur (South Tripura),South Tripura Infrastructure Site 626
+GEO-000627,LG-000627,24.20633,92.108538,Tripura,Unakoti,Chandpur (Unakoti),Unakoti Infrastructure Site 627
+GEO-000628,LG-000628,24.028463,91.397396,Tripura,West Tripura,Sultanpur (West Tripura),West Tripura Infrastructure Site 628
+GEO-000629,LG-000629,25.342327,82.110153,Uttar Pradesh,Agra,Rampur (Agra),Agra Infrastructure Site 629
+GEO-000630,LG-000630,28.687161,84.118901,Uttar Pradesh,Aligarh,Sultanpur (Aligarh),Aligarh Infrastructure Site 630
+GEO-000631,LG-000631,30.011645,81.101405,Uttar Pradesh,Ambedkar Nagar,Shivpur (Ambedkar Nagar),Ambedkar Nagar Infrastructure Site 631
+GEO-000632,LG-000632,26.546947,80.265868,Uttar Pradesh,Amethi,Rampur (Amethi),Amethi Infrastructure Site 632
+GEO-000633,LG-000633,28.237861,81.668843,Uttar Pradesh,Amroha,Anandpur (Amroha),Amroha Infrastructure Site 633
+GEO-000634,LG-000634,30.08107,79.450761,Uttar Pradesh,Auraiya,Haripur (Auraiya),Auraiya Infrastructure Site 634
+GEO-000635,LG-000635,26.025568,77.403629,Uttar Pradesh,Ayodhya,Kalyanpur (Ayodhya),Ayodhya Infrastructure Site 635
+GEO-000636,LG-000636,25.389582,79.112762,Uttar Pradesh,Azamgarh,Haripur (Azamgarh),Azamgarh Infrastructure Site 636
+GEO-000637,LG-000637,27.482175,78.390491,Uttar Pradesh,Baghpat,Nandpur (Baghpat),Baghpat Infrastructure Site 637
+GEO-000638,LG-000638,28.044991,84.57297,Uttar Pradesh,Bahraich,Haripur (Bahraich),Bahraich Infrastructure Site 638
+GEO-000639,LG-000639,26.907899,83.73436,Uttar Pradesh,Ballia,Kishanpur (Ballia),Ballia Infrastructure Site 639
+GEO-000640,LG-000640,26.102395,79.389613,Uttar Pradesh,Balrampur,Govindpur (Balrampur),Balrampur Infrastructure Site 640
+GEO-000641,LG-000641,25.140633,82.957078,Uttar Pradesh,Banda,Kishanpur (Banda),Banda Infrastructure Site 641
+GEO-000642,LG-000642,27.728262,77.350543,Uttar Pradesh,Barabanki,Shivpur (Barabanki),Barabanki Infrastructure Site 642
+GEO-000643,LG-000643,28.95072,83.797109,Uttar Pradesh,Bareilly,Govindpur (Bareilly),Bareilly Infrastructure Site 643
+GEO-000644,LG-000644,28.312981,79.484275,Uttar Pradesh,Basti,Kalyanpur (Basti),Basti Infrastructure Site 644
+GEO-000645,LG-000645,29.41102,84.471822,Uttar Pradesh,Bhadohi,Govindpur (Bhadohi),Bhadohi Infrastructure Site 645
+GEO-000646,LG-000646,25.725337,83.468785,Uttar Pradesh,Bijnor,Kishanpur (Bijnor),Bijnor Infrastructure Site 646
+GEO-000647,LG-000647,26.368132,78.135679,Uttar Pradesh,Budaun,Devpur (Budaun),Budaun Infrastructure Site 647
+GEO-000648,LG-000648,27.570346,84.088736,Uttar Pradesh,Bulandshahr,Sultanpur (Bulandshahr),Bulandshahr Infrastructure Site 648
+GEO-000649,LG-000649,27.09676,84.128842,Uttar Pradesh,Chandauli,Govindpur (Chandauli),Chandauli Infrastructure Site 649
+GEO-000650,LG-000650,27.648517,79.672019,Uttar Pradesh,Chitrakoot,Devpur (Chitrakoot),Chitrakoot Infrastructure Site 650
+GEO-000651,LG-000651,29.935521,77.848123,Uttar Pradesh,Deoria,Devpur (Deoria),Deoria Infrastructure Site 651
+GEO-000652,LG-000652,28.237841,84.317331,Uttar Pradesh,Etah,Haripur (Etah),Etah Infrastructure Site 652
+GEO-000653,LG-000653,25.207034,80.921826,Uttar Pradesh,Etawah,Kalyanpur (Etawah),Etawah Infrastructure Site 653
+GEO-000654,LG-000654,29.683426,79.794308,Uttar Pradesh,Farrukhabad,Shivpur (Farrukhabad),Farrukhabad Infrastructure Site 654
+GEO-000655,LG-000655,25.211817,83.951561,Uttar Pradesh,Fatehpur,Kishanpur (Fatehpur),Fatehpur Infrastructure Site 655
+GEO-000656,LG-000656,27.000173,79.068155,Uttar Pradesh,Firozabad,Kalyanpur (Firozabad),Firozabad Infrastructure Site 656
+GEO-000657,LG-000657,28.66735,81.730778,Uttar Pradesh,Gautam Buddha Nagar,Sultanpur (Gautam Buddha Nagar),Gautam Buddha Nagar Infrastructure Site 657
+GEO-000658,LG-000658,25.064373,82.211554,Uttar Pradesh,Ghaziabad,Haripur (Ghaziabad),Ghaziabad Infrastructure Site 658
+GEO-000659,LG-000659,27.953288,80.478046,Uttar Pradesh,Ghazipur,Nandpur (Ghazipur),Ghazipur Infrastructure Site 659
+GEO-000660,LG-000660,23.930622,83.633653,Uttar Pradesh,Gonda,Rampur (Gonda),Gonda Infrastructure Site 660
+GEO-000661,LG-000661,25.347974,82.414206,Uttar Pradesh,Gorakhpur,Kishanpur (Gorakhpur),Gorakhpur Infrastructure Site 661
+GEO-000662,LG-000662,26.790108,78.863617,Uttar Pradesh,Hamirpur,Anandpur (Hamirpur),Hamirpur Infrastructure Site 662
+GEO-000663,LG-000663,25.419361,78.711388,Uttar Pradesh,Hapur,Nandpur (Hapur),Hapur Infrastructure Site 663
+GEO-000664,LG-000664,24.756553,79.249149,Uttar Pradesh,Hardoi,Haripur (Hardoi),Hardoi Infrastructure Site 664
+GEO-000665,LG-000665,27.637199,80.841392,Uttar Pradesh,Hathras,Fatehpur (Hathras),Hathras Infrastructure Site 665
+GEO-000666,LG-000666,26.979153,83.989265,Uttar Pradesh,Jalaun,Kalyanpur (Jalaun),Jalaun Infrastructure Site 666
+GEO-000667,LG-000667,27.731311,81.645233,Uttar Pradesh,Jaunpur,Bhavanipur (Jaunpur),Jaunpur Infrastructure Site 667
+GEO-000668,LG-000668,29.530718,81.318563,Uttar Pradesh,Jhansi,Fatehpur (Jhansi),Jhansi Infrastructure Site 668
+GEO-000669,LG-000669,29.852085,80.047704,Uttar Pradesh,Kannauj,Rampur (Kannauj),Kannauj Infrastructure Site 669
+GEO-000670,LG-000670,25.246312,77.594764,Uttar Pradesh,Kanpur Dehat,Fatehpur (Kanpur Dehat),Kanpur Dehat Infrastructure Site 670
+GEO-000671,LG-000671,29.465512,84.487001,Uttar Pradesh,Kanpur Nagar,Nandpur (Kanpur Nagar),Kanpur Nagar Infrastructure Site 671
+GEO-000672,LG-000672,25.887786,83.364974,Uttar Pradesh,Kasganj,Haripur (Kasganj),Kasganj Infrastructure Site 672
+GEO-000673,LG-000673,24.735136,80.96207,Uttar Pradesh,Kaushambi,Govindpur (Kaushambi),Kaushambi Infrastructure Site 673
+GEO-000674,LG-000674,27.631587,82.161838,Uttar Pradesh,Kheri,Shivpur (Kheri),Kheri Infrastructure Site 674
+GEO-000675,LG-000675,27.679215,81.079888,Uttar Pradesh,Kushinagar,Chandpur (Kushinagar),Kushinagar Infrastructure Site 675
+GEO-000676,LG-000676,26.854688,83.144975,Uttar Pradesh,Lalitpur,Shivpur (Lalitpur),Lalitpur Infrastructure Site 676
+GEO-000677,LG-000677,24.608968,78.901818,Uttar Pradesh,Lucknow,Anandpur (Lucknow),Lucknow Infrastructure Site 677
+GEO-000678,LG-000678,28.966243,81.791432,Uttar Pradesh,Maharajganj,Kalyanpur (Maharajganj),Maharajganj Infrastructure Site 678
+GEO-000679,LG-000679,28.518545,79.742211,Uttar Pradesh,Mahoba,Devpur (Mahoba),Mahoba Infrastructure Site 679
+GEO-000680,LG-000680,25.33947,80.367437,Uttar Pradesh,Mainpuri,Govindpur (Mainpuri),Mainpuri Infrastructure Site 680
+GEO-000681,LG-000681,26.78053,83.064833,Uttar Pradesh,Mathura,Fatehpur (Mathura),Mathura Infrastructure Site 681
+GEO-000682,LG-000682,25.382467,83.154392,Uttar Pradesh,Mau,Haripur (Mau),Mau Infrastructure Site 682
+GEO-000683,LG-000683,30.293665,77.221783,Uttar Pradesh,Meerut,Madhavpur (Meerut),Meerut Infrastructure Site 683
+GEO-000684,LG-000684,24.017914,83.29893,Uttar Pradesh,Mirzapur,Shivpur (Mirzapur),Mirzapur Infrastructure Site 684
+GEO-000685,LG-000685,25.043015,77.419691,Uttar Pradesh,Moradabad,Bhavanipur (Moradabad),Moradabad Infrastructure Site 685
+GEO-000686,LG-000686,27.621333,79.355396,Uttar Pradesh,Muzaffarnagar,Bhavanipur (Muzaffarnagar),Muzaffarnagar Infrastructure Site 686
+GEO-000687,LG-000687,25.887354,82.73151,Uttar Pradesh,Pilibhit,Kalyanpur (Pilibhit),Pilibhit Infrastructure Site 687
+GEO-000688,LG-000688,27.25653,80.604516,Uttar Pradesh,Pratapgarh,Shivpur (Pratapgarh),Pratapgarh Infrastructure Site 688
+GEO-000689,LG-000689,29.602962,84.042668,Uttar Pradesh,Prayagraj,Gopalpur (Prayagraj),Prayagraj Infrastructure Site 689
+GEO-000690,LG-000690,30.165705,78.579013,Uttar Pradesh,Raebareli,Nandpur (Raebareli),Raebareli Infrastructure Site 690
+GEO-000691,LG-000691,26.316515,80.599002,Uttar Pradesh,Rampur,Nandpur (Rampur),Rampur Infrastructure Site 691
+GEO-000692,LG-000692,25.748345,83.061083,Uttar Pradesh,Saharanpur,Chandpur (Saharanpur),Saharanpur Infrastructure Site 692
+GEO-000693,LG-000693,29.758644,77.831738,Uttar Pradesh,Sambhal,Kalyanpur (Sambhal),Sambhal Infrastructure Site 693
+GEO-000694,LG-000694,27.006037,83.861651,Uttar Pradesh,Sant Kabir Nagar,Madhavpur (Sant Kabir Nagar),Sant Kabir Nagar Infrastructure Site 694
+GEO-000695,LG-000695,27.831786,82.672775,Uttar Pradesh,Shahjahanpur,Chandpur (Shahjahanpur),Shahjahanpur Infrastructure Site 695
+GEO-000696,LG-000696,28.120662,78.125882,Uttar Pradesh,Shamli,Anandpur (Shamli),Shamli Infrastructure Site 696
+GEO-000697,LG-000697,25.132478,80.184763,Uttar Pradesh,Shravasti,Bhavanipur (Shravasti),Shravasti Infrastructure Site 697
+GEO-000698,LG-000698,30.317537,77.843481,Uttar Pradesh,Siddharthnagar,Kishanpur (Siddharthnagar),Siddharthnagar Infrastructure Site 698
+GEO-000699,LG-000699,28.26951,79.753868,Uttar Pradesh,Sitapur,Haripur (Sitapur),Sitapur Infrastructure Site 699
+GEO-000700,LG-000700,24.364418,80.531877,Uttar Pradesh,Sonbhadra,Kalyanpur (Sonbhadra),Sonbhadra Infrastructure Site 700
+GEO-000701,LG-000701,27.932135,79.442967,Uttar Pradesh,Sultanpur,Sultanpur (Sultanpur),Sultanpur Infrastructure Site 701
+GEO-000702,LG-000702,28.360669,82.822363,Uttar Pradesh,Unnao,Kalyanpur (Unnao),Unnao Infrastructure Site 702
+GEO-000703,LG-000703,26.604209,81.50076,Uttar Pradesh,Varanasi,Rampur (Varanasi),Varanasi Infrastructure Site 703
+GEO-000704,LG-000704,29.813653,78.934263,Uttarakhand,Almora,Shivpur (Almora),Almora Infrastructure Site 704
+GEO-000705,LG-000705,29.187745,77.778974,Uttarakhand,Bageshwar,Haripur (Bageshwar),Bageshwar Infrastructure Site 705
+GEO-000706,LG-000706,28.823697,78.76648,Uttarakhand,Chamoli,Nandpur (Chamoli),Chamoli Infrastructure Site 706
+GEO-000707,LG-000707,29.90337,79.804793,Uttarakhand,Champawat,Devpur (Champawat),Champawat Infrastructure Site 707
+GEO-000708,LG-000708,29.184927,80.939795,Uttarakhand,Dehradun,Rampur (Dehradun),Dehradun Infrastructure Site 708
+GEO-000709,LG-000709,30.478369,79.169143,Uttarakhand,Haridwar,Rampur (Haridwar),Haridwar Infrastructure Site 709
+GEO-000710,LG-000710,31.452433,80.368747,Uttarakhand,Nainital,Gopalpur (Nainital),Nainital Infrastructure Site 710
+GEO-000711,LG-000711,29.831481,77.921242,Uttarakhand,Pauri Garhwal,Gopalpur (Pauri Garhwal),Pauri Garhwal Infrastructure Site 711
+GEO-000712,LG-000712,30.871251,79.790893,Uttarakhand,Pithoragarh,Haripur (Pithoragarh),Pithoragarh Infrastructure Site 712
+GEO-000713,LG-000713,30.36119,80.654499,Uttarakhand,Rudraprayag,Rampur (Rudraprayag),Rudraprayag Infrastructure Site 713
+GEO-000714,LG-000714,28.726332,79.21325,Uttarakhand,Tehri Garhwal,Kishanpur (Tehri Garhwal),Tehri Garhwal Infrastructure Site 714
+GEO-000715,LG-000715,28.88696,79.027788,Uttarakhand,Udham Singh Nagar,Madhavpur (Udham Singh Nagar),Udham Singh Nagar Infrastructure Site 715
+GEO-000716,LG-000716,31.452546,79.944493,Uttarakhand,Uttarkashi,Shivpur (Uttarkashi),Uttarkashi Infrastructure Site 716
+GEO-000717,LG-000717,22.533297,88.879022,West Bengal,Alipurduar,Sultanpur (Alipurduar),Alipurduar Infrastructure Site 717
+GEO-000718,LG-000718,26.887885,88.602707,West Bengal,Bankura,Kalyanpur (Bankura),Bankura Infrastructure Site 718
+GEO-000719,LG-000719,26.33792,86.628287,West Bengal,Birbhum,Nandpur (Birbhum),Birbhum Infrastructure Site 719
+GEO-000720,LG-000720,24.367503,89.061538,West Bengal,Cooch Behar,Bhavanipur (Cooch Behar),Cooch Behar Infrastructure Site 720
+GEO-000721,LG-000721,24.806111,88.711913,West Bengal,Dakshin Dinajpur,Chandpur (Dakshin Dinajpur),Dakshin Dinajpur Infrastructure Site 721
+GEO-000722,LG-000722,23.727285,86.012652,West Bengal,Darjeeling,Gopalpur (Darjeeling),Darjeeling Infrastructure Site 722
+GEO-000723,LG-000723,25.533188,89.342668,West Bengal,Hooghly,Kalyanpur (Hooghly),Hooghly Infrastructure Site 723
+GEO-000724,LG-000724,22.572374,88.595045,West Bengal,Howrah,Sultanpur (Howrah),Howrah Infrastructure Site 724
+GEO-000725,LG-000725,27.022032,87.371913,West Bengal,Jalpaiguri,Nandpur (Jalpaiguri),Jalpaiguri Infrastructure Site 725
+GEO-000726,LG-000726,23.730083,86.660669,West Bengal,Jhargram,Madhavpur (Jhargram),Jhargram Infrastructure Site 726
+GEO-000727,LG-000727,24.253496,89.371572,West Bengal,Kalimpong,Kalyanpur (Kalimpong),Kalimpong Infrastructure Site 727
+GEO-000728,LG-000728,22.19878,87.331346,West Bengal,Kolkata,Anandpur (Kolkata),Kolkata Infrastructure Site 728
+GEO-000729,LG-000729,27.159336,89.53525,West Bengal,Malda,Devpur (Malda),Malda Infrastructure Site 729
+GEO-000730,LG-000730,24.243423,89.094618,West Bengal,Murshidabad,Bhavanipur (Murshidabad),Murshidabad Infrastructure Site 730
+GEO-000731,LG-000731,24.647415,88.395256,West Bengal,Nadia,Kalyanpur (Nadia),Nadia Infrastructure Site 731
+GEO-000732,LG-000732,24.309431,85.800964,West Bengal,North 24 Parganas,Gopalpur (North 24 Parganas),North 24 Parganas Infrastructure Site 732
+GEO-000733,LG-000733,25.544361,87.059615,West Bengal,Paschim Bardhaman,Bhavanipur (Paschim Bardhaman),Paschim Bardhaman Infrastructure Site 733
+GEO-000734,LG-000734,23.743749,88.669658,West Bengal,Paschim Medinipur,Nandpur (Paschim Medinipur),Paschim Medinipur Infrastructure Site 734
+GEO-000735,LG-000735,25.471158,87.80195,West Bengal,Purba Bardhaman,Fatehpur (Purba Bardhaman),Purba Bardhaman Infrastructure Site 735
+GEO-000736,LG-000736,25.795743,86.727185,West Bengal,Purba Medinipur,Bhavanipur (Purba Medinipur),Purba Medinipur Infrastructure Site 736
+GEO-000737,LG-000737,22.645808,85.865655,West Bengal,Purulia,Devpur (Purulia),Purulia Infrastructure Site 737
+GEO-000738,LG-000738,24.29428,87.847889,West Bengal,South 24 Parganas,Kalyanpur (South 24 Parganas),South 24 Parganas Infrastructure Site 738
+GEO-000739,LG-000739,27.194699,89.298338,West Bengal,Uttar Dinajpur,Bhavanipur (Uttar Dinajpur),Uttar Dinajpur Infrastructure Site 739
+GEO-000740,LG-000740,8.817111,93.308461,Andaman and Nicobar Islands,Nicobar,Madhavpur (Nicobar),Nicobar Infrastructure Site 740
+GEO-000741,LG-000741,11.012853,92.484642,Andaman and Nicobar Islands,North and Middle Andaman,Devpur (North and Middle Andaman),North and Middle Andaman Infrastructure Site 741
+GEO-000742,LG-000742,10.699835,92.741803,Andaman and Nicobar Islands,South Andaman,Kalyanpur (South Andaman),South Andaman Infrastructure Site 742
+GEO-000743,LG-000743,30.788156,76.755156,Chandigarh,Chandigarh,Fatehpur (Chandigarh),Chandigarh Infrastructure Site 743
+GEO-000744,LG-000744,20.603478,71.262973,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,Nandpur (Dadra and Nagar Haveli),Dadra and Nagar Haveli Infrastructure Site 744
+GEO-000745,LG-000745,20.475365,71.519466,Dadra and Nagar Haveli and Daman and Diu,Daman,Devpur (Daman),Daman Infrastructure Site 745
+GEO-000746,LG-000746,20.43591,71.053457,Dadra and Nagar Haveli and Daman and Diu,Diu,Sultanpur (Diu),Diu Infrastructure Site 746
+GEO-000747,LG-000747,28.570659,76.923582,Delhi,Central Delhi,Rampur (Central Delhi),Central Delhi Infrastructure Site 747
+GEO-000748,LG-000748,28.790563,77.164662,Delhi,East Delhi,Chandpur (East Delhi),East Delhi Infrastructure Site 748
+GEO-000749,LG-000749,28.881177,76.886891,Delhi,New Delhi,Gopalpur (New Delhi),New Delhi Infrastructure Site 749
+GEO-000750,LG-000750,28.675132,77.285195,Delhi,North Delhi,Devpur (North Delhi),North Delhi Infrastructure Site 750
+GEO-000751,LG-000751,28.470578,76.855939,Delhi,North East Delhi,Rampur (North East Delhi),North East Delhi Infrastructure Site 751
+GEO-000752,LG-000752,28.541293,77.042888,Delhi,North West Delhi,Kishanpur (North West Delhi),North West Delhi Infrastructure Site 752
+GEO-000753,LG-000753,28.7635,76.984826,Delhi,Shahdara,Govindpur (Shahdara),Shahdara Infrastructure Site 753
+GEO-000754,LG-000754,28.479941,77.168072,Delhi,South Delhi,Haripur (South Delhi),South Delhi Infrastructure Site 754
+GEO-000755,LG-000755,28.567678,77.254995,Delhi,South East Delhi,Govindpur (South East Delhi),South East Delhi Infrastructure Site 755
+GEO-000756,LG-000756,28.717898,76.877244,Delhi,South West Delhi,Gopalpur (South West Delhi),South West Delhi Infrastructure Site 756
+GEO-000757,LG-000757,28.810226,76.90651,Delhi,West Delhi,Devpur (West Delhi),West Delhi Infrastructure Site 757
+GEO-000758,LG-000758,33.808242,74.430462,Jammu and Kashmir,Anantnag,Devpur (Anantnag),Anantnag Infrastructure Site 758
+GEO-000759,LG-000759,32.694501,77.284521,Jammu and Kashmir,Bandipora,Rampur (Bandipora),Bandipora Infrastructure Site 759
+GEO-000760,LG-000760,32.524648,76.055389,Jammu and Kashmir,Baramulla,Bhavanipur (Baramulla),Baramulla Infrastructure Site 760
+GEO-000761,LG-000761,33.488019,76.55482,Jammu and Kashmir,Budgam,Nandpur (Budgam),Budgam Infrastructure Site 761
+GEO-000762,LG-000762,32.320672,75.249328,Jammu and Kashmir,Doda,Rampur (Doda),Doda Infrastructure Site 762
+GEO-000763,LG-000763,33.43178,75.323193,Jammu and Kashmir,Ganderbal,Fatehpur (Ganderbal),Ganderbal Infrastructure Site 763
+GEO-000764,LG-000764,34.301533,74.92262,Jammu and Kashmir,Jammu,Shivpur (Jammu),Jammu Infrastructure Site 764
+GEO-000765,LG-000765,33.854909,76.915329,Jammu and Kashmir,Kathua,Sultanpur (Kathua),Kathua Infrastructure Site 765
+GEO-000766,LG-000766,33.687185,77.738587,Jammu and Kashmir,Kishtwar,Gopalpur (Kishtwar),Kishtwar Infrastructure Site 766
+GEO-000767,LG-000767,33.972751,74.158513,Jammu and Kashmir,Kulgam,Shivpur (Kulgam),Kulgam Infrastructure Site 767
+GEO-000768,LG-000768,34.66247,77.77948,Jammu and Kashmir,Kupwara,Gopalpur (Kupwara),Kupwara Infrastructure Site 768
+GEO-000769,LG-000769,33.607846,75.613478,Jammu and Kashmir,Poonch,Madhavpur (Poonch),Poonch Infrastructure Site 769
+GEO-000770,LG-000770,35.044054,75.153069,Jammu and Kashmir,Pulwama,Shivpur (Pulwama),Pulwama Infrastructure Site 770
+GEO-000771,LG-000771,33.793735,77.798,Jammu and Kashmir,Rajouri,Fatehpur (Rajouri),Rajouri Infrastructure Site 771
+GEO-000772,LG-000772,33.180994,74.889931,Jammu and Kashmir,Ramban,Gopalpur (Ramban),Ramban Infrastructure Site 772
+GEO-000773,LG-000773,32.349879,75.817751,Jammu and Kashmir,Reasi,Devpur (Reasi),Reasi Infrastructure Site 773
+GEO-000774,LG-000774,35.006375,77.393989,Jammu and Kashmir,Samba,Gopalpur (Samba),Samba Infrastructure Site 774
+GEO-000775,LG-000775,34.77752,76.319046,Jammu and Kashmir,Shopian,Gopalpur (Shopian),Shopian Infrastructure Site 775
+GEO-000776,LG-000776,33.985561,75.063565,Jammu and Kashmir,Srinagar,Kalyanpur (Srinagar),Srinagar Infrastructure Site 776
+GEO-000777,LG-000777,33.256185,74.413374,Jammu and Kashmir,Udhampur,Sultanpur (Udhampur),Udhampur Infrastructure Site 777
+GEO-000778,LG-000778,33.404506,76.629895,Ladakh,Kargil,Chandpur (Kargil),Kargil Infrastructure Site 778
+GEO-000779,LG-000779,34.771674,76.087177,Ladakh,Leh,Madhavpur (Leh),Leh Infrastructure Site 779
+GEO-000780,LG-000780,10.339769,73.406834,Lakshadweep,Lakshadweep,Bhavanipur (Lakshadweep),Lakshadweep Infrastructure Site 780
+GEO-000781,LG-000781,11.923323,79.728912,Puducherry,Karaikal,Kishanpur (Karaikal),Karaikal Infrastructure Site 781
+GEO-000782,LG-000782,11.973032,79.803944,Puducherry,Mahe,Shivpur (Mahe),Mahe Infrastructure Site 782
+GEO-000783,LG-000783,11.968415,79.830604,Puducherry,Puducherry,Kishanpur (Puducherry),Puducherry Infrastructure Site 783
+GEO-000784,LG-000784,11.849109,79.763325,Puducherry,Yanam,Nandpur (Yanam),Yanam Infrastructure Site 784
+GEO-000785,LG-000785,22.083578,76.274219,Madhya Pradesh,Ratlam,Govindpur (Ratlam),Ratlam Infrastructure Site 785
+GEO-000786,LG-000786,24.925414,82.223413,Uttar Pradesh,Sonbhadra,Rampur (Sonbhadra),Sonbhadra Infrastructure Site 786
+GEO-000787,LG-000787,28.454329,78.252694,Uttar Pradesh,Ambedkar Nagar,Devpur (Ambedkar Nagar),Ambedkar Nagar Infrastructure Site 787
+GEO-000788,LG-000788,29.540334,69.643132,Rajasthan,Tonk,Chandpur (Tonk),Tonk Infrastructure Site 788
+GEO-000789,LG-000789,19.188047,80.207166,Chhattisgarh,Kanker,Sultanpur (Kanker),Kanker Infrastructure Site 789
+GEO-000790,LG-000790,21.855295,80.618403,Chhattisgarh,Kanker,Kalyanpur (Kanker),Kanker Infrastructure Site 790
+GEO-000791,LG-000791,27.9399,90.530849,Assam,Dibrugarh,Gopalpur (Dibrugarh),Dibrugarh Infrastructure Site 791
+GEO-000792,LG-000792,26.322081,80.988386,Uttar Pradesh,Kheri,Kalyanpur (Kheri),Kheri Infrastructure Site 792
+GEO-000793,LG-000793,24.348737,69.970705,Rajasthan,Anupgarh,Madhavpur (Anupgarh),Anupgarh Infrastructure Site 793
+GEO-000794,LG-000794,17.853725,79.115824,Telangana,Narayanpet,Sultanpur (Narayanpet),Narayanpet Infrastructure Site 794
+GEO-000795,LG-000795,14.491538,76.987505,Andhra Pradesh,Kurnool,Anandpur (Kurnool),Kurnool Infrastructure Site 795
+GEO-000796,LG-000796,23.055984,87.191023,West Bengal,Hooghly,Gopalpur (Hooghly),Hooghly Infrastructure Site 796
+GEO-000797,LG-000797,26.67861,77.335898,Uttar Pradesh,Hapur,Sultanpur (Hapur),Hapur Infrastructure Site 797
+GEO-000798,LG-000798,24.531684,74.323087,Gujarat,Tapi,Nandpur (Tapi),Tapi Infrastructure Site 798
+GEO-000799,LG-000799,21.40228,69.349581,Gujarat,Banaskantha,Chandpur (Banaskantha),Banaskantha Infrastructure Site 799
+GEO-000800,LG-000800,23.088315,74.219247,Gujarat,Bharuch,Nandpur (Bharuch),Bharuch Infrastructure Site 800
+GEO-000801,LG-000801,21.52384,76.006704,Madhya Pradesh,Balaghat,Sultanpur (Balaghat),Balaghat Infrastructure Site 801
+GEO-000802,LG-000802,31.657103,74.123413,Punjab,Ludhiana,Kalyanpur (Ludhiana),Ludhiana Infrastructure Site 802
+GEO-000803,LG-000803,17.180488,75.462698,Maharashtra,Jalgaon,Gopalpur (Jalgaon),Jalgaon Infrastructure Site 803
+GEO-000804,LG-000804,12.234995,75.527356,Kerala,Kollam,Kishanpur (Kollam),Kollam Infrastructure Site 804
+GEO-000805,LG-000805,24.363977,77.548602,Rajasthan,Dudu,Nandpur (Dudu),Dudu Infrastructure Site 805
+GEO-000806,LG-000806,19.640889,80.30008,Chhattisgarh,Baloda Bazar,Fatehpur (Baloda Bazar),Baloda Bazar Infrastructure Site 806
+GEO-000807,LG-000807,9.117066,77.133848,Kerala,Kozhikode,Bhavanipur (Kozhikode),Kozhikode Infrastructure Site 807
+GEO-000808,LG-000808,23.976673,74.590069,Madhya Pradesh,Niwari,Anandpur (Niwari),Niwari Infrastructure Site 808
+GEO-000809,LG-000809,17.702793,78.134988,Maharashtra,Thane,Madhavpur (Thane),Thane Infrastructure Site 809
+GEO-000810,LG-000810,28.283145,82.032085,Uttar Pradesh,Bulandshahr,Chandpur (Bulandshahr),Bulandshahr Infrastructure Site 810
+GEO-000811,LG-000811,21.698543,72.316075,Gujarat,Mehsana,Anandpur (Mehsana),Mehsana Infrastructure Site 811
+GEO-000812,LG-000812,21.916357,82.142068,Odisha,Subarnapur,Fatehpur (Subarnapur),Subarnapur Infrastructure Site 812
+GEO-000813,LG-000813,25.082846,71.68712,Rajasthan,Sikar,Madhavpur (Sikar),Sikar Infrastructure Site 813
+GEO-000814,LG-000814,24.936827,93.522786,Assam,Barpeta,Devpur (Barpeta),Barpeta Infrastructure Site 814
+GEO-000815,LG-000815,27.985098,76.521297,Rajasthan,Deeg,Madhavpur (Deeg),Deeg Infrastructure Site 815
+GEO-000816,LG-000816,21.035578,83.06131,Chhattisgarh,Sarangarh-Bilaigarh,Chandpur (Sarangarh-Bilaigarh),Sarangarh-Bilaigarh Infrastructure Site 816
+GEO-000817,LG-000817,27.995597,91.652912,Assam,Jorhat,Rampur (Jorhat),Jorhat Infrastructure Site 817
+GEO-000818,LG-000818,28.981574,83.337527,Uttar Pradesh,Sonbhadra,Bhavanipur (Sonbhadra),Sonbhadra Infrastructure Site 818
+GEO-000819,LG-000819,25.641635,87.941647,West Bengal,Alipurduar,Madhavpur (Alipurduar),Alipurduar Infrastructure Site 819
+GEO-000820,LG-000820,29.785808,80.753136,Uttar Pradesh,Fatehpur,Kishanpur (Fatehpur),Fatehpur Infrastructure Site 820
+GEO-000821,LG-000821,24.159594,75.716238,Madhya Pradesh,Balaghat,Anandpur (Balaghat),Balaghat Infrastructure Site 821
+GEO-000822,LG-000822,26.065579,85.382137,Bihar,Darbhanga,Shivpur (Darbhanga),Darbhanga Infrastructure Site 822
+GEO-000823,LG-000823,17.156706,80.111058,Telangana,Adilabad,Devpur (Adilabad),Adilabad Infrastructure Site 823
+GEO-000824,LG-000824,19.419724,80.896803,Maharashtra,Nanded,Bhavanipur (Nanded),Nanded Infrastructure Site 824
+GEO-000825,LG-000825,24.328679,84.23605,Bihar,Purnia,Kalyanpur (Purnia),Purnia Infrastructure Site 825
+GEO-000826,LG-000826,21.29645,85.417046,Odisha,Ganjam,Rampur (Ganjam),Ganjam Infrastructure Site 826
+GEO-000827,LG-000827,27.376989,95.924896,Arunachal Pradesh,Papum Pare,Devpur (Papum Pare),Papum Pare Infrastructure Site 827
+GEO-000828,LG-000828,24.627168,81.697373,Uttar Pradesh,Pilibhit,Sultanpur (Pilibhit),Pilibhit Infrastructure Site 828
+GEO-000829,LG-000829,12.613309,74.603775,Karnataka,Bengaluru Rural,Haripur (Bengaluru Rural),Bengaluru Rural Infrastructure Site 829
+GEO-000830,LG-000830,11.20373,79.193758,Tamil Nadu,Salem,Kalyanpur (Salem),Salem Infrastructure Site 830
+GEO-000831,LG-000831,25.515464,78.994089,Madhya Pradesh,Bhind,Bhavanipur (Bhind),Bhind Infrastructure Site 831
+GEO-000832,LG-000832,31.499077,76.111029,Punjab,Fazilka,Chandpur (Fazilka),Fazilka Infrastructure Site 832
+GEO-000833,LG-000833,27.618326,76.832432,Rajasthan,Bhilwara,Anandpur (Bhilwara),Bhilwara Infrastructure Site 833
+GEO-000834,LG-000834,20.285878,73.080437,Gujarat,Bhavnagar,Sultanpur (Bhavnagar),Bhavnagar Infrastructure Site 834
+GEO-000835,LG-000835,25.745762,88.269751,West Bengal,Darjeeling,Kishanpur (Darjeeling),Darjeeling Infrastructure Site 835
+GEO-000836,LG-000836,25.53305,82.626855,Uttar Pradesh,Bhadohi,Bhavanipur (Bhadohi),Bhadohi Infrastructure Site 836
+GEO-000837,LG-000837,25.910126,77.332635,Uttar Pradesh,Shravasti,Anandpur (Shravasti),Shravasti Infrastructure Site 837
+GEO-000838,LG-000838,24.334623,80.263534,Uttar Pradesh,Meerut,Shivpur (Meerut),Meerut Infrastructure Site 838
+GEO-000839,LG-000839,24.093378,77.404515,Rajasthan,Tonk,Gopalpur (Tonk),Tonk Infrastructure Site 839
+GEO-000840,LG-000840,28.975731,81.846892,Uttar Pradesh,Rampur,Madhavpur (Rampur),Rampur Infrastructure Site 840
+GEO-000841,LG-000841,26.191073,88.22771,Bihar,Aurangabad,Chandpur (Aurangabad),Aurangabad Infrastructure Site 841
+GEO-000842,LG-000842,23.370414,69.844971,Gujarat,Kheda,Chandpur (Kheda),Kheda Infrastructure Site 842
+GEO-000843,LG-000843,26.161474,91.297995,Assam,Baksa,Kalyanpur (Baksa),Baksa Infrastructure Site 843
+GEO-000844,LG-000844,24.121794,81.269459,Madhya Pradesh,Dewas,Kalyanpur (Dewas),Dewas Infrastructure Site 844
+GEO-000845,LG-000845,21.672926,82.616673,Madhya Pradesh,Shajapur,Anandpur (Shajapur),Shajapur Infrastructure Site 845
+GEO-000846,LG-000846,16.661935,77.770308,Karnataka,Hassan,Bhavanipur (Hassan),Hassan Infrastructure Site 846
+GEO-000847,LG-000847,25.854162,79.092359,Uttar Pradesh,Hamirpur,Govindpur (Hamirpur),Hamirpur Infrastructure Site 847
+GEO-000848,LG-000848,21.878067,75.225822,Madhya Pradesh,Mandsaur,Sultanpur (Mandsaur),Mandsaur Infrastructure Site 848
+GEO-000849,LG-000849,17.488041,76.286682,Karnataka,Ramanagara,Devpur (Ramanagara),Ramanagara Infrastructure Site 849
+GEO-000850,LG-000850,28.70793,69.554313,Rajasthan,Barmer,Bhavanipur (Barmer),Barmer Infrastructure Site 850
+GEO-000851,LG-000851,22.908115,82.698631,Chhattisgarh,Balrampur,Nandpur (Balrampur),Balrampur Infrastructure Site 851
+GEO-000852,LG-000852,27.949922,80.750816,Uttar Pradesh,Etawah,Govindpur (Etawah),Etawah Infrastructure Site 852
+GEO-000853,LG-000853,27.822118,91.004593,Assam,Morigaon,Devpur (Morigaon),Morigaon Infrastructure Site 853
+GEO-000854,LG-000854,33.74417,77.699002,Jammu and Kashmir,Anantnag,Fatehpur (Anantnag),Anantnag Infrastructure Site 854
+GEO-000855,LG-000855,24.475442,77.378639,Uttar Pradesh,Basti,Chandpur (Basti),Basti Infrastructure Site 855
+GEO-000856,LG-000856,23.420752,73.445383,Gujarat,Mahisagar,Kalyanpur (Mahisagar),Mahisagar Infrastructure Site 856
+GEO-000857,LG-000857,14.880648,78.205626,Andhra Pradesh,East Godavari,Kishanpur (East Godavari),East Godavari Infrastructure Site 857
+GEO-000858,LG-000858,26.111244,80.052113,Uttar Pradesh,Gautam Buddha Nagar,Chandpur (Gautam Buddha Nagar),Gautam Buddha Nagar Infrastructure Site 858
+GEO-000859,LG-000859,17.192844,78.547086,Telangana,Nalgonda,Chandpur (Nalgonda),Nalgonda Infrastructure Site 859
+GEO-000860,LG-000860,25.439887,79.634613,Uttar Pradesh,Aligarh,Govindpur (Aligarh),Aligarh Infrastructure Site 860
+GEO-000861,LG-000861,24.211523,83.692278,Uttar Pradesh,Bareilly,Govindpur (Bareilly),Bareilly Infrastructure Site 861
+GEO-000862,LG-000862,25.756197,95.378665,Assam,Majuli,Haripur (Majuli),Majuli Infrastructure Site 862
+GEO-000863,LG-000863,25.936798,80.231416,Madhya Pradesh,Morena,Govindpur (Morena),Morena Infrastructure Site 863
+GEO-000864,LG-000864,26.459637,85.30884,Bihar,Munger,Nandpur (Munger),Munger Infrastructure Site 864
+GEO-000865,LG-000865,25.143899,78.340832,Uttar Pradesh,Kaushambi,Madhavpur (Kaushambi),Kaushambi Infrastructure Site 865
+GEO-000866,LG-000866,29.892314,71.930002,Rajasthan,Phalodi,Govindpur (Phalodi),Phalodi Infrastructure Site 866
+GEO-000867,LG-000867,25.654571,76.685242,Madhya Pradesh,Dindori,Devpur (Dindori),Dindori Infrastructure Site 867
+GEO-000868,LG-000868,24.637691,95.438668,Assam,Hojai,Devpur (Hojai),Hojai Infrastructure Site 868
+GEO-000869,LG-000869,24.315843,82.736958,Madhya Pradesh,Bhind,Haripur (Bhind),Bhind Infrastructure Site 869
+GEO-000870,LG-000870,26.796246,74.186765,Madhya Pradesh,Dewas,Devpur (Dewas),Dewas Infrastructure Site 870
+GEO-000871,LG-000871,29.606923,78.047413,Uttar Pradesh,Aligarh,Nandpur (Aligarh),Aligarh Infrastructure Site 871
+GEO-000872,LG-000872,12.114083,79.951837,Tamil Nadu,Cuddalore,Anandpur (Cuddalore),Cuddalore Infrastructure Site 872
+GEO-000873,LG-000873,27.4335,82.66597,Uttar Pradesh,Mainpuri,Kalyanpur (Mainpuri),Mainpuri Infrastructure Site 873
+GEO-000874,LG-000874,25.114778,90.993031,Meghalaya,West Garo Hills,Gopalpur (West Garo Hills),West Garo Hills Infrastructure Site 874
+GEO-000875,LG-000875,26.46846,87.972503,Bihar,Nawada,Fatehpur (Nawada),Nawada Infrastructure Site 875
+GEO-000876,LG-000876,18.856992,79.93737,Telangana,Rangareddy,Sultanpur (Rangareddy),Rangareddy Infrastructure Site 876
+GEO-000877,LG-000877,28.59703,82.736044,Uttar Pradesh,Balrampur,Bhavanipur (Balrampur),Balrampur Infrastructure Site 877
+GEO-000878,LG-000878,27.701111,71.166624,Rajasthan,Hanumangarh,Shivpur (Hanumangarh),Hanumangarh Infrastructure Site 878
+GEO-000879,LG-000879,30.155948,83.029669,Uttar Pradesh,Bareilly,Haripur (Bareilly),Bareilly Infrastructure Site 879
+GEO-000880,LG-000880,17.912713,83.691234,Odisha,Dhenkanal,Haripur (Dhenkanal),Dhenkanal Infrastructure Site 880
+GEO-000881,LG-000881,31.826956,76.572748,Punjab,Jalandhar,Rampur (Jalandhar),Jalandhar Infrastructure Site 881
+GEO-000882,LG-000882,16.812135,74.515459,Maharashtra,Gadchiroli,Gopalpur (Gadchiroli),Gadchiroli Infrastructure Site 882
+GEO-000883,LG-000883,27.204318,93.968935,Arunachal Pradesh,East Siang,Gopalpur (East Siang),East Siang Infrastructure Site 883
+GEO-000884,LG-000884,26.203947,87.544453,Bihar,Khagaria,Sultanpur (Khagaria),Khagaria Infrastructure Site 884
+GEO-000885,LG-000885,27.113498,97.369621,Arunachal Pradesh,Lower Dibang Valley,Devpur (Lower Dibang Valley),Lower Dibang Valley Infrastructure Site 885
+GEO-000886,LG-000886,8.538951,76.506174,Tamil Nadu,Coimbatore,Shivpur (Coimbatore),Coimbatore Infrastructure Site 886
+GEO-000887,LG-000887,26.327659,78.649475,Madhya Pradesh,Burhanpur,Haripur (Burhanpur),Burhanpur Infrastructure Site 887
+GEO-000888,LG-000888,22.025189,86.163372,Odisha,Nayagarh,Devpur (Nayagarh),Nayagarh Infrastructure Site 888
+GEO-000889,LG-000889,25.743246,77.833114,Uttar Pradesh,Pilibhit,Rampur (Pilibhit),Pilibhit Infrastructure Site 889
+GEO-000890,LG-000890,25.104581,85.741726,Jharkhand,Pakur,Gopalpur (Pakur),Pakur Infrastructure Site 890
+GEO-000891,LG-000891,25.391869,74.028439,Madhya Pradesh,Maihar,Anandpur (Maihar),Maihar Infrastructure Site 891
+GEO-000892,LG-000892,28.464489,83.189928,Uttar Pradesh,Bahraich,Sultanpur (Bahraich),Bahraich Infrastructure Site 892
+GEO-000893,LG-000893,29.761751,75.927551,Haryana,Rewari,Nandpur (Rewari),Rewari Infrastructure Site 893
+GEO-000894,LG-000894,24.764725,91.75545,Assam,Nalbari,Gopalpur (Nalbari),Nalbari Infrastructure Site 894
+GEO-000895,LG-000895,8.31726,75.50284,Kerala,Ernakulam,Shivpur (Ernakulam),Ernakulam Infrastructure Site 895
+GEO-000896,LG-000896,21.514676,80.691823,Chhattisgarh,Mahasamund,Haripur (Mahasamund),Mahasamund Infrastructure Site 896
+GEO-000897,LG-000897,29.640995,79.083917,Uttar Pradesh,Sant Kabir Nagar,Chandpur (Sant Kabir Nagar),Sant Kabir Nagar Infrastructure Site 897
+GEO-000898,LG-000898,29.294874,81.591935,Uttar Pradesh,Fatehpur,Bhavanipur (Fatehpur),Fatehpur Infrastructure Site 898
+GEO-000899,LG-000899,10.311443,77.528854,Tamil Nadu,Chengalpattu,Anandpur (Chengalpattu),Chengalpattu Infrastructure Site 899
+GEO-000900,LG-000900,25.668358,79.275424,Uttar Pradesh,Kushinagar,Devpur (Kushinagar),Kushinagar Infrastructure Site 900
+GEO-000901,LG-000901,27.701523,83.948611,Uttar Pradesh,Farrukhabad,Devpur (Farrukhabad),Farrukhabad Infrastructure Site 901
+GEO-000902,LG-000902,20.809123,72.28083,Gujarat,Chhota Udaipur,Govindpur (Chhota Udaipur),Chhota Udaipur Infrastructure Site 902
+GEO-000903,LG-000903,25.592672,83.157419,Uttar Pradesh,Mau,Kishanpur (Mau),Mau Infrastructure Site 903
+GEO-000904,LG-000904,25.557394,69.66302,Rajasthan,Baran,Rampur (Baran),Baran Infrastructure Site 904
+GEO-000905,LG-000905,26.391895,80.368173,Uttar Pradesh,Fatehpur,Madhavpur (Fatehpur),Fatehpur Infrastructure Site 905
+GEO-000906,LG-000906,28.132512,83.591718,Uttar Pradesh,Meerut,Govindpur (Meerut),Meerut Infrastructure Site 906
+GEO-000907,LG-000907,23.183838,74.401403,Madhya Pradesh,Chhatarpur,Bhavanipur (Chhatarpur),Chhatarpur Infrastructure Site 907
+GEO-000908,LG-000908,26.797236,87.062575,Bihar,Kishanganj,Sultanpur (Kishanganj),Kishanganj Infrastructure Site 908
+GEO-000909,LG-000909,29.337019,76.293337,Haryana,Panipat,Govindpur (Panipat),Panipat Infrastructure Site 909
+GEO-000910,LG-000910,21.61652,78.639699,Maharashtra,Dhule,Kishanpur (Dhule),Dhule Infrastructure Site 910
+GEO-000911,LG-000911,26.118586,79.084419,Uttar Pradesh,Ghaziabad,Bhavanipur (Ghaziabad),Ghaziabad Infrastructure Site 911
+GEO-000912,LG-000912,29.674022,79.412254,Uttar Pradesh,Kasganj,Gopalpur (Kasganj),Kasganj Infrastructure Site 912
+GEO-000913,LG-000913,19.001481,80.755354,Andhra Pradesh,Guntur,Nandpur (Guntur),Guntur Infrastructure Site 913
+GEO-000914,LG-000914,20.837227,86.536013,Odisha,Puri,Shivpur (Puri),Puri Infrastructure Site 914
+GEO-000915,LG-000915,15.768405,78.455794,Maharashtra,Amravati,Sultanpur (Amravati),Amravati Infrastructure Site 915
+GEO-000916,LG-000916,28.153854,75.232358,Haryana,Jind,Shivpur (Jind),Jind Infrastructure Site 916
+GEO-000917,LG-000917,25.360893,88.17118,Bihar,Nawada,Govindpur (Nawada),Nawada Infrastructure Site 917
+GEO-000918,LG-000918,21.564908,76.841365,Madhya Pradesh,Harda,Anandpur (Harda),Harda Infrastructure Site 918
+GEO-000919,LG-000919,29.480665,81.137627,Uttar Pradesh,Siddharthnagar,Nandpur (Siddharthnagar),Siddharthnagar Infrastructure Site 919
+GEO-000920,LG-000920,25.408036,75.975778,Madhya Pradesh,Datia,Anandpur (Datia),Datia Infrastructure Site 920
+GEO-000921,LG-000921,30.806262,73.954631,Punjab,Faridkot,Chandpur (Faridkot),Faridkot Infrastructure Site 921
+GEO-000922,LG-000922,18.878598,79.010457,Telangana,Medchal-Malkajgiri,Sultanpur (Medchal-Malkajgiri),Medchal-Malkajgiri Infrastructure Site 922
+GEO-000923,LG-000923,26.645112,74.78674,Madhya Pradesh,Neemuch,Chandpur (Neemuch),Neemuch Infrastructure Site 923
+GEO-000924,LG-000924,25.432545,86.581816,West Bengal,Jalpaiguri,Madhavpur (Jalpaiguri),Jalpaiguri Infrastructure Site 924
+GEO-000925,LG-000925,29.603995,78.096899,Uttarakhand,Haridwar,Gopalpur (Haridwar),Haridwar Infrastructure Site 925
+GEO-000926,LG-000926,23.948022,87.475745,Jharkhand,Ranchi,Nandpur (Ranchi),Ranchi Infrastructure Site 926
+GEO-000927,LG-000927,18.179766,86.516832,Odisha,Jajpur,Kishanpur (Jajpur),Jajpur Infrastructure Site 927
+GEO-000928,LG-000928,25.455494,81.806322,Madhya Pradesh,Anuppur,Kishanpur (Anuppur),Anuppur Infrastructure Site 928
+GEO-000929,LG-000929,18.25481,75.530617,Karnataka,Uttara Kannada,Nandpur (Uttara Kannada),Uttara Kannada Infrastructure Site 929
+GEO-000930,LG-000930,26.691275,97.064585,Arunachal Pradesh,Siang,Sultanpur (Siang),Siang Infrastructure Site 930
+GEO-000931,LG-000931,28.947877,78.019357,Rajasthan,Didwana-Kuchaman,Chandpur (Didwana-Kuchaman),Didwana-Kuchaman Infrastructure Site 931
+GEO-000932,LG-000932,18.21454,81.476347,Odisha,Kendujhar,Devpur (Kendujhar),Kendujhar Infrastructure Site 932
+GEO-000933,LG-000933,25.734677,94.177341,Assam,Charaideo,Rampur (Charaideo),Charaideo Infrastructure Site 933
+GEO-000934,LG-000934,15.203785,77.99415,Karnataka,Mysuru,Devpur (Mysuru),Mysuru Infrastructure Site 934
+GEO-000935,LG-000935,30.319202,77.7797,Uttar Pradesh,Pilibhit,Gopalpur (Pilibhit),Pilibhit Infrastructure Site 935
+GEO-000936,LG-000936,22.301094,85.034411,Jharkhand,Dumka,Fatehpur (Dumka),Dumka Infrastructure Site 936
+GEO-000937,LG-000937,18.845497,81.316142,Chhattisgarh,Bijapur,Anandpur (Bijapur),Bijapur Infrastructure Site 937
+GEO-000938,LG-000938,22.491696,81.935627,Odisha,Bhadrak,Shivpur (Bhadrak),Bhadrak Infrastructure Site 938
+GEO-000939,LG-000939,28.486886,77.205966,Delhi,South Delhi,Haripur (South Delhi),South Delhi Infrastructure Site 939
+GEO-000940,LG-000940,25.019742,85.983659,Jharkhand,Giridih,Kishanpur (Giridih),Giridih Infrastructure Site 940
+GEO-000941,LG-000941,8.13709,79.925942,Tamil Nadu,Tirunelveli,Rampur (Tirunelveli),Tirunelveli Infrastructure Site 941
+GEO-000942,LG-000942,25.01792,81.237147,Uttar Pradesh,Balrampur,Sultanpur (Balrampur),Balrampur Infrastructure Site 942
+GEO-000943,LG-000943,24.945138,87.620545,Jharkhand,Deoghar,Anandpur (Deoghar),Deoghar Infrastructure Site 943
+GEO-000944,LG-000944,29.089029,82.043889,Uttar Pradesh,Aligarh,Anandpur (Aligarh),Aligarh Infrastructure Site 944
+GEO-000945,LG-000945,22.498341,82.710604,Madhya Pradesh,Panna,Sultanpur (Panna),Panna Infrastructure Site 945
+GEO-000946,LG-000946,9.789962,79.902157,Tamil Nadu,Ariyalur,Kalyanpur (Ariyalur),Ariyalur Infrastructure Site 946
+GEO-000947,LG-000947,13.182278,78.599622,Tamil Nadu,Chengalpattu,Rampur (Chengalpattu),Chengalpattu Infrastructure Site 947
+GEO-000948,LG-000948,23.308738,74.33985,Rajasthan,Alwar,Govindpur (Alwar),Alwar Infrastructure Site 948
+GEO-000949,LG-000949,24.619865,87.820243,Bihar,Banka,Sultanpur (Banka),Banka Infrastructure Site 949
+GEO-000950,LG-000950,24.324377,83.11562,Uttar Pradesh,Hardoi,Fatehpur (Hardoi),Hardoi Infrastructure Site 950
+GEO-000951,LG-000951,22.856139,81.306394,Madhya Pradesh,Chhindwara,Kalyanpur (Chhindwara),Chhindwara Infrastructure Site 951
+GEO-000952,LG-000952,23.064928,68.566124,Gujarat,Chhota Udaipur,Chandpur (Chhota Udaipur),Chhota Udaipur Infrastructure Site 952
+GEO-000953,LG-000953,27.950379,95.349815,Arunachal Pradesh,West Kameng,Nandpur (West Kameng),West Kameng Infrastructure Site 953
+GEO-000954,LG-000954,24.279231,71.18651,Rajasthan,Sawai Madhopur,Haripur (Sawai Madhopur),Sawai Madhopur Infrastructure Site 954
+GEO-000955,LG-000955,10.39422,79.135944,Tamil Nadu,Tiruvannamalai,Madhavpur (Tiruvannamalai),Tiruvannamalai Infrastructure Site 955
+GEO-000956,LG-000956,13.679475,81.164597,Andhra Pradesh,Visakhapatnam,Chandpur (Visakhapatnam),Visakhapatnam Infrastructure Site 956
+GEO-000957,LG-000957,21.041229,84.119903,Odisha,Rayagada,Haripur (Rayagada),Rayagada Infrastructure Site 957
+GEO-000958,LG-000958,30.12349,75.266296,Haryana,Palwal,Bhavanipur (Palwal),Palwal Infrastructure Site 958
+GEO-000959,LG-000959,12.304443,77.913827,Tamil Nadu,Kanyakumari,Govindpur (Kanyakumari),Kanyakumari Infrastructure Site 959
+GEO-000960,LG-000960,22.318267,81.893016,Chhattisgarh,Surajpur,Nandpur (Surajpur),Surajpur Infrastructure Site 960
+GEO-000961,LG-000961,18.141384,78.534258,Telangana,Jayashankar Bhupalpally,Madhavpur (Jayashankar Bhupalpally),Jayashankar Bhupalpally Infrastructure Site 961
+GEO-000962,LG-000962,25.161323,77.381786,Madhya Pradesh,Shahdol,Chandpur (Shahdol),Shahdol Infrastructure Site 962
+GEO-000963,LG-000963,27.256963,84.429179,Uttar Pradesh,Shamli,Anandpur (Shamli),Shamli Infrastructure Site 963
+GEO-000964,LG-000964,26.905896,86.115452,Bihar,West Champaran,Bhavanipur (West Champaran),West Champaran Infrastructure Site 964
+GEO-000965,LG-000965,25.957939,79.843004,Madhya Pradesh,Indore,Rampur (Indore),Indore Infrastructure Site 965
+GEO-000966,LG-000966,25.476159,86.169031,Bihar,Madhubani,Anandpur (Madhubani),Madhubani Infrastructure Site 966
+GEO-000967,LG-000967,29.060027,83.658579,Uttar Pradesh,Saharanpur,Devpur (Saharanpur),Saharanpur Infrastructure Site 967
+GEO-000968,LG-000968,28.120374,83.287115,Uttar Pradesh,Lucknow,Chandpur (Lucknow),Lucknow Infrastructure Site 968
+GEO-000969,LG-000969,12.85885,76.797048,Karnataka,Belagavi,Gopalpur (Belagavi),Belagavi Infrastructure Site 969
+GEO-000970,LG-000970,11.797679,78.113182,Tamil Nadu,Ramanathapuram,Kalyanpur (Ramanathapuram),Ramanathapuram Infrastructure Site 970
+GEO-000971,LG-000971,26.090866,79.809778,Uttar Pradesh,Ghaziabad,Anandpur (Ghaziabad),Ghaziabad Infrastructure Site 971
+GEO-000972,LG-000972,29.485967,74.915463,Rajasthan,Dausa,Kalyanpur (Dausa),Dausa Infrastructure Site 972
+GEO-000973,LG-000973,31.663753,76.337682,Punjab,Sahibzada Ajit Singh Nagar,Devpur (Sahibzada Ajit Singh Nagar),Sahibzada Ajit Singh Nagar Infrastructure Site 973
+GEO-000974,LG-000974,22.550179,84.913744,Jharkhand,Giridih,Nandpur (Giridih),Giridih Infrastructure Site 974
+GEO-000975,LG-000975,27.385252,85.316841,Bihar,Bhagalpur,Kishanpur (Bhagalpur),Bhagalpur Infrastructure Site 975
+GEO-000976,LG-000976,24.901712,84.514346,Uttar Pradesh,Meerut,Kalyanpur (Meerut),Meerut Infrastructure Site 976
+GEO-000977,LG-000977,24.043567,79.513821,Uttar Pradesh,Mirzapur,Kalyanpur (Mirzapur),Mirzapur Infrastructure Site 977
+GEO-000978,LG-000978,9.818431,76.519507,Tamil Nadu,Chengalpattu,Govindpur (Chengalpattu),Chengalpattu Infrastructure Site 978
+GEO-000979,LG-000979,22.390902,80.237432,Madhya Pradesh,Narmadapuram,Sultanpur (Narmadapuram),Narmadapuram Infrastructure Site 979
+GEO-000980,LG-000980,23.511417,78.984769,Madhya Pradesh,Khandwa,Fatehpur (Khandwa),Khandwa Infrastructure Site 980
+GEO-000981,LG-000981,27.907658,82.581394,Uttar Pradesh,Agra,Nandpur (Agra),Agra Infrastructure Site 981
+GEO-000982,LG-000982,24.971146,80.412897,Uttar Pradesh,Meerut,Chandpur (Meerut),Meerut Infrastructure Site 982
+GEO-000983,LG-000983,24.830993,81.977074,Uttar Pradesh,Mainpuri,Kishanpur (Mainpuri),Mainpuri Infrastructure Site 983
+GEO-000984,LG-000984,28.63145,77.710429,Uttar Pradesh,Bijnor,Devpur (Bijnor),Bijnor Infrastructure Site 984
+GEO-000985,LG-000985,11.521287,77.149176,Tamil Nadu,Erode,Gopalpur (Erode),Erode Infrastructure Site 985
+GEO-000986,LG-000986,24.810661,91.053385,Assam,Udalguri,Bhavanipur (Udalguri),Udalguri Infrastructure Site 986
+GEO-000987,LG-000987,20.287825,83.701599,Chhattisgarh,Mahasamund,Sultanpur (Mahasamund),Mahasamund Infrastructure Site 987
+GEO-000988,LG-000988,26.9187,83.038339,Uttar Pradesh,Mirzapur,Fatehpur (Mirzapur),Mirzapur Infrastructure Site 988
+GEO-000989,LG-000989,28.007496,74.390416,Rajasthan,Beawar,Madhavpur (Beawar),Beawar Infrastructure Site 989
+GEO-000990,LG-000990,16.310293,79.23419,Andhra Pradesh,NTR,Haripur (NTR),NTR Infrastructure Site 990
+GEO-000991,LG-000991,24.628539,85.876467,Bihar,Gopalganj,Kishanpur (Gopalganj),Gopalganj Infrastructure Site 991
+GEO-000992,LG-000992,8.166953,79.768311,Tamil Nadu,Sivaganga,Gopalpur (Sivaganga),Sivaganga Infrastructure Site 992
+GEO-000993,LG-000993,12.69856,78.685668,Andhra Pradesh,East Godavari,Haripur (East Godavari),East Godavari Infrastructure Site 993
+GEO-000994,LG-000994,19.541245,83.468665,Chhattisgarh,Mahasamund,Madhavpur (Mahasamund),Mahasamund Infrastructure Site 994
+GEO-000995,LG-000995,29.412012,75.176615,Rajasthan,Bikaner,Nandpur (Bikaner),Bikaner Infrastructure Site 995
+GEO-000996,LG-000996,19.353738,80.680425,Telangana,Jayashankar Bhupalpally,Anandpur (Jayashankar Bhupalpally),Jayashankar Bhupalpally Infrastructure Site 996
+GEO-000997,LG-000997,8.444742,76.477446,Tamil Nadu,Nagapattinam,Kalyanpur (Nagapattinam),Nagapattinam Infrastructure Site 997
+GEO-000998,LG-000998,29.69299,76.957987,Haryana,Kurukshetra,Kalyanpur (Kurukshetra),Kurukshetra Infrastructure Site 998
+GEO-000999,LG-000999,19.431484,80.315713,Telangana,Rajanna Sircilla,Kalyanpur (Rajanna Sircilla),Rajanna Sircilla Infrastructure Site 999
+GEO-001000,LG-001000,22.881865,87.343124,Jharkhand,Chatra,Kishanpur (Chatra),Chatra Infrastructure Site 1000
+GEO-001001,LG-001001,24.600113,75.90201,Madhya Pradesh,Dewas,Govindpur (Dewas),Dewas Infrastructure Site 1001
+GEO-001002,LG-001002,24.154165,82.311477,Uttar Pradesh,Azamgarh,Haripur (Azamgarh),Azamgarh Infrastructure Site 1002
+GEO-001003,LG-001003,13.050068,79.077275,Tamil Nadu,Madurai,Govindpur (Madurai),Madurai Infrastructure Site 1003
+GEO-001004,LG-001004,28.082214,80.601335,Uttar Pradesh,Jhansi,Rampur (Jhansi),Jhansi Infrastructure Site 1004
+GEO-001005,LG-001005,12.58182,79.603642,Tamil Nadu,Pudukkottai,Kishanpur (Pudukkottai),Pudukkottai Infrastructure Site 1005
+GEO-001006,LG-001006,29.835247,69.606738,Rajasthan,Jalore,Rampur (Jalore),Jalore Infrastructure Site 1006
+GEO-001007,LG-001007,25.910789,85.658721,Bihar,Bhagalpur,Chandpur (Bhagalpur),Bhagalpur Infrastructure Site 1007
+GEO-001008,LG-001008,22.182979,76.362755,Madhya Pradesh,Panna,Chandpur (Panna),Panna Infrastructure Site 1008
+GEO-001009,LG-001009,14.109758,77.271461,Karnataka,Chitradurga,Nandpur (Chitradurga),Chitradurga Infrastructure Site 1009
+GEO-001010,LG-001010,23.917475,83.443152,Jharkhand,Hazaribagh,Gopalpur (Hazaribagh),Hazaribagh Infrastructure Site 1010
+GEO-001011,LG-001011,24.178416,89.463453,West Bengal,Kalimpong,Nandpur (Kalimpong),Kalimpong Infrastructure Site 1011
+GEO-001012,LG-001012,26.865191,77.000975,Madhya Pradesh,Shivpuri,Madhavpur (Shivpuri),Shivpuri Infrastructure Site 1012
+GEO-001013,LG-001013,29.246685,78.650141,Uttar Pradesh,Mau,Kalyanpur (Mau),Mau Infrastructure Site 1013
+GEO-001014,LG-001014,10.84321,79.301973,Tamil Nadu,Ariyalur,Kalyanpur (Ariyalur),Ariyalur Infrastructure Site 1014
+GEO-001015,LG-001015,29.755222,78.874457,Uttar Pradesh,Deoria,Shivpur (Deoria),Deoria Infrastructure Site 1015
+GEO-001016,LG-001016,19.179716,86.884552,Odisha,Kendujhar,Govindpur (Kendujhar),Kendujhar Infrastructure Site 1016
+GEO-001017,LG-001017,24.383873,70.9463,Rajasthan,Jodhpur Rural,Haripur (Jodhpur Rural),Jodhpur Rural Infrastructure Site 1017
+GEO-001018,LG-001018,22.05241,87.315601,Odisha,Deogarh,Nandpur (Deogarh),Deogarh Infrastructure Site 1018
+GEO-001019,LG-001019,20.412059,69.725397,Gujarat,Junagadh,Gopalpur (Junagadh),Junagadh Infrastructure Site 1019
+GEO-001020,LG-001020,18.920231,80.707623,Telangana,Yadadri Bhuvanagiri,Govindpur (Yadadri Bhuvanagiri),Yadadri Bhuvanagiri Infrastructure Site 1020
+GEO-001021,LG-001021,12.255347,77.542216,Karnataka,Ramanagara,Sultanpur (Ramanagara),Ramanagara Infrastructure Site 1021
+GEO-001022,LG-001022,27.003636,95.17303,Arunachal Pradesh,East Kameng,Chandpur (East Kameng),East Kameng Infrastructure Site 1022
+GEO-001023,LG-001023,11.342409,76.369898,Tamil Nadu,Kanyakumari,Shivpur (Kanyakumari),Kanyakumari Infrastructure Site 1023
+GEO-001024,LG-001024,22.959928,70.108776,Gujarat,Ahmedabad,Kishanpur (Ahmedabad),Ahmedabad Infrastructure Site 1024
+GEO-001025,LG-001025,24.544462,81.818639,Uttar Pradesh,Shravasti,Govindpur (Shravasti),Shravasti Infrastructure Site 1025
+GEO-001026,LG-001026,29.799741,80.961853,Uttar Pradesh,Sultanpur,Kishanpur (Sultanpur),Sultanpur Infrastructure Site 1026
+GEO-001027,LG-001027,27.201249,81.127301,Uttar Pradesh,Prayagraj,Govindpur (Prayagraj),Prayagraj Infrastructure Site 1027
+GEO-001028,LG-001028,25.514247,77.57325,Madhya Pradesh,Raisen,Sultanpur (Raisen),Raisen Infrastructure Site 1028
+GEO-001029,LG-001029,13.353413,79.392565,Andhra Pradesh,Tirupati,Haripur (Tirupati),Tirupati Infrastructure Site 1029
+GEO-001030,LG-001030,29.428153,84.542131,Uttar Pradesh,Sambhal,Anandpur (Sambhal),Sambhal Infrastructure Site 1030
+GEO-001031,LG-001031,20.061752,76.09441,Maharashtra,Gadchiroli,Kalyanpur (Gadchiroli),Gadchiroli Infrastructure Site 1031
+GEO-001032,LG-001032,22.626561,89.084838,West Bengal,Bankura,Devpur (Bankura),Bankura Infrastructure Site 1032
+GEO-001033,LG-001033,31.175613,78.702993,Uttarakhand,Pithoragarh,Chandpur (Pithoragarh),Pithoragarh Infrastructure Site 1033
+GEO-001034,LG-001034,25.54561,80.598734,Uttar Pradesh,Kannauj,Shivpur (Kannauj),Kannauj Infrastructure Site 1034
+GEO-001035,LG-001035,11.378209,75.698903,Kerala,Wayanad,Anandpur (Wayanad),Wayanad Infrastructure Site 1035
+GEO-001036,LG-001036,22.749749,77.024143,Madhya Pradesh,Seoni,Nandpur (Seoni),Seoni Infrastructure Site 1036
+GEO-001037,LG-001037,27.973486,77.348953,Uttar Pradesh,Kannauj,Kishanpur (Kannauj),Kannauj Infrastructure Site 1037
+GEO-001038,LG-001038,23.38471,75.02285,Madhya Pradesh,Chhatarpur,Chandpur (Chhatarpur),Chhatarpur Infrastructure Site 1038
+GEO-001039,LG-001039,23.930672,82.734258,Chhattisgarh,Rajnandgaon,Madhavpur (Rajnandgaon),Rajnandgaon Infrastructure Site 1039
+GEO-001040,LG-001040,25.597226,75.890955,Rajasthan,Dholpur,Bhavanipur (Dholpur),Dholpur Infrastructure Site 1040
+GEO-001041,LG-001041,28.806713,83.424463,Uttar Pradesh,Shamli,Haripur (Shamli),Shamli Infrastructure Site 1041
+GEO-001042,LG-001042,16.873316,79.010498,Telangana,Khammam,Kishanpur (Khammam),Khammam Infrastructure Site 1042
+GEO-001043,LG-001043,27.835762,77.942238,Rajasthan,Jalore,Shivpur (Jalore),Jalore Infrastructure Site 1043
+GEO-001044,LG-001044,25.698677,86.598613,Bihar,Darbhanga,Kalyanpur (Darbhanga),Darbhanga Infrastructure Site 1044
+GEO-001045,LG-001045,28.018201,76.254559,Rajasthan,Kekri,Shivpur (Kekri),Kekri Infrastructure Site 1045
+GEO-001046,LG-001046,34.449192,77.693727,Jammu and Kashmir,Ganderbal,Gopalpur (Ganderbal),Ganderbal Infrastructure Site 1046
+GEO-001047,LG-001047,23.616795,82.301587,Chhattisgarh,Baloda Bazar,Haripur (Baloda Bazar),Baloda Bazar Infrastructure Site 1047
+GEO-001048,LG-001048,30.225334,75.39918,Punjab,Faridkot,Kishanpur (Faridkot),Faridkot Infrastructure Site 1048
+GEO-001049,LG-001049,26.799533,78.936788,Uttar Pradesh,Lucknow,Shivpur (Lucknow),Lucknow Infrastructure Site 1049
+GEO-001050,LG-001050,27.615612,82.26557,Uttar Pradesh,Auraiya,Madhavpur (Auraiya),Auraiya Infrastructure Site 1050
+GEO-001051,LG-001051,18.160918,79.666251,Telangana,Kumuram Bheem,Shivpur (Kumuram Bheem),Kumuram Bheem Infrastructure Site 1051
+GEO-001052,LG-001052,17.81836,80.482661,Telangana,Medak,Devpur (Medak),Medak Infrastructure Site 1052
+GEO-001053,LG-001053,26.145029,80.983555,Madhya Pradesh,Morena,Anandpur (Morena),Morena Infrastructure Site 1053
+GEO-001054,LG-001054,11.039885,75.211958,Kerala,Thiruvananthapuram,Nandpur (Thiruvananthapuram),Thiruvananthapuram Infrastructure Site 1054
+GEO-001055,LG-001055,29.42117,80.803735,Uttar Pradesh,Firozabad,Madhavpur (Firozabad),Firozabad Infrastructure Site 1055
+GEO-001056,LG-001056,26.104005,83.713716,Uttar Pradesh,Firozabad,Madhavpur (Firozabad),Firozabad Infrastructure Site 1056
+GEO-001057,LG-001057,30.327868,82.201053,Uttar Pradesh,Kheri,Madhavpur (Kheri),Kheri Infrastructure Site 1057
+GEO-001058,LG-001058,28.369181,79.657465,Uttar Pradesh,Prayagraj,Kalyanpur (Prayagraj),Prayagraj Infrastructure Site 1058
+GEO-001059,LG-001059,21.714826,85.894776,Odisha,Puri,Anandpur (Puri),Puri Infrastructure Site 1059
+GEO-001060,LG-001060,17.903815,84.568162,Odisha,Kendrapara,Devpur (Kendrapara),Kendrapara Infrastructure Site 1060
+GEO-001061,LG-001061,26.224551,78.554014,Uttar Pradesh,Etah,Fatehpur (Etah),Etah Infrastructure Site 1061
+GEO-001062,LG-001062,9.670182,79.105422,Tamil Nadu,Madurai,Govindpur (Madurai),Madurai Infrastructure Site 1062
+GEO-001063,LG-001063,18.228523,77.954376,Telangana,Medak,Gopalpur (Medak),Medak Infrastructure Site 1063
+GEO-001064,LG-001064,29.12329,83.270736,Uttar Pradesh,Deoria,Haripur (Deoria),Deoria Infrastructure Site 1064
+GEO-001065,LG-001065,29.759785,81.088903,Uttar Pradesh,Mathura,Chandpur (Mathura),Mathura Infrastructure Site 1065
+GEO-001066,LG-001066,23.686675,77.775168,Madhya Pradesh,Harda,Chandpur (Harda),Harda Infrastructure Site 1066
+GEO-001067,LG-001067,22.466302,76.260572,Madhya Pradesh,Rewa,Bhavanipur (Rewa),Rewa Infrastructure Site 1067
+GEO-001068,LG-001068,26.381005,86.118898,Bihar,Bhojpur,Rampur (Bhojpur),Bhojpur Infrastructure Site 1068
+GEO-001069,LG-001069,27.179082,71.869626,Rajasthan,Karauli,Gopalpur (Karauli),Karauli Infrastructure Site 1069
+GEO-001070,LG-001070,29.461397,94.20948,Arunachal Pradesh,Shi Yomi,Bhavanipur (Shi Yomi),Shi Yomi Infrastructure Site 1070
+GEO-001071,LG-001071,24.014648,93.696478,Manipur,Noney,Rampur (Noney),Noney Infrastructure Site 1071
+GEO-001072,LG-001072,24.020396,73.266256,Rajasthan,Barmer,Nandpur (Barmer),Barmer Infrastructure Site 1072
+GEO-001073,LG-001073,17.808955,74.410266,Karnataka,Vijayanagara,Rampur (Vijayanagara),Vijayanagara Infrastructure Site 1073
+GEO-001074,LG-001074,27.069675,75.243062,Rajasthan,Sawai Madhopur,Bhavanipur (Sawai Madhopur),Sawai Madhopur Infrastructure Site 1074
+GEO-001075,LG-001075,26.698627,91.62532,Arunachal Pradesh,Longding,Rampur (Longding),Longding Infrastructure Site 1075
+GEO-001076,LG-001076,28.177089,92.509572,Arunachal Pradesh,Tawang,Rampur (Tawang),Tawang Infrastructure Site 1076
+GEO-001077,LG-001077,29.360679,80.436641,Uttar Pradesh,Gonda,Bhavanipur (Gonda),Gonda Infrastructure Site 1077
+GEO-001078,LG-001078,21.492853,75.468027,Madhya Pradesh,Narsinghpur,Shivpur (Narsinghpur),Narsinghpur Infrastructure Site 1078
+GEO-001079,LG-001079,27.356302,84.206888,Bihar,Samastipur,Rampur (Samastipur),Samastipur Infrastructure Site 1079
+GEO-001080,LG-001080,30.136417,74.662831,Punjab,Hoshiarpur,Govindpur (Hoshiarpur),Hoshiarpur Infrastructure Site 1080
+GEO-001081,LG-001081,27.135074,78.750281,Uttar Pradesh,Bareilly,Devpur (Bareilly),Bareilly Infrastructure Site 1081
+GEO-001082,LG-001082,22.161076,69.26156,Gujarat,Valsad,Nandpur (Valsad),Valsad Infrastructure Site 1082
+GEO-001083,LG-001083,27.322522,73.158554,Rajasthan,Phalodi,Fatehpur (Phalodi),Phalodi Infrastructure Site 1083
+GEO-001084,LG-001084,25.955675,93.644753,Assam,West Karbi Anglong,Govindpur (West Karbi Anglong),West Karbi Anglong Infrastructure Site 1084
+GEO-001085,LG-001085,25.28603,93.891708,Assam,Charaideo,Kishanpur (Charaideo),Charaideo Infrastructure Site 1085
+GEO-001086,LG-001086,32.205206,74.103646,Punjab,Shahid Bhagat Singh Nagar,Gopalpur (Shahid Bhagat Singh Nagar),Shahid Bhagat Singh Nagar Infrastructure Site 1086
+GEO-001087,LG-001087,27.560672,72.461527,Rajasthan,Baran,Gopalpur (Baran),Baran Infrastructure Site 1087
+GEO-001088,LG-001088,11.709297,77.153454,Tamil Nadu,Cuddalore,Rampur (Cuddalore),Cuddalore Infrastructure Site 1088
+GEO-001089,LG-001089,27.059197,79.772064,Uttar Pradesh,Agra,Anandpur (Agra),Agra Infrastructure Site 1089
+GEO-001090,LG-001090,23.276407,87.875405,West Bengal,Murshidabad,Shivpur (Murshidabad),Murshidabad Infrastructure Site 1090
+GEO-001091,LG-001091,32.032062,74.818418,Punjab,Amritsar,Shivpur (Amritsar),Amritsar Infrastructure Site 1091
+GEO-001092,LG-001092,26.14513,74.515754,Madhya Pradesh,Damoh,Fatehpur (Damoh),Damoh Infrastructure Site 1092
+GEO-001093,LG-001093,28.206469,77.506926,Uttar Pradesh,Deoria,Bhavanipur (Deoria),Deoria Infrastructure Site 1093
+GEO-001094,LG-001094,12.336044,78.214687,Karnataka,Hassan,Nandpur (Hassan),Hassan Infrastructure Site 1094
+GEO-001095,LG-001095,20.8185,75.203605,Maharashtra,Nagpur,Gopalpur (Nagpur),Nagpur Infrastructure Site 1095
+GEO-001096,LG-001096,26.559732,94.038498,Assam,Sivasagar,Madhavpur (Sivasagar),Sivasagar Infrastructure Site 1096
+GEO-001097,LG-001097,27.271624,92.510098,Arunachal Pradesh,East Siang,Chandpur (East Siang),East Siang Infrastructure Site 1097
+GEO-001098,LG-001098,28.788452,80.929252,Uttarakhand,Nainital,Rampur (Nainital),Nainital Infrastructure Site 1098
+GEO-001099,LG-001099,30.181979,79.989844,Uttar Pradesh,Hardoi,Govindpur (Hardoi),Hardoi Infrastructure Site 1099
+GEO-001100,LG-001100,17.726949,78.12563,Telangana,Khammam,Sultanpur (Khammam),Khammam Infrastructure Site 1100
+GEO-001101,LG-001101,23.872997,81.839879,Madhya Pradesh,Mauganj,Haripur (Mauganj),Mauganj Infrastructure Site 1101
+GEO-001102,LG-001102,22.608864,81.903233,Chhattisgarh,Sukma,Nandpur (Sukma),Sukma Infrastructure Site 1102
+GEO-001103,LG-001103,18.366366,82.816023,Chhattisgarh,Kanker,Kalyanpur (Kanker),Kanker Infrastructure Site 1103
+GEO-001104,LG-001104,22.370945,86.408366,Jharkhand,Palamu,Govindpur (Palamu),Palamu Infrastructure Site 1104
+GEO-001105,LG-001105,30.18656,74.653867,Rajasthan,Bundi,Haripur (Bundi),Bundi Infrastructure Site 1105
+GEO-001106,LG-001106,17.318297,78.160517,Telangana,Sangareddy,Anandpur (Sangareddy),Sangareddy Infrastructure Site 1106
+GEO-001107,LG-001107,8.852449,78.05285,Tamil Nadu,Ranipet,Devpur (Ranipet),Ranipet Infrastructure Site 1107
+GEO-001108,LG-001108,11.920262,77.340564,Karnataka,Raichur,Devpur (Raichur),Raichur Infrastructure Site 1108
+GEO-001109,LG-001109,27.313307,77.153273,Uttar Pradesh,Unnao,Nandpur (Unnao),Unnao Infrastructure Site 1109
+GEO-001110,LG-001110,28.929549,83.464612,Uttar Pradesh,Amroha,Govindpur (Amroha),Amroha Infrastructure Site 1110
+GEO-001111,LG-001111,25.549639,71.831859,Rajasthan,Churu,Fatehpur (Churu),Churu Infrastructure Site 1111
+GEO-001112,LG-001112,24.44105,73.419081,Rajasthan,Dudu,Kishanpur (Dudu),Dudu Infrastructure Site 1112
+GEO-001113,LG-001113,17.350448,72.87492,Maharashtra,Beed,Govindpur (Beed),Beed Infrastructure Site 1113
+GEO-001114,LG-001114,23.530409,87.404866,Jharkhand,Latehar,Chandpur (Latehar),Latehar Infrastructure Site 1114
+GEO-001115,LG-001115,24.066533,80.627796,Madhya Pradesh,Mandsaur,Shivpur (Mandsaur),Mandsaur Infrastructure Site 1115
+GEO-001116,LG-001116,24.78175,80.554227,Uttar Pradesh,Ballia,Rampur (Ballia),Ballia Infrastructure Site 1116
+GEO-001117,LG-001117,15.957362,84.419366,Andhra Pradesh,Srikakulam,Haripur (Srikakulam),Srikakulam Infrastructure Site 1117
+GEO-001118,LG-001118,25.379469,84.7114,Bihar,Muzaffarpur,Bhavanipur (Muzaffarpur),Muzaffarpur Infrastructure Site 1118
+GEO-001119,LG-001119,24.671832,92.980706,Assam,Baksa,Madhavpur (Baksa),Baksa Infrastructure Site 1119
+GEO-001120,LG-001120,26.552093,95.717152,Arunachal Pradesh,West Kameng,Kishanpur (West Kameng),West Kameng Infrastructure Site 1120
+GEO-001121,LG-001121,24.3075,82.151318,Uttar Pradesh,Kanpur Dehat,Bhavanipur (Kanpur Dehat),Kanpur Dehat Infrastructure Site 1121
+GEO-001122,LG-001122,19.27495,80.34686,Telangana,Medchal-Malkajgiri,Kalyanpur (Medchal-Malkajgiri),Medchal-Malkajgiri Infrastructure Site 1122
+GEO-001123,LG-001123,22.288735,92.828441,Mizoram,Khawzawl,Devpur (Khawzawl),Khawzawl Infrastructure Site 1123
+GEO-001124,LG-001124,26.533269,87.086391,Bihar,Darbhanga,Shivpur (Darbhanga),Darbhanga Infrastructure Site 1124
+GEO-001125,LG-001125,22.18728,83.399912,Odisha,Cuttack,Devpur (Cuttack),Cuttack Infrastructure Site 1125
+GEO-001126,LG-001126,22.965848,93.289641,Mizoram,Champhai,Nandpur (Champhai),Champhai Infrastructure Site 1126
+GEO-001127,LG-001127,21.165128,82.885912,Chhattisgarh,Sukma,Kalyanpur (Sukma),Sukma Infrastructure Site 1127
+GEO-001128,LG-001128,16.911339,74.758167,Maharashtra,Kolhapur,Sultanpur (Kolhapur),Kolhapur Infrastructure Site 1128
+GEO-001129,LG-001129,21.560498,79.924899,Madhya Pradesh,Singrauli,Devpur (Singrauli),Singrauli Infrastructure Site 1129
+GEO-001130,LG-001130,29.706663,76.871596,Rajasthan,Kekri,Chandpur (Kekri),Kekri Infrastructure Site 1130
+GEO-001131,LG-001131,13.092158,79.879948,Tamil Nadu,Chennai,Anandpur (Chennai),Chennai Infrastructure Site 1131
+GEO-001132,LG-001132,26.825432,91.608116,Assam,Baksa,Rampur (Baksa),Baksa Infrastructure Site 1132
+GEO-001133,LG-001133,26.48685,78.565294,Madhya Pradesh,Ratlam,Sultanpur (Ratlam),Ratlam Infrastructure Site 1133
+GEO-001134,LG-001134,24.807345,71.903913,Rajasthan,Salumbar,Nandpur (Salumbar),Salumbar Infrastructure Site 1134
+GEO-001135,LG-001135,21.512609,86.943043,Odisha,Kendujhar,Shivpur (Kendujhar),Kendujhar Infrastructure Site 1135
+GEO-001136,LG-001136,27.232962,84.129452,Uttar Pradesh,Kanpur Nagar,Bhavanipur (Kanpur Nagar),Kanpur Nagar Infrastructure Site 1136
+GEO-001137,LG-001137,8.456999,79.486677,Tamil Nadu,Pudukkottai,Haripur (Pudukkottai),Pudukkottai Infrastructure Site 1137
+GEO-001138,LG-001138,18.029524,81.134348,Chhattisgarh,Mohla-Manpur-Ambagarh Chowki,Govindpur (Mohla-Manpur-Ambagarh Chowki),Mohla-Manpur-Ambagarh Chowki Infrastructure Site 1138
+GEO-001139,LG-001139,24.878217,90.664037,Assam,Karimganj,Nandpur (Karimganj),Karimganj Infrastructure Site 1139
+GEO-001140,LG-001140,8.667605,77.51741,Tamil Nadu,Kallakurichi,Kalyanpur (Kallakurichi),Kallakurichi Infrastructure Site 1140
+GEO-001141,LG-001141,28.38804,97.04153,Arunachal Pradesh,Kra Daadi,Fatehpur (Kra Daadi),Kra Daadi Infrastructure Site 1141
+GEO-001142,LG-001142,24.672169,69.850175,Rajasthan,Pratapgarh,Kalyanpur (Pratapgarh),Pratapgarh Infrastructure Site 1142
+GEO-001143,LG-001143,28.226881,83.900514,Uttar Pradesh,Shravasti,Haripur (Shravasti),Shravasti Infrastructure Site 1143
+GEO-001144,LG-001144,27.778864,71.931813,Rajasthan,Jodhpur,Rampur (Jodhpur),Jodhpur Infrastructure Site 1144
+GEO-001145,LG-001145,21.134046,77.470916,Madhya Pradesh,Shajapur,Kalyanpur (Shajapur),Shajapur Infrastructure Site 1145
+GEO-001146,LG-001146,12.348313,77.442663,Tamil Nadu,Kallakurichi,Kalyanpur (Kallakurichi),Kallakurichi Infrastructure Site 1146
+GEO-001147,LG-001147,18.095175,72.937479,Maharashtra,Wardha,Shivpur (Wardha),Wardha Infrastructure Site 1147
+GEO-001148,LG-001148,27.077047,78.120139,Rajasthan,Bhilwara,Rampur (Bhilwara),Bhilwara Infrastructure Site 1148
+GEO-001149,LG-001149,28.088616,82.574264,Uttar Pradesh,Siddharthnagar,Gopalpur (Siddharthnagar),Siddharthnagar Infrastructure Site 1149
+GEO-001150,LG-001150,25.160208,80.768437,Madhya Pradesh,Shahdol,Kishanpur (Shahdol),Shahdol Infrastructure Site 1150
+GEO-001151,LG-001151,29.720766,80.975866,Uttarakhand,Chamoli,Shivpur (Chamoli),Chamoli Infrastructure Site 1151
+GEO-001152,LG-001152,27.444625,83.686899,Uttar Pradesh,Muzaffarnagar,Gopalpur (Muzaffarnagar),Muzaffarnagar Infrastructure Site 1152
+GEO-001153,LG-001153,23.285569,74.253995,Gujarat,Junagadh,Haripur (Junagadh),Junagadh Infrastructure Site 1153
+GEO-001154,LG-001154,27.026527,92.352802,Assam,Karbi Anglong,Shivpur (Karbi Anglong),Karbi Anglong Infrastructure Site 1154
+GEO-001155,LG-001155,26.727072,84.707322,Bihar,Gopalganj,Sultanpur (Gopalganj),Gopalganj Infrastructure Site 1155
+GEO-001156,LG-001156,16.803084,79.264981,Andhra Pradesh,West Godavari,Devpur (West Godavari),West Godavari Infrastructure Site 1156
+GEO-001157,LG-001157,26.864904,85.920097,Bihar,Bhojpur,Kalyanpur (Bhojpur),Bhojpur Infrastructure Site 1157
+GEO-001158,LG-001158,10.516619,80.002141,Tamil Nadu,Virudhunagar,Devpur (Virudhunagar),Virudhunagar Infrastructure Site 1158
+GEO-001159,LG-001159,25.242838,93.72432,Assam,Kokrajhar,Nandpur (Kokrajhar),Kokrajhar Infrastructure Site 1159
+GEO-001160,LG-001160,23.46661,74.353868,Madhya Pradesh,Chhindwara,Haripur (Chhindwara),Chhindwara Infrastructure Site 1160
+GEO-001161,LG-001161,27.894128,77.461074,Uttar Pradesh,Jaunpur,Gopalpur (Jaunpur),Jaunpur Infrastructure Site 1161
+GEO-001162,LG-001162,29.379797,94.198416,Arunachal Pradesh,Dibang Valley,Anandpur (Dibang Valley),Dibang Valley Infrastructure Site 1162
+GEO-001163,LG-001163,26.674634,79.501017,Uttar Pradesh,Gautam Buddha Nagar,Devpur (Gautam Buddha Nagar),Gautam Buddha Nagar Infrastructure Site 1163
+GEO-001164,LG-001164,15.12112,74.408738,Karnataka,Shivamogga,Shivpur (Shivamogga),Shivamogga Infrastructure Site 1164
+GEO-001165,LG-001165,27.399191,86.80729,Bihar,Nalanda,Anandpur (Nalanda),Nalanda Infrastructure Site 1165
+GEO-001166,LG-001166,15.924377,78.739973,Telangana,Khammam,Gopalpur (Khammam),Khammam Infrastructure Site 1166
+GEO-001167,LG-001167,27.079392,74.344928,Rajasthan,Shahpura,Kalyanpur (Shahpura),Shahpura Infrastructure Site 1167
+GEO-001168,LG-001168,26.959157,82.334239,Uttar Pradesh,Lucknow,Gopalpur (Lucknow),Lucknow Infrastructure Site 1168
+GEO-001169,LG-001169,24.829909,77.912036,Uttar Pradesh,Amethi,Kalyanpur (Amethi),Amethi Infrastructure Site 1169
+GEO-001170,LG-001170,26.976902,82.782763,Uttar Pradesh,Farrukhabad,Govindpur (Farrukhabad),Farrukhabad Infrastructure Site 1170
+GEO-001171,LG-001171,15.759323,77.472113,Karnataka,Shivamogga,Fatehpur (Shivamogga),Shivamogga Infrastructure Site 1171
+GEO-001172,LG-001172,22.131547,70.392344,Gujarat,Ahmedabad,Madhavpur (Ahmedabad),Ahmedabad Infrastructure Site 1172
+GEO-001173,LG-001173,28.084408,78.730395,Uttar Pradesh,Baghpat,Fatehpur (Baghpat),Baghpat Infrastructure Site 1173
+GEO-001174,LG-001174,25.57573,80.227762,Uttar Pradesh,Fatehpur,Rampur (Fatehpur),Fatehpur Infrastructure Site 1174
+GEO-001175,LG-001175,32.747554,74.405991,Jammu and Kashmir,Ganderbal,Madhavpur (Ganderbal),Ganderbal Infrastructure Site 1175
+GEO-001176,LG-001176,22.565814,77.877195,Madhya Pradesh,Pandhurna,Fatehpur (Pandhurna),Pandhurna Infrastructure Site 1176
+GEO-001177,LG-001177,21.711431,78.691457,Madhya Pradesh,Rajgarh,Govindpur (Rajgarh),Rajgarh Infrastructure Site 1177
+GEO-001178,LG-001178,27.940769,81.761193,Uttar Pradesh,Bhadohi,Devpur (Bhadohi),Bhadohi Infrastructure Site 1178
+GEO-001179,LG-001179,24.898041,81.964551,Madhya Pradesh,Indore,Rampur (Indore),Indore Infrastructure Site 1179
+GEO-001180,LG-001180,30.00951,80.971258,Uttar Pradesh,Sant Kabir Nagar,Kishanpur (Sant Kabir Nagar),Sant Kabir Nagar Infrastructure Site 1180
+GEO-001181,LG-001181,27.898742,84.089125,Uttar Pradesh,Kanpur Nagar,Haripur (Kanpur Nagar),Kanpur Nagar Infrastructure Site 1181
+GEO-001182,LG-001182,20.093685,73.956139,Maharashtra,Gondia,Devpur (Gondia),Gondia Infrastructure Site 1182
+GEO-001183,LG-001183,29.402144,79.512653,Uttar Pradesh,Baghpat,Devpur (Baghpat),Baghpat Infrastructure Site 1183
+GEO-001184,LG-001184,26.541176,80.379725,Uttar Pradesh,Bahraich,Haripur (Bahraich),Bahraich Infrastructure Site 1184
+GEO-001185,LG-001185,27.053265,87.974243,Bihar,Jamui,Madhavpur (Jamui),Jamui Infrastructure Site 1185
+GEO-001186,LG-001186,29.300675,81.217202,Uttar Pradesh,Moradabad,Haripur (Moradabad),Moradabad Infrastructure Site 1186
+GEO-001187,LG-001187,18.098491,87.477979,Odisha,Koraput,Chandpur (Koraput),Koraput Infrastructure Site 1187
+GEO-001188,LG-001188,29.833177,77.297285,Uttar Pradesh,Gorakhpur,Madhavpur (Gorakhpur),Gorakhpur Infrastructure Site 1188
+GEO-001189,LG-001189,22.903133,82.729929,Madhya Pradesh,Chhindwara,Sultanpur (Chhindwara),Chhindwara Infrastructure Site 1189
+GEO-001190,LG-001190,25.531096,77.778164,Uttar Pradesh,Meerut,Haripur (Meerut),Meerut Infrastructure Site 1190
+GEO-001191,LG-001191,25.696267,80.175329,Madhya Pradesh,Shajapur,Nandpur (Shajapur),Shajapur Infrastructure Site 1191
+GEO-001192,LG-001192,13.517796,80.555369,Andhra Pradesh,Palnadu,Chandpur (Palnadu),Palnadu Infrastructure Site 1192
+GEO-001193,LG-001193,27.375556,81.072429,Uttar Pradesh,Muzaffarnagar,Sultanpur (Muzaffarnagar),Muzaffarnagar Infrastructure Site 1193
+GEO-001194,LG-001194,24.553239,85.334183,Bihar,Begusarai,Shivpur (Begusarai),Begusarai Infrastructure Site 1194
+GEO-001195,LG-001195,25.702588,74.500188,Madhya Pradesh,Chhindwara,Bhavanipur (Chhindwara),Chhindwara Infrastructure Site 1195
+GEO-001196,LG-001196,30.1435,83.806135,Uttar Pradesh,Sonbhadra,Devpur (Sonbhadra),Sonbhadra Infrastructure Site 1196
+GEO-001197,LG-001197,27.878801,80.461407,Uttar Pradesh,Sonbhadra,Madhavpur (Sonbhadra),Sonbhadra Infrastructure Site 1197
+GEO-001198,LG-001198,23.437397,75.242162,Rajasthan,Jhunjhunu,Govindpur (Jhunjhunu),Jhunjhunu Infrastructure Site 1198
+GEO-001199,LG-001199,10.472338,76.938911,Tamil Nadu,Ariyalur,Devpur (Ariyalur),Ariyalur Infrastructure Site 1199
+GEO-001200,LG-001200,19.6621,77.677773,Maharashtra,Raigad,Bhavanipur (Raigad),Raigad Infrastructure Site 1200
