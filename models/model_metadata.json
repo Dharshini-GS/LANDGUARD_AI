@@ -1,0 +1,11 @@
+{
+  "model_type": "RandomForestClassifier",
+  "n_samples": 1200,
+  "accuracy": 0.9167,
+  "precision": 1.0,
+  "recall": 0.8246,
+  "f1_score": 0.9038,
+  "roc_auc": 0.9357,
+  "feature_count": 34,
+  "training_date": "2026-08-26"
+}
